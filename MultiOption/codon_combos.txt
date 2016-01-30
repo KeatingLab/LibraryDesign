@@ -1,0 +1,3375 @@
+AAA 1     K 1 
+AAB 3     K 1 N 2 
+AAC 1     N 1 
+AAD 3     K 2 N 1 
+AAG 1     K 1 
+AAH 3     K 1 N 2 
+AAK 2     K 1 N 1 
+AAM 2     K 1 N 1 
+AAN 4     K 2 N 2 
+AAR 2     K 2 
+AAS 2     K 1 N 1 
+AAT 1     N 1 
+AAV 3     K 2 N 1 
+AAW 2     K 1 N 1 
+AAY 2     N 2 
+ABA 3     I 1 R 1 T 1 
+ABB 9     I 2 M 1 R 1 S 2 T 3 
+ABC 3     I 1 S 1 T 1 
+ABD 9     I 2 M 1 R 2 S 1 T 3 
+ABG 3     M 1 R 1 T 1 
+ABH 9     I 3 R 1 S 2 T 3 
+ABK 6     I 1 M 1 R 1 S 1 T 2 
+ABM 6     I 2 R 1 S 1 T 2 
+ABN 12    I 3 M 1 R 2 S 2 T 4 
+ABR 6     I 1 M 1 R 2 T 2 
+ABS 6     I 1 M 1 R 1 S 1 T 2 
+ABT 3     I 1 S 1 T 1 
+ABV 9     I 2 M 1 R 2 S 1 T 3 
+ABW 6     I 2 R 1 S 1 T 2 
+ABY 6     I 2 S 2 T 2 
+ACA 1     T 1 
+ACB 3     T 3 
+ACC 1     T 1 
+ACD 3     T 3 
+ACG 1     T 1 
+ACH 3     T 3 
+ACK 2     T 2 
+ACM 2     T 2 
+ACN 4     T 4 
+ACR 2     T 2 
+ACS 2     T 2 
+ACT 1     T 1 
+ACV 3     T 3 
+ACW 2     T 2 
+ACY 2     T 2 
+ADA 3     I 1 K 1 R 1 
+ADB 9     I 2 K 1 M 1 N 2 R 1 S 2 
+ADC 3     I 1 N 1 S 1 
+ADD 9     I 2 K 2 M 1 N 1 R 2 S 1 
+ADG 3     K 1 M 1 R 1 
+ADH 9     I 3 K 1 N 2 R 1 S 2 
+ADK 6     I 1 K 1 M 1 N 1 R 1 S 1 
+ADM 6     I 2 K 1 N 1 R 1 S 1 
+ADN 12    I 3 K 2 M 1 N 2 R 2 S 2 
+ADR 6     I 1 K 2 M 1 R 2 
+ADS 6     I 1 K 1 M 1 N 1 R 1 S 1 
+ADT 3     I 1 N 1 S 1 
+ADV 9     I 2 K 2 M 1 N 1 R 2 S 1 
+ADW 6     I 2 K 1 N 1 R 1 S 1 
+ADY 6     I 2 N 2 S 2 
+AGA 1     R 1 
+AGB 3     R 1 S 2 
+AGC 1     S 1 
+AGD 3     R 2 S 1 
+AGG 1     R 1 
+AGH 3     R 1 S 2 
+AGK 2     R 1 S 1 
+AGM 2     R 1 S 1 
+AGN 4     R 2 S 2 
+AGR 2     R 2 
+AGS 2     R 1 S 1 
+AGT 1     S 1 
+AGV 3     R 2 S 1 
+AGW 2     R 1 S 1 
+AGY 2     S 2 
+AHA 3     I 1 K 1 T 1 
+AHB 9     I 2 K 1 M 1 N 2 T 3 
+AHC 3     I 1 N 1 T 1 
+AHD 9     I 2 K 2 M 1 N 1 T 3 
+AHG 3     K 1 M 1 T 1 
+AHH 9     I 3 K 1 N 2 T 3 
+AHK 6     I 1 K 1 M 1 N 1 T 2 
+AHM 6     I 2 K 1 N 1 T 2 
+AHN 12    I 3 K 2 M 1 N 2 T 4 
+AHR 6     I 1 K 2 M 1 T 2 
+AHS 6     I 1 K 1 M 1 N 1 T 2 
+AHT 3     I 1 N 1 T 1 
+AHV 9     I 2 K 2 M 1 N 1 T 3 
+AHW 6     I 2 K 1 N 1 T 2 
+AHY 6     I 2 N 2 T 2 
+AKA 2     I 1 R 1 
+AKB 6     I 2 M 1 R 1 S 2 
+AKC 2     I 1 S 1 
+AKD 6     I 2 M 1 R 2 S 1 
+AKG 2     M 1 R 1 
+AKH 6     I 3 R 1 S 2 
+AKK 4     I 1 M 1 R 1 S 1 
+AKM 4     I 2 R 1 S 1 
+AKN 8     I 3 M 1 R 2 S 2 
+AKR 4     I 1 M 1 R 2 
+AKS 4     I 1 M 1 R 1 S 1 
+AKT 2     I 1 S 1 
+AKV 6     I 2 M 1 R 2 S 1 
+AKW 4     I 2 R 1 S 1 
+AKY 4     I 2 S 2 
+AMA 2     K 1 T 1 
+AMB 6     K 1 N 2 T 3 
+AMC 2     N 1 T 1 
+AMD 6     K 2 N 1 T 3 
+AMG 2     K 1 T 1 
+AMH 6     K 1 N 2 T 3 
+AMK 4     K 1 N 1 T 2 
+AMM 4     K 1 N 1 T 2 
+AMN 8     K 2 N 2 T 4 
+AMR 4     K 2 T 2 
+AMS 4     K 1 N 1 T 2 
+AMT 2     N 1 T 1 
+AMV 6     K 2 N 1 T 3 
+AMW 4     K 1 N 1 T 2 
+AMY 4     N 2 T 2 
+ANA 4     I 1 K 1 R 1 T 1 
+ANB 12    I 2 K 1 M 1 N 2 R 1 S 2 T 3 
+ANC 4     I 1 N 1 S 1 T 1 
+AND 12    I 2 K 2 M 1 N 1 R 2 S 1 T 3 
+ANG 4     K 1 M 1 R 1 T 1 
+ANH 12    I 3 K 1 N 2 R 1 S 2 T 3 
+ANK 8     I 1 K 1 M 1 N 1 R 1 S 1 T 2 
+ANM 8     I 2 K 1 N 1 R 1 S 1 T 2 
+ANN 16    I 3 K 2 M 1 N 2 R 2 S 2 T 4 
+ANR 8     I 1 K 2 M 1 R 2 T 2 
+ANS 8     I 1 K 1 M 1 N 1 R 1 S 1 T 2 
+ANT 4     I 1 N 1 S 1 T 1 
+ANV 12    I 2 K 2 M 1 N 1 R 2 S 1 T 3 
+ANW 8     I 2 K 1 N 1 R 1 S 1 T 2 
+ANY 8     I 2 N 2 S 2 T 2 
+ARA 2     K 1 R 1 
+ARB 6     K 1 N 2 R 1 S 2 
+ARC 2     N 1 S 1 
+ARD 6     K 2 N 1 R 2 S 1 
+ARG 2     K 1 R 1 
+ARH 6     K 1 N 2 R 1 S 2 
+ARK 4     K 1 N 1 R 1 S 1 
+ARM 4     K 1 N 1 R 1 S 1 
+ARN 8     K 2 N 2 R 2 S 2 
+ARR 4     K 2 R 2 
+ARS 4     K 1 N 1 R 1 S 1 
+ART 2     N 1 S 1 
+ARV 6     K 2 N 1 R 2 S 1 
+ARW 4     K 1 N 1 R 1 S 1 
+ARY 4     N 2 S 2 
+ASA 2     R 1 T 1 
+ASB 6     R 1 S 2 T 3 
+ASC 2     S 1 T 1 
+ASD 6     R 2 S 1 T 3 
+ASG 2     R 1 T 1 
+ASH 6     R 1 S 2 T 3 
+ASK 4     R 1 S 1 T 2 
+ASM 4     R 1 S 1 T 2 
+ASN 8     R 2 S 2 T 4 
+ASR 4     R 2 T 2 
+ASS 4     R 1 S 1 T 2 
+AST 2     S 1 T 1 
+ASV 6     R 2 S 1 T 3 
+ASW 4     R 1 S 1 T 2 
+ASY 4     S 2 T 2 
+ATA 1     I 1 
+ATB 3     I 2 M 1 
+ATC 1     I 1 
+ATD 3     I 2 M 1 
+ATG 1     M 1 
+ATH 3     I 3 
+ATK 2     I 1 M 1 
+ATM 2     I 2 
+ATN 4     I 3 M 1 
+ATR 2     I 1 M 1 
+ATS 2     I 1 M 1 
+ATT 1     I 1 
+ATV 3     I 2 M 1 
+ATW 2     I 2 
+ATY 2     I 2 
+AVA 3     K 1 R 1 T 1 
+AVB 9     K 1 N 2 R 1 S 2 T 3 
+AVC 3     N 1 S 1 T 1 
+AVD 9     K 2 N 1 R 2 S 1 T 3 
+AVG 3     K 1 R 1 T 1 
+AVH 9     K 1 N 2 R 1 S 2 T 3 
+AVK 6     K 1 N 1 R 1 S 1 T 2 
+AVM 6     K 1 N 1 R 1 S 1 T 2 
+AVN 12    K 2 N 2 R 2 S 2 T 4 
+AVR 6     K 2 R 2 T 2 
+AVS 6     K 1 N 1 R 1 S 1 T 2 
+AVT 3     N 1 S 1 T 1 
+AVV 9     K 2 N 1 R 2 S 1 T 3 
+AVW 6     K 1 N 1 R 1 S 1 T 2 
+AVY 6     N 2 S 2 T 2 
+AWA 2     I 1 K 1 
+AWB 6     I 2 K 1 M 1 N 2 
+AWC 2     I 1 N 1 
+AWD 6     I 2 K 2 M 1 N 1 
+AWG 2     K 1 M 1 
+AWH 6     I 3 K 1 N 2 
+AWK 4     I 1 K 1 M 1 N 1 
+AWM 4     I 2 K 1 N 1 
+AWN 8     I 3 K 2 M 1 N 2 
+AWR 4     I 1 K 2 M 1 
+AWS 4     I 1 K 1 M 1 N 1 
+AWT 2     I 1 N 1 
+AWV 6     I 2 K 2 M 1 N 1 
+AWW 4     I 2 K 1 N 1 
+AWY 4     I 2 N 2 
+AYA 2     I 1 T 1 
+AYB 6     I 2 M 1 T 3 
+AYC 2     I 1 T 1 
+AYD 6     I 2 M 1 T 3 
+AYG 2     M 1 T 1 
+AYH 6     I 3 T 3 
+AYK 4     I 1 M 1 T 2 
+AYM 4     I 2 T 2 
+AYN 8     I 3 M 1 T 4 
+AYR 4     I 1 M 1 T 2 
+AYS 4     I 1 M 1 T 2 
+AYT 2     I 1 T 1 
+AYV 6     I 2 M 1 T 3 
+AYW 4     I 2 T 2 
+AYY 4     I 2 T 2 
+BAA 3     E 1 Q 1 Z 1 
+BAB 9     D 2 E 1 H 2 Q 1 Y 2 Z 1 
+BAC 3     D 1 H 1 Y 1 
+BAD 9     D 1 E 2 H 1 Q 2 Y 1 Z 2 
+BAG 3     E 1 Q 1 Z 1 
+BAH 9     D 2 E 1 H 2 Q 1 Y 2 Z 1 
+BAK 6     D 1 E 1 H 1 Q 1 Y 1 Z 1 
+BAM 6     D 1 E 1 H 1 Q 1 Y 1 Z 1 
+BAN 12    D 2 E 2 H 2 Q 2 Y 2 Z 2 
+BAR 6     E 2 Q 2 Z 2 
+BAS 6     D 1 E 1 H 1 Q 1 Y 1 Z 1 
+BAT 3     D 1 H 1 Y 1 
+BAV 9     D 1 E 2 H 1 Q 2 Y 1 Z 2 
+BAW 6     D 1 E 1 H 1 Q 1 Y 1 Z 1 
+BAY 6     D 2 H 2 Y 2 
+BBA 9     A 1 G 1 L 2 P 1 R 1 S 1 V 1 Z 1 
+BBB 27    A 3 C 2 F 2 G 3 L 4 P 3 R 3 S 3 V 3 W 1 
+BBC 9     A 1 C 1 F 1 G 1 L 1 P 1 R 1 S 1 V 1 
+BBD 27    A 3 C 1 F 1 G 3 L 5 P 3 R 3 S 3 V 3 W 1 Z 1 
+BBG 9     A 1 G 1 L 2 P 1 R 1 S 1 V 1 W 1 
+BBH 27    A 3 C 2 F 2 G 3 L 4 P 3 R 3 S 3 V 3 Z 1 
+BBK 18    A 2 C 1 F 1 G 2 L 3 P 2 R 2 S 2 V 2 W 1 
+BBM 18    A 2 C 1 F 1 G 2 L 3 P 2 R 2 S 2 V 2 Z 1 
+BBN 36    A 4 C 2 F 2 G 4 L 6 P 4 R 4 S 4 V 4 W 1 Z 1 
+BBR 18    A 2 G 2 L 4 P 2 R 2 S 2 V 2 W 1 Z 1 
+BBS 18    A 2 C 1 F 1 G 2 L 3 P 2 R 2 S 2 V 2 W 1 
+BBT 9     A 1 C 1 F 1 G 1 L 1 P 1 R 1 S 1 V 1 
+BBV 27    A 3 C 1 F 1 G 3 L 5 P 3 R 3 S 3 V 3 W 1 Z 1 
+BBW 18    A 2 C 1 F 1 G 2 L 3 P 2 R 2 S 2 V 2 Z 1 
+BBY 18    A 2 C 2 F 2 G 2 L 2 P 2 R 2 S 2 V 2 
+BCA 3     A 1 P 1 S 1 
+BCB 9     A 3 P 3 S 3 
+BCC 3     A 1 P 1 S 1 
+BCD 9     A 3 P 3 S 3 
+BCG 3     A 1 P 1 S 1 
+BCH 9     A 3 P 3 S 3 
+BCK 6     A 2 P 2 S 2 
+BCM 6     A 2 P 2 S 2 
+BCN 12    A 4 P 4 S 4 
+BCR 6     A 2 P 2 S 2 
+BCS 6     A 2 P 2 S 2 
+BCT 3     A 1 P 1 S 1 
+BCV 9     A 3 P 3 S 3 
+BCW 6     A 2 P 2 S 2 
+BCY 6     A 2 P 2 S 2 
+BDA 9     E 1 G 1 L 2 Q 1 R 1 V 1 Z 2 
+BDB 27    C 2 D 2 E 1 F 2 G 3 H 2 L 4 Q 1 R 3 V 3 W 1 Y 2 Z 1 
+BDC 9     C 1 D 1 F 1 G 1 H 1 L 1 R 1 V 1 Y 1 
+BDD 27    C 1 D 1 E 2 F 1 G 3 H 1 L 5 Q 2 R 3 V 3 W 1 Y 1 Z 3 
+BDG 9     E 1 G 1 L 2 Q 1 R 1 V 1 W 1 Z 1 
+BDH 27    C 2 D 2 E 1 F 2 G 3 H 2 L 4 Q 1 R 3 V 3 Y 2 Z 2 
+BDK 18    C 1 D 1 E 1 F 1 G 2 H 1 L 3 Q 1 R 2 V 2 W 1 Y 1 Z 1 
+BDM 18    C 1 D 1 E 1 F 1 G 2 H 1 L 3 Q 1 R 2 V 2 Y 1 Z 2 
+BDN 36    C 2 D 2 E 2 F 2 G 4 H 2 L 6 Q 2 R 4 V 4 W 1 Y 2 Z 3 
+BDR 18    E 2 G 2 L 4 Q 2 R 2 V 2 W 1 Z 3 
+BDS 18    C 1 D 1 E 1 F 1 G 2 H 1 L 3 Q 1 R 2 V 2 W 1 Y 1 Z 1 
+BDT 9     C 1 D 1 F 1 G 1 H 1 L 1 R 1 V 1 Y 1 
+BDV 27    C 1 D 1 E 2 F 1 G 3 H 1 L 5 Q 2 R 3 V 3 W 1 Y 1 Z 3 
+BDW 18    C 1 D 1 E 1 F 1 G 2 H 1 L 3 Q 1 R 2 V 2 Y 1 Z 2 
+BDY 18    C 2 D 2 F 2 G 2 H 2 L 2 R 2 V 2 Y 2 
+BGA 3     G 1 R 1 Z 1 
+BGB 9     C 2 G 3 R 3 W 1 
+BGC 3     C 1 G 1 R 1 
+BGD 9     C 1 G 3 R 3 W 1 Z 1 
+BGG 3     G 1 R 1 W 1 
+BGH 9     C 2 G 3 R 3 Z 1 
+BGK 6     C 1 G 2 R 2 W 1 
+BGM 6     C 1 G 2 R 2 Z 1 
+BGN 12    C 2 G 4 R 4 W 1 Z 1 
+BGR 6     G 2 R 2 W 1 Z 1 
+BGS 6     C 1 G 2 R 2 W 1 
+BGT 3     C 1 G 1 R 1 
+BGV 9     C 1 G 3 R 3 W 1 Z 1 
+BGW 6     C 1 G 2 R 2 Z 1 
+BGY 6     C 2 G 2 R 2 
+BHA 9     A 1 E 1 L 2 P 1 Q 1 S 1 V 1 Z 1 
+BHB 27    A 3 D 2 E 1 F 2 H 2 L 4 P 3 Q 1 S 3 V 3 Y 2 Z 1 
+BHC 9     A 1 D 1 F 1 H 1 L 1 P 1 S 1 V 1 Y 1 
+BHD 27    A 3 D 1 E 2 F 1 H 1 L 5 P 3 Q 2 S 3 V 3 Y 1 Z 2 
+BHG 9     A 1 E 1 L 2 P 1 Q 1 S 1 V 1 Z 1 
+BHH 27    A 3 D 2 E 1 F 2 H 2 L 4 P 3 Q 1 S 3 V 3 Y 2 Z 1 
+BHK 18    A 2 D 1 E 1 F 1 H 1 L 3 P 2 Q 1 S 2 V 2 Y 1 Z 1 
+BHM 18    A 2 D 1 E 1 F 1 H 1 L 3 P 2 Q 1 S 2 V 2 Y 1 Z 1 
+BHN 36    A 4 D 2 E 2 F 2 H 2 L 6 P 4 Q 2 S 4 V 4 Y 2 Z 2 
+BHR 18    A 2 E 2 L 4 P 2 Q 2 S 2 V 2 Z 2 
+BHS 18    A 2 D 1 E 1 F 1 H 1 L 3 P 2 Q 1 S 2 V 2 Y 1 Z 1 
+BHT 9     A 1 D 1 F 1 H 1 L 1 P 1 S 1 V 1 Y 1 
+BHV 27    A 3 D 1 E 2 F 1 H 1 L 5 P 3 Q 2 S 3 V 3 Y 1 Z 2 
+BHW 18    A 2 D 1 E 1 F 1 H 1 L 3 P 2 Q 1 S 2 V 2 Y 1 Z 1 
+BHY 18    A 2 D 2 F 2 H 2 L 2 P 2 S 2 V 2 Y 2 
+BKA 6     G 1 L 2 R 1 V 1 Z 1 
+BKB 18    C 2 F 2 G 3 L 4 R 3 V 3 W 1 
+BKC 6     C 1 F 1 G 1 L 1 R 1 V 1 
+BKD 18    C 1 F 1 G 3 L 5 R 3 V 3 W 1 Z 1 
+BKG 6     G 1 L 2 R 1 V 1 W 1 
+BKH 18    C 2 F 2 G 3 L 4 R 3 V 3 Z 1 
+BKK 12    C 1 F 1 G 2 L 3 R 2 V 2 W 1 
+BKM 12    C 1 F 1 G 2 L 3 R 2 V 2 Z 1 
+BKN 24    C 2 F 2 G 4 L 6 R 4 V 4 W 1 Z 1 
+BKR 12    G 2 L 4 R 2 V 2 W 1 Z 1 
+BKS 12    C 1 F 1 G 2 L 3 R 2 V 2 W 1 
+BKT 6     C 1 F 1 G 1 L 1 R 1 V 1 
+BKV 18    C 1 F 1 G 3 L 5 R 3 V 3 W 1 Z 1 
+BKW 12    C 1 F 1 G 2 L 3 R 2 V 2 Z 1 
+BKY 12    C 2 F 2 G 2 L 2 R 2 V 2 
+BMA 6     A 1 E 1 P 1 Q 1 S 1 Z 1 
+BMB 18    A 3 D 2 E 1 H 2 P 3 Q 1 S 3 Y 2 Z 1 
+BMC 6     A 1 D 1 H 1 P 1 S 1 Y 1 
+BMD 18    A 3 D 1 E 2 H 1 P 3 Q 2 S 3 Y 1 Z 2 
+BMG 6     A 1 E 1 P 1 Q 1 S 1 Z 1 
+BMH 18    A 3 D 2 E 1 H 2 P 3 Q 1 S 3 Y 2 Z 1 
+BMK 12    A 2 D 1 E 1 H 1 P 2 Q 1 S 2 Y 1 Z 1 
+BMM 12    A 2 D 1 E 1 H 1 P 2 Q 1 S 2 Y 1 Z 1 
+BMN 24    A 4 D 2 E 2 H 2 P 4 Q 2 S 4 Y 2 Z 2 
+BMR 12    A 2 E 2 P 2 Q 2 S 2 Z 2 
+BMS 12    A 2 D 1 E 1 H 1 P 2 Q 1 S 2 Y 1 Z 1 
+BMT 6     A 1 D 1 H 1 P 1 S 1 Y 1 
+BMV 18    A 3 D 1 E 2 H 1 P 3 Q 2 S 3 Y 1 Z 2 
+BMW 12    A 2 D 1 E 1 H 1 P 2 Q 1 S 2 Y 1 Z 1 
+BMY 12    A 2 D 2 H 2 P 2 S 2 Y 2 
+BNA 12    A 1 E 1 G 1 L 2 P 1 Q 1 R 1 S 1 V 1 Z 2 
+BNB 36    A 3 C 2 D 2 E 1 F 2 G 3 H 2 L 4 P 3 Q 1 R 3 S 3 V 3 W 1 Y 2 Z 1 
+BNC 12    A 1 C 1 D 1 F 1 G 1 H 1 L 1 P 1 R 1 S 1 V 1 Y 1 
+BND 36    A 3 C 1 D 1 E 2 F 1 G 3 H 1 L 5 P 3 Q 2 R 3 S 3 V 3 W 1 Y 1 Z 3 
+BNG 12    A 1 E 1 G 1 L 2 P 1 Q 1 R 1 S 1 V 1 W 1 Z 1 
+BNH 36    A 3 C 2 D 2 E 1 F 2 G 3 H 2 L 4 P 3 Q 1 R 3 S 3 V 3 Y 2 Z 2 
+BNK 24    A 2 C 1 D 1 E 1 F 1 G 2 H 1 L 3 P 2 Q 1 R 2 S 2 V 2 W 1 Y 1 Z 1 
+BNM 24    A 2 C 1 D 1 E 1 F 1 G 2 H 1 L 3 P 2 Q 1 R 2 S 2 V 2 Y 1 Z 2 
+BNN 48    A 4 C 2 D 2 E 2 F 2 G 4 H 2 L 6 P 4 Q 2 R 4 S 4 V 4 W 1 Y 2 Z 3 
+BNR 24    A 2 E 2 G 2 L 4 P 2 Q 2 R 2 S 2 V 2 W 1 Z 3 
+BNS 24    A 2 C 1 D 1 E 1 F 1 G 2 H 1 L 3 P 2 Q 1 R 2 S 2 V 2 W 1 Y 1 Z 1 
+BNT 12    A 1 C 1 D 1 F 1 G 1 H 1 L 1 P 1 R 1 S 1 V 1 Y 1 
+BNV 36    A 3 C 1 D 1 E 2 F 1 G 3 H 1 L 5 P 3 Q 2 R 3 S 3 V 3 W 1 Y 1 Z 3 
+BNW 24    A 2 C 1 D 1 E 1 F 1 G 2 H 1 L 3 P 2 Q 1 R 2 S 2 V 2 Y 1 Z 2 
+BNY 24    A 2 C 2 D 2 F 2 G 2 H 2 L 2 P 2 R 2 S 2 V 2 Y 2 
+BRA 6     E 1 G 1 Q 1 R 1 Z 2 
+BRB 18    C 2 D 2 E 1 G 3 H 2 Q 1 R 3 W 1 Y 2 Z 1 
+BRC 6     C 1 D 1 G 1 H 1 R 1 Y 1 
+BRD 18    C 1 D 1 E 2 G 3 H 1 Q 2 R 3 W 1 Y 1 Z 3 
+BRG 6     E 1 G 1 Q 1 R 1 W 1 Z 1 
+BRH 18    C 2 D 2 E 1 G 3 H 2 Q 1 R 3 Y 2 Z 2 
+BRK 12    C 1 D 1 E 1 G 2 H 1 Q 1 R 2 W 1 Y 1 Z 1 
+BRM 12    C 1 D 1 E 1 G 2 H 1 Q 1 R 2 Y 1 Z 2 
+BRN 24    C 2 D 2 E 2 G 4 H 2 Q 2 R 4 W 1 Y 2 Z 3 
+BRR 12    E 2 G 2 Q 2 R 2 W 1 Z 3 
+BRS 12    C 1 D 1 E 1 G 2 H 1 Q 1 R 2 W 1 Y 1 Z 1 
+BRT 6     C 1 D 1 G 1 H 1 R 1 Y 1 
+BRV 18    C 1 D 1 E 2 G 3 H 1 Q 2 R 3 W 1 Y 1 Z 3 
+BRW 12    C 1 D 1 E 1 G 2 H 1 Q 1 R 2 Y 1 Z 2 
+BRY 12    C 2 D 2 G 2 H 2 R 2 Y 2 
+BSA 6     A 1 G 1 P 1 R 1 S 1 Z 1 
+BSB 18    A 3 C 2 G 3 P 3 R 3 S 3 W 1 
+BSC 6     A 1 C 1 G 1 P 1 R 1 S 1 
+BSD 18    A 3 C 1 G 3 P 3 R 3 S 3 W 1 Z 1 
+BSG 6     A 1 G 1 P 1 R 1 S 1 W 1 
+BSH 18    A 3 C 2 G 3 P 3 R 3 S 3 Z 1 
+BSK 12    A 2 C 1 G 2 P 2 R 2 S 2 W 1 
+BSM 12    A 2 C 1 G 2 P 2 R 2 S 2 Z 1 
+BSN 24    A 4 C 2 G 4 P 4 R 4 S 4 W 1 Z 1 
+BSR 12    A 2 G 2 P 2 R 2 S 2 W 1 Z 1 
+BSS 12    A 2 C 1 G 2 P 2 R 2 S 2 W 1 
+BST 6     A 1 C 1 G 1 P 1 R 1 S 1 
+BSV 18    A 3 C 1 G 3 P 3 R 3 S 3 W 1 Z 1 
+BSW 12    A 2 C 1 G 2 P 2 R 2 S 2 Z 1 
+BSY 12    A 2 C 2 G 2 P 2 R 2 S 2 
+BTA 3     L 2 V 1 
+BTB 9     F 2 L 4 V 3 
+BTC 3     F 1 L 1 V 1 
+BTD 9     F 1 L 5 V 3 
+BTG 3     L 2 V 1 
+BTH 9     F 2 L 4 V 3 
+BTK 6     F 1 L 3 V 2 
+BTM 6     F 1 L 3 V 2 
+BTN 12    F 2 L 6 V 4 
+BTR 6     L 4 V 2 
+BTS 6     F 1 L 3 V 2 
+BTT 3     F 1 L 1 V 1 
+BTV 9     F 1 L 5 V 3 
+BTW 6     F 1 L 3 V 2 
+BTY 6     F 2 L 2 V 2 
+BVA 9     A 1 E 1 G 1 P 1 Q 1 R 1 S 1 Z 2 
+BVB 27    A 3 C 2 D 2 E 1 G 3 H 2 P 3 Q 1 R 3 S 3 W 1 Y 2 Z 1 
+BVC 9     A 1 C 1 D 1 G 1 H 1 P 1 R 1 S 1 Y 1 
+BVD 27    A 3 C 1 D 1 E 2 G 3 H 1 P 3 Q 2 R 3 S 3 W 1 Y 1 Z 3 
+BVG 9     A 1 E 1 G 1 P 1 Q 1 R 1 S 1 W 1 Z 1 
+BVH 27    A 3 C 2 D 2 E 1 G 3 H 2 P 3 Q 1 R 3 S 3 Y 2 Z 2 
+BVK 18    A 2 C 1 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 S 2 W 1 Y 1 Z 1 
+BVM 18    A 2 C 1 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 S 2 Y 1 Z 2 
+BVN 36    A 4 C 2 D 2 E 2 G 4 H 2 P 4 Q 2 R 4 S 4 W 1 Y 2 Z 3 
+BVR 18    A 2 E 2 G 2 P 2 Q 2 R 2 S 2 W 1 Z 3 
+BVS 18    A 2 C 1 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 S 2 W 1 Y 1 Z 1 
+BVT 9     A 1 C 1 D 1 G 1 H 1 P 1 R 1 S 1 Y 1 
+BVV 27    A 3 C 1 D 1 E 2 G 3 H 1 P 3 Q 2 R 3 S 3 W 1 Y 1 Z 3 
+BVW 18    A 2 C 1 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 S 2 Y 1 Z 2 
+BVY 18    A 2 C 2 D 2 G 2 H 2 P 2 R 2 S 2 Y 2 
+BWA 6     E 1 L 2 Q 1 V 1 Z 1 
+BWB 18    D 2 E 1 F 2 H 2 L 4 Q 1 V 3 Y 2 Z 1 
+BWC 6     D 1 F 1 H 1 L 1 V 1 Y 1 
+BWD 18    D 1 E 2 F 1 H 1 L 5 Q 2 V 3 Y 1 Z 2 
+BWG 6     E 1 L 2 Q 1 V 1 Z 1 
+BWH 18    D 2 E 1 F 2 H 2 L 4 Q 1 V 3 Y 2 Z 1 
+BWK 12    D 1 E 1 F 1 H 1 L 3 Q 1 V 2 Y 1 Z 1 
+BWM 12    D 1 E 1 F 1 H 1 L 3 Q 1 V 2 Y 1 Z 1 
+BWN 24    D 2 E 2 F 2 H 2 L 6 Q 2 V 4 Y 2 Z 2 
+BWR 12    E 2 L 4 Q 2 V 2 Z 2 
+BWS 12    D 1 E 1 F 1 H 1 L 3 Q 1 V 2 Y 1 Z 1 
+BWT 6     D 1 F 1 H 1 L 1 V 1 Y 1 
+BWV 18    D 1 E 2 F 1 H 1 L 5 Q 2 V 3 Y 1 Z 2 
+BWW 12    D 1 E 1 F 1 H 1 L 3 Q 1 V 2 Y 1 Z 1 
+BWY 12    D 2 F 2 H 2 L 2 V 2 Y 2 
+BYA 6     A 1 L 2 P 1 S 1 V 1 
+BYB 18    A 3 F 2 L 4 P 3 S 3 V 3 
+BYC 6     A 1 F 1 L 1 P 1 S 1 V 1 
+BYD 18    A 3 F 1 L 5 P 3 S 3 V 3 
+BYG 6     A 1 L 2 P 1 S 1 V 1 
+BYH 18    A 3 F 2 L 4 P 3 S 3 V 3 
+BYK 12    A 2 F 1 L 3 P 2 S 2 V 2 
+BYM 12    A 2 F 1 L 3 P 2 S 2 V 2 
+BYN 24    A 4 F 2 L 6 P 4 S 4 V 4 
+BYR 12    A 2 L 4 P 2 S 2 V 2 
+BYS 12    A 2 F 1 L 3 P 2 S 2 V 2 
+BYT 6     A 1 F 1 L 1 P 1 S 1 V 1 
+BYV 18    A 3 F 1 L 5 P 3 S 3 V 3 
+BYW 12    A 2 F 1 L 3 P 2 S 2 V 2 
+BYY 12    A 2 F 2 L 2 P 2 S 2 V 2 
+CAA 1     Q 1 
+CAB 3     H 2 Q 1 
+CAC 1     H 1 
+CAD 3     H 1 Q 2 
+CAG 1     Q 1 
+CAH 3     H 2 Q 1 
+CAK 2     H 1 Q 1 
+CAM 2     H 1 Q 1 
+CAN 4     H 2 Q 2 
+CAR 2     Q 2 
+CAS 2     H 1 Q 1 
+CAT 1     H 1 
+CAV 3     H 1 Q 2 
+CAW 2     H 1 Q 1 
+CAY 2     H 2 
+CBA 3     L 1 P 1 R 1 
+CBB 9     L 3 P 3 R 3 
+CBC 3     L 1 P 1 R 1 
+CBD 9     L 3 P 3 R 3 
+CBG 3     L 1 P 1 R 1 
+CBH 9     L 3 P 3 R 3 
+CBK 6     L 2 P 2 R 2 
+CBM 6     L 2 P 2 R 2 
+CBN 12    L 4 P 4 R 4 
+CBR 6     L 2 P 2 R 2 
+CBS 6     L 2 P 2 R 2 
+CBT 3     L 1 P 1 R 1 
+CBV 9     L 3 P 3 R 3 
+CBW 6     L 2 P 2 R 2 
+CBY 6     L 2 P 2 R 2 
+CCA 1     P 1 
+CCB 3     P 3 
+CCC 1     P 1 
+CCD 3     P 3 
+CCG 1     P 1 
+CCH 3     P 3 
+CCK 2     P 2 
+CCM 2     P 2 
+CCN 4     P 4 
+CCR 2     P 2 
+CCS 2     P 2 
+CCT 1     P 1 
+CCV 3     P 3 
+CCW 2     P 2 
+CCY 2     P 2 
+CDA 3     L 1 Q 1 R 1 
+CDB 9     H 2 L 3 Q 1 R 3 
+CDC 3     H 1 L 1 R 1 
+CDD 9     H 1 L 3 Q 2 R 3 
+CDG 3     L 1 Q 1 R 1 
+CDH 9     H 2 L 3 Q 1 R 3 
+CDK 6     H 1 L 2 Q 1 R 2 
+CDM 6     H 1 L 2 Q 1 R 2 
+CDN 12    H 2 L 4 Q 2 R 4 
+CDR 6     L 2 Q 2 R 2 
+CDS 6     H 1 L 2 Q 1 R 2 
+CDT 3     H 1 L 1 R 1 
+CDV 9     H 1 L 3 Q 2 R 3 
+CDW 6     H 1 L 2 Q 1 R 2 
+CDY 6     H 2 L 2 R 2 
+CGA 1     R 1 
+CGB 3     R 3 
+CGC 1     R 1 
+CGD 3     R 3 
+CGG 1     R 1 
+CGH 3     R 3 
+CGK 2     R 2 
+CGM 2     R 2 
+CGN 4     R 4 
+CGR 2     R 2 
+CGS 2     R 2 
+CGT 1     R 1 
+CGV 3     R 3 
+CGW 2     R 2 
+CGY 2     R 2 
+CHA 3     L 1 P 1 Q 1 
+CHB 9     H 2 L 3 P 3 Q 1 
+CHC 3     H 1 L 1 P 1 
+CHD 9     H 1 L 3 P 3 Q 2 
+CHG 3     L 1 P 1 Q 1 
+CHH 9     H 2 L 3 P 3 Q 1 
+CHK 6     H 1 L 2 P 2 Q 1 
+CHM 6     H 1 L 2 P 2 Q 1 
+CHN 12    H 2 L 4 P 4 Q 2 
+CHR 6     L 2 P 2 Q 2 
+CHS 6     H 1 L 2 P 2 Q 1 
+CHT 3     H 1 L 1 P 1 
+CHV 9     H 1 L 3 P 3 Q 2 
+CHW 6     H 1 L 2 P 2 Q 1 
+CHY 6     H 2 L 2 P 2 
+CKA 2     L 1 R 1 
+CKB 6     L 3 R 3 
+CKC 2     L 1 R 1 
+CKD 6     L 3 R 3 
+CKG 2     L 1 R 1 
+CKH 6     L 3 R 3 
+CKK 4     L 2 R 2 
+CKM 4     L 2 R 2 
+CKN 8     L 4 R 4 
+CKR 4     L 2 R 2 
+CKS 4     L 2 R 2 
+CKT 2     L 1 R 1 
+CKV 6     L 3 R 3 
+CKW 4     L 2 R 2 
+CKY 4     L 2 R 2 
+CMA 2     P 1 Q 1 
+CMB 6     H 2 P 3 Q 1 
+CMC 2     H 1 P 1 
+CMD 6     H 1 P 3 Q 2 
+CMG 2     P 1 Q 1 
+CMH 6     H 2 P 3 Q 1 
+CMK 4     H 1 P 2 Q 1 
+CMM 4     H 1 P 2 Q 1 
+CMN 8     H 2 P 4 Q 2 
+CMR 4     P 2 Q 2 
+CMS 4     H 1 P 2 Q 1 
+CMT 2     H 1 P 1 
+CMV 6     H 1 P 3 Q 2 
+CMW 4     H 1 P 2 Q 1 
+CMY 4     H 2 P 2 
+CNA 4     L 1 P 1 Q 1 R 1 
+CNB 12    H 2 L 3 P 3 Q 1 R 3 
+CNC 4     H 1 L 1 P 1 R 1 
+CND 12    H 1 L 3 P 3 Q 2 R 3 
+CNG 4     L 1 P 1 Q 1 R 1 
+CNH 12    H 2 L 3 P 3 Q 1 R 3 
+CNK 8     H 1 L 2 P 2 Q 1 R 2 
+CNM 8     H 1 L 2 P 2 Q 1 R 2 
+CNN 16    H 2 L 4 P 4 Q 2 R 4 
+CNR 8     L 2 P 2 Q 2 R 2 
+CNS 8     H 1 L 2 P 2 Q 1 R 2 
+CNT 4     H 1 L 1 P 1 R 1 
+CNV 12    H 1 L 3 P 3 Q 2 R 3 
+CNW 8     H 1 L 2 P 2 Q 1 R 2 
+CNY 8     H 2 L 2 P 2 R 2 
+CRA 2     Q 1 R 1 
+CRB 6     H 2 Q 1 R 3 
+CRC 2     H 1 R 1 
+CRD 6     H 1 Q 2 R 3 
+CRG 2     Q 1 R 1 
+CRH 6     H 2 Q 1 R 3 
+CRK 4     H 1 Q 1 R 2 
+CRM 4     H 1 Q 1 R 2 
+CRN 8     H 2 Q 2 R 4 
+CRR 4     Q 2 R 2 
+CRS 4     H 1 Q 1 R 2 
+CRT 2     H 1 R 1 
+CRV 6     H 1 Q 2 R 3 
+CRW 4     H 1 Q 1 R 2 
+CRY 4     H 2 R 2 
+CSA 2     P 1 R 1 
+CSB 6     P 3 R 3 
+CSC 2     P 1 R 1 
+CSD 6     P 3 R 3 
+CSG 2     P 1 R 1 
+CSH 6     P 3 R 3 
+CSK 4     P 2 R 2 
+CSM 4     P 2 R 2 
+CSN 8     P 4 R 4 
+CSR 4     P 2 R 2 
+CSS 4     P 2 R 2 
+CST 2     P 1 R 1 
+CSV 6     P 3 R 3 
+CSW 4     P 2 R 2 
+CSY 4     P 2 R 2 
+CTA 1     L 1 
+CTB 3     L 3 
+CTC 1     L 1 
+CTD 3     L 3 
+CTG 1     L 1 
+CTH 3     L 3 
+CTK 2     L 2 
+CTM 2     L 2 
+CTN 4     L 4 
+CTR 2     L 2 
+CTS 2     L 2 
+CTT 1     L 1 
+CTV 3     L 3 
+CTW 2     L 2 
+CTY 2     L 2 
+CVA 3     P 1 Q 1 R 1 
+CVB 9     H 2 P 3 Q 1 R 3 
+CVC 3     H 1 P 1 R 1 
+CVD 9     H 1 P 3 Q 2 R 3 
+CVG 3     P 1 Q 1 R 1 
+CVH 9     H 2 P 3 Q 1 R 3 
+CVK 6     H 1 P 2 Q 1 R 2 
+CVM 6     H 1 P 2 Q 1 R 2 
+CVN 12    H 2 P 4 Q 2 R 4 
+CVR 6     P 2 Q 2 R 2 
+CVS 6     H 1 P 2 Q 1 R 2 
+CVT 3     H 1 P 1 R 1 
+CVV 9     H 1 P 3 Q 2 R 3 
+CVW 6     H 1 P 2 Q 1 R 2 
+CVY 6     H 2 P 2 R 2 
+CWA 2     L 1 Q 1 
+CWB 6     H 2 L 3 Q 1 
+CWC 2     H 1 L 1 
+CWD 6     H 1 L 3 Q 2 
+CWG 2     L 1 Q 1 
+CWH 6     H 2 L 3 Q 1 
+CWK 4     H 1 L 2 Q 1 
+CWM 4     H 1 L 2 Q 1 
+CWN 8     H 2 L 4 Q 2 
+CWR 4     L 2 Q 2 
+CWS 4     H 1 L 2 Q 1 
+CWT 2     H 1 L 1 
+CWV 6     H 1 L 3 Q 2 
+CWW 4     H 1 L 2 Q 1 
+CWY 4     H 2 L 2 
+CYA 2     L 1 P 1 
+CYB 6     L 3 P 3 
+CYC 2     L 1 P 1 
+CYD 6     L 3 P 3 
+CYG 2     L 1 P 1 
+CYH 6     L 3 P 3 
+CYK 4     L 2 P 2 
+CYM 4     L 2 P 2 
+CYN 8     L 4 P 4 
+CYR 4     L 2 P 2 
+CYS 4     L 2 P 2 
+CYT 2     L 1 P 1 
+CYV 6     L 3 P 3 
+CYW 4     L 2 P 2 
+CYY 4     L 2 P 2 
+DAA 3     E 1 K 1 Z 1 
+DAB 9     D 2 E 1 K 1 N 2 Y 2 Z 1 
+DAC 3     D 1 N 1 Y 1 
+DAD 9     D 1 E 2 K 2 N 1 Y 1 Z 2 
+DAG 3     E 1 K 1 Z 1 
+DAH 9     D 2 E 1 K 1 N 2 Y 2 Z 1 
+DAK 6     D 1 E 1 K 1 N 1 Y 1 Z 1 
+DAM 6     D 1 E 1 K 1 N 1 Y 1 Z 1 
+DAN 12    D 2 E 2 K 2 N 2 Y 2 Z 2 
+DAR 6     E 2 K 2 Z 2 
+DAS 6     D 1 E 1 K 1 N 1 Y 1 Z 1 
+DAT 3     D 1 N 1 Y 1 
+DAV 9     D 1 E 2 K 2 N 1 Y 1 Z 2 
+DAW 6     D 1 E 1 K 1 N 1 Y 1 Z 1 
+DAY 6     D 2 N 2 Y 2 
+DBA 9     A 1 G 1 I 1 L 1 R 1 S 1 T 1 V 1 Z 1 
+DBB 27    A 3 C 2 F 2 G 3 I 2 L 1 M 1 R 1 S 5 T 3 V 3 W 1 
+DBC 9     A 1 C 1 F 1 G 1 I 1 S 2 T 1 V 1 
+DBD 27    A 3 C 1 F 1 G 3 I 2 L 2 M 1 R 2 S 4 T 3 V 3 W 1 Z 1 
+DBG 9     A 1 G 1 L 1 M 1 R 1 S 1 T 1 V 1 W 1 
+DBH 27    A 3 C 2 F 2 G 3 I 3 L 1 R 1 S 5 T 3 V 3 Z 1 
+DBK 18    A 2 C 1 F 1 G 2 I 1 L 1 M 1 R 1 S 3 T 2 V 2 W 1 
+DBM 18    A 2 C 1 F 1 G 2 I 2 L 1 R 1 S 3 T 2 V 2 Z 1 
+DBN 36    A 4 C 2 F 2 G 4 I 3 L 2 M 1 R 2 S 6 T 4 V 4 W 1 Z 1 
+DBR 18    A 2 G 2 I 1 L 2 M 1 R 2 S 2 T 2 V 2 W 1 Z 1 
+DBS 18    A 2 C 1 F 1 G 2 I 1 L 1 M 1 R 1 S 3 T 2 V 2 W 1 
+DBT 9     A 1 C 1 F 1 G 1 I 1 S 2 T 1 V 1 
+DBV 27    A 3 C 1 F 1 G 3 I 2 L 2 M 1 R 2 S 4 T 3 V 3 W 1 Z 1 
+DBW 18    A 2 C 1 F 1 G 2 I 2 L 1 R 1 S 3 T 2 V 2 Z 1 
+DBY 18    A 2 C 2 F 2 G 2 I 2 S 4 T 2 V 2 
+DCA 3     A 1 S 1 T 1 
+DCB 9     A 3 S 3 T 3 
+DCC 3     A 1 S 1 T 1 
+DCD 9     A 3 S 3 T 3 
+DCG 3     A 1 S 1 T 1 
+DCH 9     A 3 S 3 T 3 
+DCK 6     A 2 S 2 T 2 
+DCM 6     A 2 S 2 T 2 
+DCN 12    A 4 S 4 T 4 
+DCR 6     A 2 S 2 T 2 
+DCS 6     A 2 S 2 T 2 
+DCT 3     A 1 S 1 T 1 
+DCV 9     A 3 S 3 T 3 
+DCW 6     A 2 S 2 T 2 
+DCY 6     A 2 S 2 T 2 
+DDA 9     E 1 G 1 I 1 K 1 L 1 R 1 V 1 Z 2 
+DDB 27    C 2 D 2 E 1 F 2 G 3 I 2 K 1 L 1 M 1 N 2 R 1 S 2 V 3 W 1 Y 2 Z 1 
+DDC 9     C 1 D 1 F 1 G 1 I 1 N 1 S 1 V 1 Y 1 
+DDD 27    C 1 D 1 E 2 F 1 G 3 I 2 K 2 L 2 M 1 N 1 R 2 S 1 V 3 W 1 Y 1 Z 3 
+DDG 9     E 1 G 1 K 1 L 1 M 1 R 1 V 1 W 1 Z 1 
+DDH 27    C 2 D 2 E 1 F 2 G 3 I 3 K 1 L 1 N 2 R 1 S 2 V 3 Y 2 Z 2 
+DDK 18    C 1 D 1 E 1 F 1 G 2 I 1 K 1 L 1 M 1 N 1 R 1 S 1 V 2 W 1 Y 1 Z 1 
+DDM 18    C 1 D 1 E 1 F 1 G 2 I 2 K 1 L 1 N 1 R 1 S 1 V 2 Y 1 Z 2 
+DDN 36    C 2 D 2 E 2 F 2 G 4 I 3 K 2 L 2 M 1 N 2 R 2 S 2 V 4 W 1 Y 2 Z 3 
+DDR 18    E 2 G 2 I 1 K 2 L 2 M 1 R 2 V 2 W 1 Z 3 
+DDS 18    C 1 D 1 E 1 F 1 G 2 I 1 K 1 L 1 M 1 N 1 R 1 S 1 V 2 W 1 Y 1 Z 1 
+DDT 9     C 1 D 1 F 1 G 1 I 1 N 1 S 1 V 1 Y 1 
+DDV 27    C 1 D 1 E 2 F 1 G 3 I 2 K 2 L 2 M 1 N 1 R 2 S 1 V 3 W 1 Y 1 Z 3 
+DDW 18    C 1 D 1 E 1 F 1 G 2 I 2 K 1 L 1 N 1 R 1 S 1 V 2 Y 1 Z 2 
+DDY 18    C 2 D 2 F 2 G 2 I 2 N 2 S 2 V 2 Y 2 
+DGA 3     G 1 R 1 Z 1 
+DGB 9     C 2 G 3 R 1 S 2 W 1 
+DGC 3     C 1 G 1 S 1 
+DGD 9     C 1 G 3 R 2 S 1 W 1 Z 1 
+DGG 3     G 1 R 1 W 1 
+DGH 9     C 2 G 3 R 1 S 2 Z 1 
+DGK 6     C 1 G 2 R 1 S 1 W 1 
+DGM 6     C 1 G 2 R 1 S 1 Z 1 
+DGN 12    C 2 G 4 R 2 S 2 W 1 Z 1 
+DGR 6     G 2 R 2 W 1 Z 1 
+DGS 6     C 1 G 2 R 1 S 1 W 1 
+DGT 3     C 1 G 1 S 1 
+DGV 9     C 1 G 3 R 2 S 1 W 1 Z 1 
+DGW 6     C 1 G 2 R 1 S 1 Z 1 
+DGY 6     C 2 G 2 S 2 
+DHA 9     A 1 E 1 I 1 K 1 L 1 S 1 T 1 V 1 Z 1 
+DHB 27    A 3 D 2 E 1 F 2 I 2 K 1 L 1 M 1 N 2 S 3 T 3 V 3 Y 2 Z 1 
+DHC 9     A 1 D 1 F 1 I 1 N 1 S 1 T 1 V 1 Y 1 
+DHD 27    A 3 D 1 E 2 F 1 I 2 K 2 L 2 M 1 N 1 S 3 T 3 V 3 Y 1 Z 2 
+DHG 9     A 1 E 1 K 1 L 1 M 1 S 1 T 1 V 1 Z 1 
+DHH 27    A 3 D 2 E 1 F 2 I 3 K 1 L 1 N 2 S 3 T 3 V 3 Y 2 Z 1 
+DHK 18    A 2 D 1 E 1 F 1 I 1 K 1 L 1 M 1 N 1 S 2 T 2 V 2 Y 1 Z 1 
+DHM 18    A 2 D 1 E 1 F 1 I 2 K 1 L 1 N 1 S 2 T 2 V 2 Y 1 Z 1 
+DHN 36    A 4 D 2 E 2 F 2 I 3 K 2 L 2 M 1 N 2 S 4 T 4 V 4 Y 2 Z 2 
+DHR 18    A 2 E 2 I 1 K 2 L 2 M 1 S 2 T 2 V 2 Z 2 
+DHS 18    A 2 D 1 E 1 F 1 I 1 K 1 L 1 M 1 N 1 S 2 T 2 V 2 Y 1 Z 1 
+DHT 9     A 1 D 1 F 1 I 1 N 1 S 1 T 1 V 1 Y 1 
+DHV 27    A 3 D 1 E 2 F 1 I 2 K 2 L 2 M 1 N 1 S 3 T 3 V 3 Y 1 Z 2 
+DHW 18    A 2 D 1 E 1 F 1 I 2 K 1 L 1 N 1 S 2 T 2 V 2 Y 1 Z 1 
+DHY 18    A 2 D 2 F 2 I 2 N 2 S 2 T 2 V 2 Y 2 
+DKA 6     G 1 I 1 L 1 R 1 V 1 Z 1 
+DKB 18    C 2 F 2 G 3 I 2 L 1 M 1 R 1 S 2 V 3 W 1 
+DKC 6     C 1 F 1 G 1 I 1 S 1 V 1 
+DKD 18    C 1 F 1 G 3 I 2 L 2 M 1 R 2 S 1 V 3 W 1 Z 1 
+DKG 6     G 1 L 1 M 1 R 1 V 1 W 1 
+DKH 18    C 2 F 2 G 3 I 3 L 1 R 1 S 2 V 3 Z 1 
+DKK 12    C 1 F 1 G 2 I 1 L 1 M 1 R 1 S 1 V 2 W 1 
+DKM 12    C 1 F 1 G 2 I 2 L 1 R 1 S 1 V 2 Z 1 
+DKN 24    C 2 F 2 G 4 I 3 L 2 M 1 R 2 S 2 V 4 W 1 Z 1 
+DKR 12    G 2 I 1 L 2 M 1 R 2 V 2 W 1 Z 1 
+DKS 12    C 1 F 1 G 2 I 1 L 1 M 1 R 1 S 1 V 2 W 1 
+DKT 6     C 1 F 1 G 1 I 1 S 1 V 1 
+DKV 18    C 1 F 1 G 3 I 2 L 2 M 1 R 2 S 1 V 3 W 1 Z 1 
+DKW 12    C 1 F 1 G 2 I 2 L 1 R 1 S 1 V 2 Z 1 
+DKY 12    C 2 F 2 G 2 I 2 S 2 V 2 
+DMA 6     A 1 E 1 K 1 S 1 T 1 Z 1 
+DMB 18    A 3 D 2 E 1 K 1 N 2 S 3 T 3 Y 2 Z 1 
+DMC 6     A 1 D 1 N 1 S 1 T 1 Y 1 
+DMD 18    A 3 D 1 E 2 K 2 N 1 S 3 T 3 Y 1 Z 2 
+DMG 6     A 1 E 1 K 1 S 1 T 1 Z 1 
+DMH 18    A 3 D 2 E 1 K 1 N 2 S 3 T 3 Y 2 Z 1 
+DMK 12    A 2 D 1 E 1 K 1 N 1 S 2 T 2 Y 1 Z 1 
+DMM 12    A 2 D 1 E 1 K 1 N 1 S 2 T 2 Y 1 Z 1 
+DMN 24    A 4 D 2 E 2 K 2 N 2 S 4 T 4 Y 2 Z 2 
+DMR 12    A 2 E 2 K 2 S 2 T 2 Z 2 
+DMS 12    A 2 D 1 E 1 K 1 N 1 S 2 T 2 Y 1 Z 1 
+DMT 6     A 1 D 1 N 1 S 1 T 1 Y 1 
+DMV 18    A 3 D 1 E 2 K 2 N 1 S 3 T 3 Y 1 Z 2 
+DMW 12    A 2 D 1 E 1 K 1 N 1 S 2 T 2 Y 1 Z 1 
+DMY 12    A 2 D 2 N 2 S 2 T 2 Y 2 
+DNA 12    A 1 E 1 G 1 I 1 K 1 L 1 R 1 S 1 T 1 V 1 Z 2 
+DNB 36    A 3 C 2 D 2 E 1 F 2 G 3 I 2 K 1 L 1 M 1 N 2 R 1 S 5 T 3 V 3 W 1 Y 2 Z 1 
+DNC 12    A 1 C 1 D 1 F 1 G 1 I 1 N 1 S 2 T 1 V 1 Y 1 
+DND 36    A 3 C 1 D 1 E 2 F 1 G 3 I 2 K 2 L 2 M 1 N 1 R 2 S 4 T 3 V 3 W 1 Y 1 Z 3 
+DNG 12    A 1 E 1 G 1 K 1 L 1 M 1 R 1 S 1 T 1 V 1 W 1 Z 1 
+DNH 36    A 3 C 2 D 2 E 1 F 2 G 3 I 3 K 1 L 1 N 2 R 1 S 5 T 3 V 3 Y 2 Z 2 
+DNK 24    A 2 C 1 D 1 E 1 F 1 G 2 I 1 K 1 L 1 M 1 N 1 R 1 S 3 T 2 V 2 W 1 Y 1 Z 1 
+DNM 24    A 2 C 1 D 1 E 1 F 1 G 2 I 2 K 1 L 1 N 1 R 1 S 3 T 2 V 2 Y 1 Z 2 
+DNN 48    A 4 C 2 D 2 E 2 F 2 G 4 I 3 K 2 L 2 M 1 N 2 R 2 S 6 T 4 V 4 W 1 Y 2 Z 3 
+DNR 24    A 2 E 2 G 2 I 1 K 2 L 2 M 1 R 2 S 2 T 2 V 2 W 1 Z 3 
+DNS 24    A 2 C 1 D 1 E 1 F 1 G 2 I 1 K 1 L 1 M 1 N 1 R 1 S 3 T 2 V 2 W 1 Y 1 Z 1 
+DNT 12    A 1 C 1 D 1 F 1 G 1 I 1 N 1 S 2 T 1 V 1 Y 1 
+DNV 36    A 3 C 1 D 1 E 2 F 1 G 3 I 2 K 2 L 2 M 1 N 1 R 2 S 4 T 3 V 3 W 1 Y 1 Z 3 
+DNW 24    A 2 C 1 D 1 E 1 F 1 G 2 I 2 K 1 L 1 N 1 R 1 S 3 T 2 V 2 Y 1 Z 2 
+DNY 24    A 2 C 2 D 2 F 2 G 2 I 2 N 2 S 4 T 2 V 2 Y 2 
+DRA 6     E 1 G 1 K 1 R 1 Z 2 
+DRB 18    C 2 D 2 E 1 G 3 K 1 N 2 R 1 S 2 W 1 Y 2 Z 1 
+DRC 6     C 1 D 1 G 1 N 1 S 1 Y 1 
+DRD 18    C 1 D 1 E 2 G 3 K 2 N 1 R 2 S 1 W 1 Y 1 Z 3 
+DRG 6     E 1 G 1 K 1 R 1 W 1 Z 1 
+DRH 18    C 2 D 2 E 1 G 3 K 1 N 2 R 1 S 2 Y 2 Z 2 
+DRK 12    C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 1 W 1 Y 1 Z 1 
+DRM 12    C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 1 Y 1 Z 2 
+DRN 24    C 2 D 2 E 2 G 4 K 2 N 2 R 2 S 2 W 1 Y 2 Z 3 
+DRR 12    E 2 G 2 K 2 R 2 W 1 Z 3 
+DRS 12    C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 1 W 1 Y 1 Z 1 
+DRT 6     C 1 D 1 G 1 N 1 S 1 Y 1 
+DRV 18    C 1 D 1 E 2 G 3 K 2 N 1 R 2 S 1 W 1 Y 1 Z 3 
+DRW 12    C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 1 Y 1 Z 2 
+DRY 12    C 2 D 2 G 2 N 2 S 2 Y 2 
+DSA 6     A 1 G 1 R 1 S 1 T 1 Z 1 
+DSB 18    A 3 C 2 G 3 R 1 S 5 T 3 W 1 
+DSC 6     A 1 C 1 G 1 S 2 T 1 
+DSD 18    A 3 C 1 G 3 R 2 S 4 T 3 W 1 Z 1 
+DSG 6     A 1 G 1 R 1 S 1 T 1 W 1 
+DSH 18    A 3 C 2 G 3 R 1 S 5 T 3 Z 1 
+DSK 12    A 2 C 1 G 2 R 1 S 3 T 2 W 1 
+DSM 12    A 2 C 1 G 2 R 1 S 3 T 2 Z 1 
+DSN 24    A 4 C 2 G 4 R 2 S 6 T 4 W 1 Z 1 
+DSR 12    A 2 G 2 R 2 S 2 T 2 W 1 Z 1 
+DSS 12    A 2 C 1 G 2 R 1 S 3 T 2 W 1 
+DST 6     A 1 C 1 G 1 S 2 T 1 
+DSV 18    A 3 C 1 G 3 R 2 S 4 T 3 W 1 Z 1 
+DSW 12    A 2 C 1 G 2 R 1 S 3 T 2 Z 1 
+DSY 12    A 2 C 2 G 2 S 4 T 2 
+DTA 3     I 1 L 1 V 1 
+DTB 9     F 2 I 2 L 1 M 1 V 3 
+DTC 3     F 1 I 1 V 1 
+DTD 9     F 1 I 2 L 2 M 1 V 3 
+DTG 3     L 1 M 1 V 1 
+DTH 9     F 2 I 3 L 1 V 3 
+DTK 6     F 1 I 1 L 1 M 1 V 2 
+DTM 6     F 1 I 2 L 1 V 2 
+DTN 12    F 2 I 3 L 2 M 1 V 4 
+DTR 6     I 1 L 2 M 1 V 2 
+DTS 6     F 1 I 1 L 1 M 1 V 2 
+DTT 3     F 1 I 1 V 1 
+DTV 9     F 1 I 2 L 2 M 1 V 3 
+DTW 6     F 1 I 2 L 1 V 2 
+DTY 6     F 2 I 2 V 2 
+DVA 9     A 1 E 1 G 1 K 1 R 1 S 1 T 1 Z 2 
+DVB 27    A 3 C 2 D 2 E 1 G 3 K 1 N 2 R 1 S 5 T 3 W 1 Y 2 Z 1 
+DVC 9     A 1 C 1 D 1 G 1 N 1 S 2 T 1 Y 1 
+DVD 27    A 3 C 1 D 1 E 2 G 3 K 2 N 1 R 2 S 4 T 3 W 1 Y 1 Z 3 
+DVG 9     A 1 E 1 G 1 K 1 R 1 S 1 T 1 W 1 Z 1 
+DVH 27    A 3 C 2 D 2 E 1 G 3 K 1 N 2 R 1 S 5 T 3 Y 2 Z 2 
+DVK 18    A 2 C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 3 T 2 W 1 Y 1 Z 1 
+DVM 18    A 2 C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 3 T 2 Y 1 Z 2 
+DVN 36    A 4 C 2 D 2 E 2 G 4 K 2 N 2 R 2 S 6 T 4 W 1 Y 2 Z 3 
+DVR 18    A 2 E 2 G 2 K 2 R 2 S 2 T 2 W 1 Z 3 
+DVS 18    A 2 C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 3 T 2 W 1 Y 1 Z 1 
+DVT 9     A 1 C 1 D 1 G 1 N 1 S 2 T 1 Y 1 
+DVV 27    A 3 C 1 D 1 E 2 G 3 K 2 N 1 R 2 S 4 T 3 W 1 Y 1 Z 3 
+DVW 18    A 2 C 1 D 1 E 1 G 2 K 1 N 1 R 1 S 3 T 2 Y 1 Z 2 
+DVY 18    A 2 C 2 D 2 G 2 N 2 S 4 T 2 Y 2 
+DWA 6     E 1 I 1 K 1 L 1 V 1 Z 1 
+DWB 18    D 2 E 1 F 2 I 2 K 1 L 1 M 1 N 2 V 3 Y 2 Z 1 
+DWC 6     D 1 F 1 I 1 N 1 V 1 Y 1 
+DWD 18    D 1 E 2 F 1 I 2 K 2 L 2 M 1 N 1 V 3 Y 1 Z 2 
+DWG 6     E 1 K 1 L 1 M 1 V 1 Z 1 
+DWH 18    D 2 E 1 F 2 I 3 K 1 L 1 N 2 V 3 Y 2 Z 1 
+DWK 12    D 1 E 1 F 1 I 1 K 1 L 1 M 1 N 1 V 2 Y 1 Z 1 
+DWM 12    D 1 E 1 F 1 I 2 K 1 L 1 N 1 V 2 Y 1 Z 1 
+DWN 24    D 2 E 2 F 2 I 3 K 2 L 2 M 1 N 2 V 4 Y 2 Z 2 
+DWR 12    E 2 I 1 K 2 L 2 M 1 V 2 Z 2 
+DWS 12    D 1 E 1 F 1 I 1 K 1 L 1 M 1 N 1 V 2 Y 1 Z 1 
+DWT 6     D 1 F 1 I 1 N 1 V 1 Y 1 
+DWV 18    D 1 E 2 F 1 I 2 K 2 L 2 M 1 N 1 V 3 Y 1 Z 2 
+DWW 12    D 1 E 1 F 1 I 2 K 1 L 1 N 1 V 2 Y 1 Z 1 
+DWY 12    D 2 F 2 I 2 N 2 V 2 Y 2 
+DYA 6     A 1 I 1 L 1 S 1 T 1 V 1 
+DYB 18    A 3 F 2 I 2 L 1 M 1 S 3 T 3 V 3 
+DYC 6     A 1 F 1 I 1 S 1 T 1 V 1 
+DYD 18    A 3 F 1 I 2 L 2 M 1 S 3 T 3 V 3 
+DYG 6     A 1 L 1 M 1 S 1 T 1 V 1 
+DYH 18    A 3 F 2 I 3 L 1 S 3 T 3 V 3 
+DYK 12    A 2 F 1 I 1 L 1 M 1 S 2 T 2 V 2 
+DYM 12    A 2 F 1 I 2 L 1 S 2 T 2 V 2 
+DYN 24    A 4 F 2 I 3 L 2 M 1 S 4 T 4 V 4 
+DYR 12    A 2 I 1 L 2 M 1 S 2 T 2 V 2 
+DYS 12    A 2 F 1 I 1 L 1 M 1 S 2 T 2 V 2 
+DYT 6     A 1 F 1 I 1 S 1 T 1 V 1 
+DYV 18    A 3 F 1 I 2 L 2 M 1 S 3 T 3 V 3 
+DYW 12    A 2 F 1 I 2 L 1 S 2 T 2 V 2 
+DYY 12    A 2 F 2 I 2 S 2 T 2 V 2 
+GAA 1     E 1 
+GAB 3     D 2 E 1 
+GAC 1     D 1 
+GAD 3     D 1 E 2 
+GAG 1     E 1 
+GAH 3     D 2 E 1 
+GAK 2     D 1 E 1 
+GAM 2     D 1 E 1 
+GAN 4     D 2 E 2 
+GAR 2     E 2 
+GAS 2     D 1 E 1 
+GAT 1     D 1 
+GAV 3     D 1 E 2 
+GAW 2     D 1 E 1 
+GAY 2     D 2 
+GBA 3     A 1 G 1 V 1 
+GBB 9     A 3 G 3 V 3 
+GBC 3     A 1 G 1 V 1 
+GBD 9     A 3 G 3 V 3 
+GBG 3     A 1 G 1 V 1 
+GBH 9     A 3 G 3 V 3 
+GBK 6     A 2 G 2 V 2 
+GBM 6     A 2 G 2 V 2 
+GBN 12    A 4 G 4 V 4 
+GBR 6     A 2 G 2 V 2 
+GBS 6     A 2 G 2 V 2 
+GBT 3     A 1 G 1 V 1 
+GBV 9     A 3 G 3 V 3 
+GBW 6     A 2 G 2 V 2 
+GBY 6     A 2 G 2 V 2 
+GCA 1     A 1 
+GCB 3     A 3 
+GCC 1     A 1 
+GCD 3     A 3 
+GCG 1     A 1 
+GCH 3     A 3 
+GCK 2     A 2 
+GCM 2     A 2 
+GCN 4     A 4 
+GCR 2     A 2 
+GCS 2     A 2 
+GCT 1     A 1 
+GCV 3     A 3 
+GCW 2     A 2 
+GCY 2     A 2 
+GDA 3     E 1 G 1 V 1 
+GDB 9     D 2 E 1 G 3 V 3 
+GDC 3     D 1 G 1 V 1 
+GDD 9     D 1 E 2 G 3 V 3 
+GDG 3     E 1 G 1 V 1 
+GDH 9     D 2 E 1 G 3 V 3 
+GDK 6     D 1 E 1 G 2 V 2 
+GDM 6     D 1 E 1 G 2 V 2 
+GDN 12    D 2 E 2 G 4 V 4 
+GDR 6     E 2 G 2 V 2 
+GDS 6     D 1 E 1 G 2 V 2 
+GDT 3     D 1 G 1 V 1 
+GDV 9     D 1 E 2 G 3 V 3 
+GDW 6     D 1 E 1 G 2 V 2 
+GDY 6     D 2 G 2 V 2 
+GGA 1     G 1 
+GGB 3     G 3 
+GGC 1     G 1 
+GGD 3     G 3 
+GGG 1     G 1 
+GGH 3     G 3 
+GGK 2     G 2 
+GGM 2     G 2 
+GGN 4     G 4 
+GGR 2     G 2 
+GGS 2     G 2 
+GGT 1     G 1 
+GGV 3     G 3 
+GGW 2     G 2 
+GGY 2     G 2 
+GHA 3     A 1 E 1 V 1 
+GHB 9     A 3 D 2 E 1 V 3 
+GHC 3     A 1 D 1 V 1 
+GHD 9     A 3 D 1 E 2 V 3 
+GHG 3     A 1 E 1 V 1 
+GHH 9     A 3 D 2 E 1 V 3 
+GHK 6     A 2 D 1 E 1 V 2 
+GHM 6     A 2 D 1 E 1 V 2 
+GHN 12    A 4 D 2 E 2 V 4 
+GHR 6     A 2 E 2 V 2 
+GHS 6     A 2 D 1 E 1 V 2 
+GHT 3     A 1 D 1 V 1 
+GHV 9     A 3 D 1 E 2 V 3 
+GHW 6     A 2 D 1 E 1 V 2 
+GHY 6     A 2 D 2 V 2 
+GKA 2     G 1 V 1 
+GKB 6     G 3 V 3 
+GKC 2     G 1 V 1 
+GKD 6     G 3 V 3 
+GKG 2     G 1 V 1 
+GKH 6     G 3 V 3 
+GKK 4     G 2 V 2 
+GKM 4     G 2 V 2 
+GKN 8     G 4 V 4 
+GKR 4     G 2 V 2 
+GKS 4     G 2 V 2 
+GKT 2     G 1 V 1 
+GKV 6     G 3 V 3 
+GKW 4     G 2 V 2 
+GKY 4     G 2 V 2 
+GMA 2     A 1 E 1 
+GMB 6     A 3 D 2 E 1 
+GMC 2     A 1 D 1 
+GMD 6     A 3 D 1 E 2 
+GMG 2     A 1 E 1 
+GMH 6     A 3 D 2 E 1 
+GMK 4     A 2 D 1 E 1 
+GMM 4     A 2 D 1 E 1 
+GMN 8     A 4 D 2 E 2 
+GMR 4     A 2 E 2 
+GMS 4     A 2 D 1 E 1 
+GMT 2     A 1 D 1 
+GMV 6     A 3 D 1 E 2 
+GMW 4     A 2 D 1 E 1 
+GMY 4     A 2 D 2 
+GNA 4     A 1 E 1 G 1 V 1 
+GNB 12    A 3 D 2 E 1 G 3 V 3 
+GNC 4     A 1 D 1 G 1 V 1 
+GND 12    A 3 D 1 E 2 G 3 V 3 
+GNG 4     A 1 E 1 G 1 V 1 
+GNH 12    A 3 D 2 E 1 G 3 V 3 
+GNK 8     A 2 D 1 E 1 G 2 V 2 
+GNM 8     A 2 D 1 E 1 G 2 V 2 
+GNN 16    A 4 D 2 E 2 G 4 V 4 
+GNR 8     A 2 E 2 G 2 V 2 
+GNS 8     A 2 D 1 E 1 G 2 V 2 
+GNT 4     A 1 D 1 G 1 V 1 
+GNV 12    A 3 D 1 E 2 G 3 V 3 
+GNW 8     A 2 D 1 E 1 G 2 V 2 
+GNY 8     A 2 D 2 G 2 V 2 
+GRA 2     E 1 G 1 
+GRB 6     D 2 E 1 G 3 
+GRC 2     D 1 G 1 
+GRD 6     D 1 E 2 G 3 
+GRG 2     E 1 G 1 
+GRH 6     D 2 E 1 G 3 
+GRK 4     D 1 E 1 G 2 
+GRM 4     D 1 E 1 G 2 
+GRN 8     D 2 E 2 G 4 
+GRR 4     E 2 G 2 
+GRS 4     D 1 E 1 G 2 
+GRT 2     D 1 G 1 
+GRV 6     D 1 E 2 G 3 
+GRW 4     D 1 E 1 G 2 
+GRY 4     D 2 G 2 
+GSA 2     A 1 G 1 
+GSB 6     A 3 G 3 
+GSC 2     A 1 G 1 
+GSD 6     A 3 G 3 
+GSG 2     A 1 G 1 
+GSH 6     A 3 G 3 
+GSK 4     A 2 G 2 
+GSM 4     A 2 G 2 
+GSN 8     A 4 G 4 
+GSR 4     A 2 G 2 
+GSS 4     A 2 G 2 
+GST 2     A 1 G 1 
+GSV 6     A 3 G 3 
+GSW 4     A 2 G 2 
+GSY 4     A 2 G 2 
+GTA 1     V 1 
+GTB 3     V 3 
+GTC 1     V 1 
+GTD 3     V 3 
+GTG 1     V 1 
+GTH 3     V 3 
+GTK 2     V 2 
+GTM 2     V 2 
+GTN 4     V 4 
+GTR 2     V 2 
+GTS 2     V 2 
+GTT 1     V 1 
+GTV 3     V 3 
+GTW 2     V 2 
+GTY 2     V 2 
+GVA 3     A 1 E 1 G 1 
+GVB 9     A 3 D 2 E 1 G 3 
+GVC 3     A 1 D 1 G 1 
+GVD 9     A 3 D 1 E 2 G 3 
+GVG 3     A 1 E 1 G 1 
+GVH 9     A 3 D 2 E 1 G 3 
+GVK 6     A 2 D 1 E 1 G 2 
+GVM 6     A 2 D 1 E 1 G 2 
+GVN 12    A 4 D 2 E 2 G 4 
+GVR 6     A 2 E 2 G 2 
+GVS 6     A 2 D 1 E 1 G 2 
+GVT 3     A 1 D 1 G 1 
+GVV 9     A 3 D 1 E 2 G 3 
+GVW 6     A 2 D 1 E 1 G 2 
+GVY 6     A 2 D 2 G 2 
+GWA 2     E 1 V 1 
+GWB 6     D 2 E 1 V 3 
+GWC 2     D 1 V 1 
+GWD 6     D 1 E 2 V 3 
+GWG 2     E 1 V 1 
+GWH 6     D 2 E 1 V 3 
+GWK 4     D 1 E 1 V 2 
+GWM 4     D 1 E 1 V 2 
+GWN 8     D 2 E 2 V 4 
+GWR 4     E 2 V 2 
+GWS 4     D 1 E 1 V 2 
+GWT 2     D 1 V 1 
+GWV 6     D 1 E 2 V 3 
+GWW 4     D 1 E 1 V 2 
+GWY 4     D 2 V 2 
+GYA 2     A 1 V 1 
+GYB 6     A 3 V 3 
+GYC 2     A 1 V 1 
+GYD 6     A 3 V 3 
+GYG 2     A 1 V 1 
+GYH 6     A 3 V 3 
+GYK 4     A 2 V 2 
+GYM 4     A 2 V 2 
+GYN 8     A 4 V 4 
+GYR 4     A 2 V 2 
+GYS 4     A 2 V 2 
+GYT 2     A 1 V 1 
+GYV 6     A 3 V 3 
+GYW 4     A 2 V 2 
+GYY 4     A 2 V 2 
+HAA 3     K 1 Q 1 Z 1 
+HAB 9     H 2 K 1 N 2 Q 1 Y 2 Z 1 
+HAC 3     H 1 N 1 Y 1 
+HAD 9     H 1 K 2 N 1 Q 2 Y 1 Z 2 
+HAG 3     K 1 Q 1 Z 1 
+HAH 9     H 2 K 1 N 2 Q 1 Y 2 Z 1 
+HAK 6     H 1 K 1 N 1 Q 1 Y 1 Z 1 
+HAM 6     H 1 K 1 N 1 Q 1 Y 1 Z 1 
+HAN 12    H 2 K 2 N 2 Q 2 Y 2 Z 2 
+HAR 6     K 2 Q 2 Z 2 
+HAS 6     H 1 K 1 N 1 Q 1 Y 1 Z 1 
+HAT 3     H 1 N 1 Y 1 
+HAV 9     H 1 K 2 N 1 Q 2 Y 1 Z 2 
+HAW 6     H 1 K 1 N 1 Q 1 Y 1 Z 1 
+HAY 6     H 2 N 2 Y 2 
+HBA 9     I 1 L 2 P 1 R 2 S 1 T 1 Z 1 
+HBB 27    C 2 F 2 I 2 L 4 M 1 P 3 R 4 S 5 T 3 W 1 
+HBC 9     C 1 F 1 I 1 L 1 P 1 R 1 S 2 T 1 
+HBD 27    C 1 F 1 I 2 L 5 M 1 P 3 R 5 S 4 T 3 W 1 Z 1 
+HBG 9     L 2 M 1 P 1 R 2 S 1 T 1 W 1 
+HBH 27    C 2 F 2 I 3 L 4 P 3 R 4 S 5 T 3 Z 1 
+HBK 18    C 1 F 1 I 1 L 3 M 1 P 2 R 3 S 3 T 2 W 1 
+HBM 18    C 1 F 1 I 2 L 3 P 2 R 3 S 3 T 2 Z 1 
+HBN 36    C 2 F 2 I 3 L 6 M 1 P 4 R 6 S 6 T 4 W 1 Z 1 
+HBR 18    I 1 L 4 M 1 P 2 R 4 S 2 T 2 W 1 Z 1 
+HBS 18    C 1 F 1 I 1 L 3 M 1 P 2 R 3 S 3 T 2 W 1 
+HBT 9     C 1 F 1 I 1 L 1 P 1 R 1 S 2 T 1 
+HBV 27    C 1 F 1 I 2 L 5 M 1 P 3 R 5 S 4 T 3 W 1 Z 1 
+HBW 18    C 1 F 1 I 2 L 3 P 2 R 3 S 3 T 2 Z 1 
+HBY 18    C 2 F 2 I 2 L 2 P 2 R 2 S 4 T 2 
+HCA 3     P 1 S 1 T 1 
+HCB 9     P 3 S 3 T 3 
+HCC 3     P 1 S 1 T 1 
+HCD 9     P 3 S 3 T 3 
+HCG 3     P 1 S 1 T 1 
+HCH 9     P 3 S 3 T 3 
+HCK 6     P 2 S 2 T 2 
+HCM 6     P 2 S 2 T 2 
+HCN 12    P 4 S 4 T 4 
+HCR 6     P 2 S 2 T 2 
+HCS 6     P 2 S 2 T 2 
+HCT 3     P 1 S 1 T 1 
+HCV 9     P 3 S 3 T 3 
+HCW 6     P 2 S 2 T 2 
+HCY 6     P 2 S 2 T 2 
+HDA 9     I 1 K 1 L 2 Q 1 R 2 Z 2 
+HDB 27    C 2 F 2 H 2 I 2 K 1 L 4 M 1 N 2 Q 1 R 4 S 2 W 1 Y 2 Z 1 
+HDC 9     C 1 F 1 H 1 I 1 L 1 N 1 R 1 S 1 Y 1 
+HDD 27    C 1 F 1 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 R 5 S 1 W 1 Y 1 Z 3 
+HDG 9     K 1 L 2 M 1 Q 1 R 2 W 1 Z 1 
+HDH 27    C 2 F 2 H 2 I 3 K 1 L 4 N 2 Q 1 R 4 S 2 Y 2 Z 2 
+HDK 18    C 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 R 3 S 1 W 1 Y 1 Z 1 
+HDM 18    C 1 F 1 H 1 I 2 K 1 L 3 N 1 Q 1 R 3 S 1 Y 1 Z 2 
+HDN 36    C 2 F 2 H 2 I 3 K 2 L 6 M 1 N 2 Q 2 R 6 S 2 W 1 Y 2 Z 3 
+HDR 18    I 1 K 2 L 4 M 1 Q 2 R 4 W 1 Z 3 
+HDS 18    C 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 R 3 S 1 W 1 Y 1 Z 1 
+HDT 9     C 1 F 1 H 1 I 1 L 1 N 1 R 1 S 1 Y 1 
+HDV 27    C 1 F 1 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 R 5 S 1 W 1 Y 1 Z 3 
+HDW 18    C 1 F 1 H 1 I 2 K 1 L 3 N 1 Q 1 R 3 S 1 Y 1 Z 2 
+HDY 18    C 2 F 2 H 2 I 2 L 2 N 2 R 2 S 2 Y 2 
+HGA 3     R 2 Z 1 
+HGB 9     C 2 R 4 S 2 W 1 
+HGC 3     C 1 R 1 S 1 
+HGD 9     C 1 R 5 S 1 W 1 Z 1 
+HGG 3     R 2 W 1 
+HGH 9     C 2 R 4 S 2 Z 1 
+HGK 6     C 1 R 3 S 1 W 1 
+HGM 6     C 1 R 3 S 1 Z 1 
+HGN 12    C 2 R 6 S 2 W 1 Z 1 
+HGR 6     R 4 W 1 Z 1 
+HGS 6     C 1 R 3 S 1 W 1 
+HGT 3     C 1 R 1 S 1 
+HGV 9     C 1 R 5 S 1 W 1 Z 1 
+HGW 6     C 1 R 3 S 1 Z 1 
+HGY 6     C 2 R 2 S 2 
+HHA 9     I 1 K 1 L 2 P 1 Q 1 S 1 T 1 Z 1 
+HHB 27    F 2 H 2 I 2 K 1 L 4 M 1 N 2 P 3 Q 1 S 3 T 3 Y 2 Z 1 
+HHC 9     F 1 H 1 I 1 L 1 N 1 P 1 S 1 T 1 Y 1 
+HHD 27    F 1 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 S 3 T 3 Y 1 Z 2 
+HHG 9     K 1 L 2 M 1 P 1 Q 1 S 1 T 1 Z 1 
+HHH 27    F 2 H 2 I 3 K 1 L 4 N 2 P 3 Q 1 S 3 T 3 Y 2 Z 1 
+HHK 18    F 1 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HHM 18    F 1 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HHN 36    F 2 H 2 I 3 K 2 L 6 M 1 N 2 P 4 Q 2 S 4 T 4 Y 2 Z 2 
+HHR 18    I 1 K 2 L 4 M 1 P 2 Q 2 S 2 T 2 Z 2 
+HHS 18    F 1 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HHT 9     F 1 H 1 I 1 L 1 N 1 P 1 S 1 T 1 Y 1 
+HHV 27    F 1 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 S 3 T 3 Y 1 Z 2 
+HHW 18    F 1 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HHY 18    F 2 H 2 I 2 L 2 N 2 P 2 S 2 T 2 Y 2 
+HKA 6     I 1 L 2 R 2 Z 1 
+HKB 18    C 2 F 2 I 2 L 4 M 1 R 4 S 2 W 1 
+HKC 6     C 1 F 1 I 1 L 1 R 1 S 1 
+HKD 18    C 1 F 1 I 2 L 5 M 1 R 5 S 1 W 1 Z 1 
+HKG 6     L 2 M 1 R 2 W 1 
+HKH 18    C 2 F 2 I 3 L 4 R 4 S 2 Z 1 
+HKK 12    C 1 F 1 I 1 L 3 M 1 R 3 S 1 W 1 
+HKM 12    C 1 F 1 I 2 L 3 R 3 S 1 Z 1 
+HKN 24    C 2 F 2 I 3 L 6 M 1 R 6 S 2 W 1 Z 1 
+HKR 12    I 1 L 4 M 1 R 4 W 1 Z 1 
+HKS 12    C 1 F 1 I 1 L 3 M 1 R 3 S 1 W 1 
+HKT 6     C 1 F 1 I 1 L 1 R 1 S 1 
+HKV 18    C 1 F 1 I 2 L 5 M 1 R 5 S 1 W 1 Z 1 
+HKW 12    C 1 F 1 I 2 L 3 R 3 S 1 Z 1 
+HKY 12    C 2 F 2 I 2 L 2 R 2 S 2 
+HMA 6     K 1 P 1 Q 1 S 1 T 1 Z 1 
+HMB 18    H 2 K 1 N 2 P 3 Q 1 S 3 T 3 Y 2 Z 1 
+HMC 6     H 1 N 1 P 1 S 1 T 1 Y 1 
+HMD 18    H 1 K 2 N 1 P 3 Q 2 S 3 T 3 Y 1 Z 2 
+HMG 6     K 1 P 1 Q 1 S 1 T 1 Z 1 
+HMH 18    H 2 K 1 N 2 P 3 Q 1 S 3 T 3 Y 2 Z 1 
+HMK 12    H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HMM 12    H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HMN 24    H 2 K 2 N 2 P 4 Q 2 S 4 T 4 Y 2 Z 2 
+HMR 12    K 2 P 2 Q 2 S 2 T 2 Z 2 
+HMS 12    H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HMT 6     H 1 N 1 P 1 S 1 T 1 Y 1 
+HMV 18    H 1 K 2 N 1 P 3 Q 2 S 3 T 3 Y 1 Z 2 
+HMW 12    H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+HMY 12    H 2 N 2 P 2 S 2 T 2 Y 2 
+HNA 12    I 1 K 1 L 2 P 1 Q 1 R 2 S 1 T 1 Z 2 
+HNB 36    C 2 F 2 H 2 I 2 K 1 L 4 M 1 N 2 P 3 Q 1 R 4 S 5 T 3 W 1 Y 2 Z 1 
+HNC 12    C 1 F 1 H 1 I 1 L 1 N 1 P 1 R 1 S 2 T 1 Y 1 
+HND 36    C 1 F 1 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 R 5 S 4 T 3 W 1 Y 1 Z 3 
+HNG 12    K 1 L 2 M 1 P 1 Q 1 R 2 S 1 T 1 W 1 Z 1 
+HNH 36    C 2 F 2 H 2 I 3 K 1 L 4 N 2 P 3 Q 1 R 4 S 5 T 3 Y 2 Z 2 
+HNK 24    C 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 R 3 S 3 T 2 W 1 Y 1 Z 1 
+HNM 24    C 1 F 1 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 R 3 S 3 T 2 Y 1 Z 2 
+HNN 48    C 2 F 2 H 2 I 3 K 2 L 6 M 1 N 2 P 4 Q 2 R 6 S 6 T 4 W 1 Y 2 Z 3 
+HNR 24    I 1 K 2 L 4 M 1 P 2 Q 2 R 4 S 2 T 2 W 1 Z 3 
+HNS 24    C 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 R 3 S 3 T 2 W 1 Y 1 Z 1 
+HNT 12    C 1 F 1 H 1 I 1 L 1 N 1 P 1 R 1 S 2 T 1 Y 1 
+HNV 36    C 1 F 1 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 R 5 S 4 T 3 W 1 Y 1 Z 3 
+HNW 24    C 1 F 1 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 R 3 S 3 T 2 Y 1 Z 2 
+HNY 24    C 2 F 2 H 2 I 2 L 2 N 2 P 2 R 2 S 4 T 2 Y 2 
+HRA 6     K 1 Q 1 R 2 Z 2 
+HRB 18    C 2 H 2 K 1 N 2 Q 1 R 4 S 2 W 1 Y 2 Z 1 
+HRC 6     C 1 H 1 N 1 R 1 S 1 Y 1 
+HRD 18    C 1 H 1 K 2 N 1 Q 2 R 5 S 1 W 1 Y 1 Z 3 
+HRG 6     K 1 Q 1 R 2 W 1 Z 1 
+HRH 18    C 2 H 2 K 1 N 2 Q 1 R 4 S 2 Y 2 Z 2 
+HRK 12    C 1 H 1 K 1 N 1 Q 1 R 3 S 1 W 1 Y 1 Z 1 
+HRM 12    C 1 H 1 K 1 N 1 Q 1 R 3 S 1 Y 1 Z 2 
+HRN 24    C 2 H 2 K 2 N 2 Q 2 R 6 S 2 W 1 Y 2 Z 3 
+HRR 12    K 2 Q 2 R 4 W 1 Z 3 
+HRS 12    C 1 H 1 K 1 N 1 Q 1 R 3 S 1 W 1 Y 1 Z 1 
+HRT 6     C 1 H 1 N 1 R 1 S 1 Y 1 
+HRV 18    C 1 H 1 K 2 N 1 Q 2 R 5 S 1 W 1 Y 1 Z 3 
+HRW 12    C 1 H 1 K 1 N 1 Q 1 R 3 S 1 Y 1 Z 2 
+HRY 12    C 2 H 2 N 2 R 2 S 2 Y 2 
+HSA 6     P 1 R 2 S 1 T 1 Z 1 
+HSB 18    C 2 P 3 R 4 S 5 T 3 W 1 
+HSC 6     C 1 P 1 R 1 S 2 T 1 
+HSD 18    C 1 P 3 R 5 S 4 T 3 W 1 Z 1 
+HSG 6     P 1 R 2 S 1 T 1 W 1 
+HSH 18    C 2 P 3 R 4 S 5 T 3 Z 1 
+HSK 12    C 1 P 2 R 3 S 3 T 2 W 1 
+HSM 12    C 1 P 2 R 3 S 3 T 2 Z 1 
+HSN 24    C 2 P 4 R 6 S 6 T 4 W 1 Z 1 
+HSR 12    P 2 R 4 S 2 T 2 W 1 Z 1 
+HSS 12    C 1 P 2 R 3 S 3 T 2 W 1 
+HST 6     C 1 P 1 R 1 S 2 T 1 
+HSV 18    C 1 P 3 R 5 S 4 T 3 W 1 Z 1 
+HSW 12    C 1 P 2 R 3 S 3 T 2 Z 1 
+HSY 12    C 2 P 2 R 2 S 4 T 2 
+HTA 3     I 1 L 2 
+HTB 9     F 2 I 2 L 4 M 1 
+HTC 3     F 1 I 1 L 1 
+HTD 9     F 1 I 2 L 5 M 1 
+HTG 3     L 2 M 1 
+HTH 9     F 2 I 3 L 4 
+HTK 6     F 1 I 1 L 3 M 1 
+HTM 6     F 1 I 2 L 3 
+HTN 12    F 2 I 3 L 6 M 1 
+HTR 6     I 1 L 4 M 1 
+HTS 6     F 1 I 1 L 3 M 1 
+HTT 3     F 1 I 1 L 1 
+HTV 9     F 1 I 2 L 5 M 1 
+HTW 6     F 1 I 2 L 3 
+HTY 6     F 2 I 2 L 2 
+HVA 9     K 1 P 1 Q 1 R 2 S 1 T 1 Z 2 
+HVB 27    C 2 H 2 K 1 N 2 P 3 Q 1 R 4 S 5 T 3 W 1 Y 2 Z 1 
+HVC 9     C 1 H 1 N 1 P 1 R 1 S 2 T 1 Y 1 
+HVD 27    C 1 H 1 K 2 N 1 P 3 Q 2 R 5 S 4 T 3 W 1 Y 1 Z 3 
+HVG 9     K 1 P 1 Q 1 R 2 S 1 T 1 W 1 Z 1 
+HVH 27    C 2 H 2 K 1 N 2 P 3 Q 1 R 4 S 5 T 3 Y 2 Z 2 
+HVK 18    C 1 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 W 1 Y 1 Z 1 
+HVM 18    C 1 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 Y 1 Z 2 
+HVN 36    C 2 H 2 K 2 N 2 P 4 Q 2 R 6 S 6 T 4 W 1 Y 2 Z 3 
+HVR 18    K 2 P 2 Q 2 R 4 S 2 T 2 W 1 Z 3 
+HVS 18    C 1 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 W 1 Y 1 Z 1 
+HVT 9     C 1 H 1 N 1 P 1 R 1 S 2 T 1 Y 1 
+HVV 27    C 1 H 1 K 2 N 1 P 3 Q 2 R 5 S 4 T 3 W 1 Y 1 Z 3 
+HVW 18    C 1 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 Y 1 Z 2 
+HVY 18    C 2 H 2 N 2 P 2 R 2 S 4 T 2 Y 2 
+HWA 6     I 1 K 1 L 2 Q 1 Z 1 
+HWB 18    F 2 H 2 I 2 K 1 L 4 M 1 N 2 Q 1 Y 2 Z 1 
+HWC 6     F 1 H 1 I 1 L 1 N 1 Y 1 
+HWD 18    F 1 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 Y 1 Z 2 
+HWG 6     K 1 L 2 M 1 Q 1 Z 1 
+HWH 18    F 2 H 2 I 3 K 1 L 4 N 2 Q 1 Y 2 Z 1 
+HWK 12    F 1 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 Y 1 Z 1 
+HWM 12    F 1 H 1 I 2 K 1 L 3 N 1 Q 1 Y 1 Z 1 
+HWN 24    F 2 H 2 I 3 K 2 L 6 M 1 N 2 Q 2 Y 2 Z 2 
+HWR 12    I 1 K 2 L 4 M 1 Q 2 Z 2 
+HWS 12    F 1 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 Y 1 Z 1 
+HWT 6     F 1 H 1 I 1 L 1 N 1 Y 1 
+HWV 18    F 1 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 Y 1 Z 2 
+HWW 12    F 1 H 1 I 2 K 1 L 3 N 1 Q 1 Y 1 Z 1 
+HWY 12    F 2 H 2 I 2 L 2 N 2 Y 2 
+HYA 6     I 1 L 2 P 1 S 1 T 1 
+HYB 18    F 2 I 2 L 4 M 1 P 3 S 3 T 3 
+HYC 6     F 1 I 1 L 1 P 1 S 1 T 1 
+HYD 18    F 1 I 2 L 5 M 1 P 3 S 3 T 3 
+HYG 6     L 2 M 1 P 1 S 1 T 1 
+HYH 18    F 2 I 3 L 4 P 3 S 3 T 3 
+HYK 12    F 1 I 1 L 3 M 1 P 2 S 2 T 2 
+HYM 12    F 1 I 2 L 3 P 2 S 2 T 2 
+HYN 24    F 2 I 3 L 6 M 1 P 4 S 4 T 4 
+HYR 12    I 1 L 4 M 1 P 2 S 2 T 2 
+HYS 12    F 1 I 1 L 3 M 1 P 2 S 2 T 2 
+HYT 6     F 1 I 1 L 1 P 1 S 1 T 1 
+HYV 18    F 1 I 2 L 5 M 1 P 3 S 3 T 3 
+HYW 12    F 1 I 2 L 3 P 2 S 2 T 2 
+HYY 12    F 2 I 2 L 2 P 2 S 2 T 2 
+KAA 2     E 1 Z 1 
+KAB 6     D 2 E 1 Y 2 Z 1 
+KAC 2     D 1 Y 1 
+KAD 6     D 1 E 2 Y 1 Z 2 
+KAG 2     E 1 Z 1 
+KAH 6     D 2 E 1 Y 2 Z 1 
+KAK 4     D 1 E 1 Y 1 Z 1 
+KAM 4     D 1 E 1 Y 1 Z 1 
+KAN 8     D 2 E 2 Y 2 Z 2 
+KAR 4     E 2 Z 2 
+KAS 4     D 1 E 1 Y 1 Z 1 
+KAT 2     D 1 Y 1 
+KAV 6     D 1 E 2 Y 1 Z 2 
+KAW 4     D 1 E 1 Y 1 Z 1 
+KAY 4     D 2 Y 2 
+KBA 6     A 1 G 1 L 1 S 1 V 1 Z 1 
+KBB 18    A 3 C 2 F 2 G 3 L 1 S 3 V 3 W 1 
+KBC 6     A 1 C 1 F 1 G 1 S 1 V 1 
+KBD 18    A 3 C 1 F 1 G 3 L 2 S 3 V 3 W 1 Z 1 
+KBG 6     A 1 G 1 L 1 S 1 V 1 W 1 
+KBH 18    A 3 C 2 F 2 G 3 L 1 S 3 V 3 Z 1 
+KBK 12    A 2 C 1 F 1 G 2 L 1 S 2 V 2 W 1 
+KBM 12    A 2 C 1 F 1 G 2 L 1 S 2 V 2 Z 1 
+KBN 24    A 4 C 2 F 2 G 4 L 2 S 4 V 4 W 1 Z 1 
+KBR 12    A 2 G 2 L 2 S 2 V 2 W 1 Z 1 
+KBS 12    A 2 C 1 F 1 G 2 L 1 S 2 V 2 W 1 
+KBT 6     A 1 C 1 F 1 G 1 S 1 V 1 
+KBV 18    A 3 C 1 F 1 G 3 L 2 S 3 V 3 W 1 Z 1 
+KBW 12    A 2 C 1 F 1 G 2 L 1 S 2 V 2 Z 1 
+KBY 12    A 2 C 2 F 2 G 2 S 2 V 2 
+KCA 2     A 1 S 1 
+KCB 6     A 3 S 3 
+KCC 2     A 1 S 1 
+KCD 6     A 3 S 3 
+KCG 2     A 1 S 1 
+KCH 6     A 3 S 3 
+KCK 4     A 2 S 2 
+KCM 4     A 2 S 2 
+KCN 8     A 4 S 4 
+KCR 4     A 2 S 2 
+KCS 4     A 2 S 2 
+KCT 2     A 1 S 1 
+KCV 6     A 3 S 3 
+KCW 4     A 2 S 2 
+KCY 4     A 2 S 2 
+KDA 6     E 1 G 1 L 1 V 1 Z 2 
+KDB 18    C 2 D 2 E 1 F 2 G 3 L 1 V 3 W 1 Y 2 Z 1 
+KDC 6     C 1 D 1 F 1 G 1 V 1 Y 1 
+KDD 18    C 1 D 1 E 2 F 1 G 3 L 2 V 3 W 1 Y 1 Z 3 
+KDG 6     E 1 G 1 L 1 V 1 W 1 Z 1 
+KDH 18    C 2 D 2 E 1 F 2 G 3 L 1 V 3 Y 2 Z 2 
+KDK 12    C 1 D 1 E 1 F 1 G 2 L 1 V 2 W 1 Y 1 Z 1 
+KDM 12    C 1 D 1 E 1 F 1 G 2 L 1 V 2 Y 1 Z 2 
+KDN 24    C 2 D 2 E 2 F 2 G 4 L 2 V 4 W 1 Y 2 Z 3 
+KDR 12    E 2 G 2 L 2 V 2 W 1 Z 3 
+KDS 12    C 1 D 1 E 1 F 1 G 2 L 1 V 2 W 1 Y 1 Z 1 
+KDT 6     C 1 D 1 F 1 G 1 V 1 Y 1 
+KDV 18    C 1 D 1 E 2 F 1 G 3 L 2 V 3 W 1 Y 1 Z 3 
+KDW 12    C 1 D 1 E 1 F 1 G 2 L 1 V 2 Y 1 Z 2 
+KDY 12    C 2 D 2 F 2 G 2 V 2 Y 2 
+KGA 2     G 1 Z 1 
+KGB 6     C 2 G 3 W 1 
+KGC 2     C 1 G 1 
+KGD 6     C 1 G 3 W 1 Z 1 
+KGG 2     G 1 W 1 
+KGH 6     C 2 G 3 Z 1 
+KGK 4     C 1 G 2 W 1 
+KGM 4     C 1 G 2 Z 1 
+KGN 8     C 2 G 4 W 1 Z 1 
+KGR 4     G 2 W 1 Z 1 
+KGS 4     C 1 G 2 W 1 
+KGT 2     C 1 G 1 
+KGV 6     C 1 G 3 W 1 Z 1 
+KGW 4     C 1 G 2 Z 1 
+KGY 4     C 2 G 2 
+KHA 6     A 1 E 1 L 1 S 1 V 1 Z 1 
+KHB 18    A 3 D 2 E 1 F 2 L 1 S 3 V 3 Y 2 Z 1 
+KHC 6     A 1 D 1 F 1 S 1 V 1 Y 1 
+KHD 18    A 3 D 1 E 2 F 1 L 2 S 3 V 3 Y 1 Z 2 
+KHG 6     A 1 E 1 L 1 S 1 V 1 Z 1 
+KHH 18    A 3 D 2 E 1 F 2 L 1 S 3 V 3 Y 2 Z 1 
+KHK 12    A 2 D 1 E 1 F 1 L 1 S 2 V 2 Y 1 Z 1 
+KHM 12    A 2 D 1 E 1 F 1 L 1 S 2 V 2 Y 1 Z 1 
+KHN 24    A 4 D 2 E 2 F 2 L 2 S 4 V 4 Y 2 Z 2 
+KHR 12    A 2 E 2 L 2 S 2 V 2 Z 2 
+KHS 12    A 2 D 1 E 1 F 1 L 1 S 2 V 2 Y 1 Z 1 
+KHT 6     A 1 D 1 F 1 S 1 V 1 Y 1 
+KHV 18    A 3 D 1 E 2 F 1 L 2 S 3 V 3 Y 1 Z 2 
+KHW 12    A 2 D 1 E 1 F 1 L 1 S 2 V 2 Y 1 Z 1 
+KHY 12    A 2 D 2 F 2 S 2 V 2 Y 2 
+KKA 4     G 1 L 1 V 1 Z 1 
+KKB 12    C 2 F 2 G 3 L 1 V 3 W 1 
+KKC 4     C 1 F 1 G 1 V 1 
+KKD 12    C 1 F 1 G 3 L 2 V 3 W 1 Z 1 
+KKG 4     G 1 L 1 V 1 W 1 
+KKH 12    C 2 F 2 G 3 L 1 V 3 Z 1 
+KKK 8     C 1 F 1 G 2 L 1 V 2 W 1 
+KKM 8     C 1 F 1 G 2 L 1 V 2 Z 1 
+KKN 16    C 2 F 2 G 4 L 2 V 4 W 1 Z 1 
+KKR 8     G 2 L 2 V 2 W 1 Z 1 
+KKS 8     C 1 F 1 G 2 L 1 V 2 W 1 
+KKT 4     C 1 F 1 G 1 V 1 
+KKV 12    C 1 F 1 G 3 L 2 V 3 W 1 Z 1 
+KKW 8     C 1 F 1 G 2 L 1 V 2 Z 1 
+KKY 8     C 2 F 2 G 2 V 2 
+KMA 4     A 1 E 1 S 1 Z 1 
+KMB 12    A 3 D 2 E 1 S 3 Y 2 Z 1 
+KMC 4     A 1 D 1 S 1 Y 1 
+KMD 12    A 3 D 1 E 2 S 3 Y 1 Z 2 
+KMG 4     A 1 E 1 S 1 Z 1 
+KMH 12    A 3 D 2 E 1 S 3 Y 2 Z 1 
+KMK 8     A 2 D 1 E 1 S 2 Y 1 Z 1 
+KMM 8     A 2 D 1 E 1 S 2 Y 1 Z 1 
+KMN 16    A 4 D 2 E 2 S 4 Y 2 Z 2 
+KMR 8     A 2 E 2 S 2 Z 2 
+KMS 8     A 2 D 1 E 1 S 2 Y 1 Z 1 
+KMT 4     A 1 D 1 S 1 Y 1 
+KMV 12    A 3 D 1 E 2 S 3 Y 1 Z 2 
+KMW 8     A 2 D 1 E 1 S 2 Y 1 Z 1 
+KMY 8     A 2 D 2 S 2 Y 2 
+KNA 8     A 1 E 1 G 1 L 1 S 1 V 1 Z 2 
+KNB 24    A 3 C 2 D 2 E 1 F 2 G 3 L 1 S 3 V 3 W 1 Y 2 Z 1 
+KNC 8     A 1 C 1 D 1 F 1 G 1 S 1 V 1 Y 1 
+KND 24    A 3 C 1 D 1 E 2 F 1 G 3 L 2 S 3 V 3 W 1 Y 1 Z 3 
+KNG 8     A 1 E 1 G 1 L 1 S 1 V 1 W 1 Z 1 
+KNH 24    A 3 C 2 D 2 E 1 F 2 G 3 L 1 S 3 V 3 Y 2 Z 2 
+KNK 16    A 2 C 1 D 1 E 1 F 1 G 2 L 1 S 2 V 2 W 1 Y 1 Z 1 
+KNM 16    A 2 C 1 D 1 E 1 F 1 G 2 L 1 S 2 V 2 Y 1 Z 2 
+KNN 32    A 4 C 2 D 2 E 2 F 2 G 4 L 2 S 4 V 4 W 1 Y 2 Z 3 
+KNR 16    A 2 E 2 G 2 L 2 S 2 V 2 W 1 Z 3 
+KNS 16    A 2 C 1 D 1 E 1 F 1 G 2 L 1 S 2 V 2 W 1 Y 1 Z 1 
+KNT 8     A 1 C 1 D 1 F 1 G 1 S 1 V 1 Y 1 
+KNV 24    A 3 C 1 D 1 E 2 F 1 G 3 L 2 S 3 V 3 W 1 Y 1 Z 3 
+KNW 16    A 2 C 1 D 1 E 1 F 1 G 2 L 1 S 2 V 2 Y 1 Z 2 
+KNY 16    A 2 C 2 D 2 F 2 G 2 S 2 V 2 Y 2 
+KRA 4     E 1 G 1 Z 2 
+KRB 12    C 2 D 2 E 1 G 3 W 1 Y 2 Z 1 
+KRC 4     C 1 D 1 G 1 Y 1 
+KRD 12    C 1 D 1 E 2 G 3 W 1 Y 1 Z 3 
+KRG 4     E 1 G 1 W 1 Z 1 
+KRH 12    C 2 D 2 E 1 G 3 Y 2 Z 2 
+KRK 8     C 1 D 1 E 1 G 2 W 1 Y 1 Z 1 
+KRM 8     C 1 D 1 E 1 G 2 Y 1 Z 2 
+KRN 16    C 2 D 2 E 2 G 4 W 1 Y 2 Z 3 
+KRR 8     E 2 G 2 W 1 Z 3 
+KRS 8     C 1 D 1 E 1 G 2 W 1 Y 1 Z 1 
+KRT 4     C 1 D 1 G 1 Y 1 
+KRV 12    C 1 D 1 E 2 G 3 W 1 Y 1 Z 3 
+KRW 8     C 1 D 1 E 1 G 2 Y 1 Z 2 
+KRY 8     C 2 D 2 G 2 Y 2 
+KSA 4     A 1 G 1 S 1 Z 1 
+KSB 12    A 3 C 2 G 3 S 3 W 1 
+KSC 4     A 1 C 1 G 1 S 1 
+KSD 12    A 3 C 1 G 3 S 3 W 1 Z 1 
+KSG 4     A 1 G 1 S 1 W 1 
+KSH 12    A 3 C 2 G 3 S 3 Z 1 
+KSK 8     A 2 C 1 G 2 S 2 W 1 
+KSM 8     A 2 C 1 G 2 S 2 Z 1 
+KSN 16    A 4 C 2 G 4 S 4 W 1 Z 1 
+KSR 8     A 2 G 2 S 2 W 1 Z 1 
+KSS 8     A 2 C 1 G 2 S 2 W 1 
+KST 4     A 1 C 1 G 1 S 1 
+KSV 12    A 3 C 1 G 3 S 3 W 1 Z 1 
+KSW 8     A 2 C 1 G 2 S 2 Z 1 
+KSY 8     A 2 C 2 G 2 S 2 
+KTA 2     L 1 V 1 
+KTB 6     F 2 L 1 V 3 
+KTC 2     F 1 V 1 
+KTD 6     F 1 L 2 V 3 
+KTG 2     L 1 V 1 
+KTH 6     F 2 L 1 V 3 
+KTK 4     F 1 L 1 V 2 
+KTM 4     F 1 L 1 V 2 
+KTN 8     F 2 L 2 V 4 
+KTR 4     L 2 V 2 
+KTS 4     F 1 L 1 V 2 
+KTT 2     F 1 V 1 
+KTV 6     F 1 L 2 V 3 
+KTW 4     F 1 L 1 V 2 
+KTY 4     F 2 V 2 
+KVA 6     A 1 E 1 G 1 S 1 Z 2 
+KVB 18    A 3 C 2 D 2 E 1 G 3 S 3 W 1 Y 2 Z 1 
+KVC 6     A 1 C 1 D 1 G 1 S 1 Y 1 
+KVD 18    A 3 C 1 D 1 E 2 G 3 S 3 W 1 Y 1 Z 3 
+KVG 6     A 1 E 1 G 1 S 1 W 1 Z 1 
+KVH 18    A 3 C 2 D 2 E 1 G 3 S 3 Y 2 Z 2 
+KVK 12    A 2 C 1 D 1 E 1 G 2 S 2 W 1 Y 1 Z 1 
+KVM 12    A 2 C 1 D 1 E 1 G 2 S 2 Y 1 Z 2 
+KVN 24    A 4 C 2 D 2 E 2 G 4 S 4 W 1 Y 2 Z 3 
+KVR 12    A 2 E 2 G 2 S 2 W 1 Z 3 
+KVS 12    A 2 C 1 D 1 E 1 G 2 S 2 W 1 Y 1 Z 1 
+KVT 6     A 1 C 1 D 1 G 1 S 1 Y 1 
+KVV 18    A 3 C 1 D 1 E 2 G 3 S 3 W 1 Y 1 Z 3 
+KVW 12    A 2 C 1 D 1 E 1 G 2 S 2 Y 1 Z 2 
+KVY 12    A 2 C 2 D 2 G 2 S 2 Y 2 
+KWA 4     E 1 L 1 V 1 Z 1 
+KWB 12    D 2 E 1 F 2 L 1 V 3 Y 2 Z 1 
+KWC 4     D 1 F 1 V 1 Y 1 
+KWD 12    D 1 E 2 F 1 L 2 V 3 Y 1 Z 2 
+KWG 4     E 1 L 1 V 1 Z 1 
+KWH 12    D 2 E 1 F 2 L 1 V 3 Y 2 Z 1 
+KWK 8     D 1 E 1 F 1 L 1 V 2 Y 1 Z 1 
+KWM 8     D 1 E 1 F 1 L 1 V 2 Y 1 Z 1 
+KWN 16    D 2 E 2 F 2 L 2 V 4 Y 2 Z 2 
+KWR 8     E 2 L 2 V 2 Z 2 
+KWS 8     D 1 E 1 F 1 L 1 V 2 Y 1 Z 1 
+KWT 4     D 1 F 1 V 1 Y 1 
+KWV 12    D 1 E 2 F 1 L 2 V 3 Y 1 Z 2 
+KWW 8     D 1 E 1 F 1 L 1 V 2 Y 1 Z 1 
+KWY 8     D 2 F 2 V 2 Y 2 
+KYA 4     A 1 L 1 S 1 V 1 
+KYB 12    A 3 F 2 L 1 S 3 V 3 
+KYC 4     A 1 F 1 S 1 V 1 
+KYD 12    A 3 F 1 L 2 S 3 V 3 
+KYG 4     A 1 L 1 S 1 V 1 
+KYH 12    A 3 F 2 L 1 S 3 V 3 
+KYK 8     A 2 F 1 L 1 S 2 V 2 
+KYM 8     A 2 F 1 L 1 S 2 V 2 
+KYN 16    A 4 F 2 L 2 S 4 V 4 
+KYR 8     A 2 L 2 S 2 V 2 
+KYS 8     A 2 F 1 L 1 S 2 V 2 
+KYT 4     A 1 F 1 S 1 V 1 
+KYV 12    A 3 F 1 L 2 S 3 V 3 
+KYW 8     A 2 F 1 L 1 S 2 V 2 
+KYY 8     A 2 F 2 S 2 V 2 
+MAA 2     K 1 Q 1 
+MAB 6     H 2 K 1 N 2 Q 1 
+MAC 2     H 1 N 1 
+MAD 6     H 1 K 2 N 1 Q 2 
+MAG 2     K 1 Q 1 
+MAH 6     H 2 K 1 N 2 Q 1 
+MAK 4     H 1 K 1 N 1 Q 1 
+MAM 4     H 1 K 1 N 1 Q 1 
+MAN 8     H 2 K 2 N 2 Q 2 
+MAR 4     K 2 Q 2 
+MAS 4     H 1 K 1 N 1 Q 1 
+MAT 2     H 1 N 1 
+MAV 6     H 1 K 2 N 1 Q 2 
+MAW 4     H 1 K 1 N 1 Q 1 
+MAY 4     H 2 N 2 
+MBA 6     I 1 L 1 P 1 R 2 T 1 
+MBB 18    I 2 L 3 M 1 P 3 R 4 S 2 T 3 
+MBC 6     I 1 L 1 P 1 R 1 S 1 T 1 
+MBD 18    I 2 L 3 M 1 P 3 R 5 S 1 T 3 
+MBG 6     L 1 M 1 P 1 R 2 T 1 
+MBH 18    I 3 L 3 P 3 R 4 S 2 T 3 
+MBK 12    I 1 L 2 M 1 P 2 R 3 S 1 T 2 
+MBM 12    I 2 L 2 P 2 R 3 S 1 T 2 
+MBN 24    I 3 L 4 M 1 P 4 R 6 S 2 T 4 
+MBR 12    I 1 L 2 M 1 P 2 R 4 T 2 
+MBS 12    I 1 L 2 M 1 P 2 R 3 S 1 T 2 
+MBT 6     I 1 L 1 P 1 R 1 S 1 T 1 
+MBV 18    I 2 L 3 M 1 P 3 R 5 S 1 T 3 
+MBW 12    I 2 L 2 P 2 R 3 S 1 T 2 
+MBY 12    I 2 L 2 P 2 R 2 S 2 T 2 
+MCA 2     P 1 T 1 
+MCB 6     P 3 T 3 
+MCC 2     P 1 T 1 
+MCD 6     P 3 T 3 
+MCG 2     P 1 T 1 
+MCH 6     P 3 T 3 
+MCK 4     P 2 T 2 
+MCM 4     P 2 T 2 
+MCN 8     P 4 T 4 
+MCR 4     P 2 T 2 
+MCS 4     P 2 T 2 
+MCT 2     P 1 T 1 
+MCV 6     P 3 T 3 
+MCW 4     P 2 T 2 
+MCY 4     P 2 T 2 
+MDA 6     I 1 K 1 L 1 Q 1 R 2 
+MDB 18    H 2 I 2 K 1 L 3 M 1 N 2 Q 1 R 4 S 2 
+MDC 6     H 1 I 1 L 1 N 1 R 1 S 1 
+MDD 18    H 1 I 2 K 2 L 3 M 1 N 1 Q 2 R 5 S 1 
+MDG 6     K 1 L 1 M 1 Q 1 R 2 
+MDH 18    H 2 I 3 K 1 L 3 N 2 Q 1 R 4 S 2 
+MDK 12    H 1 I 1 K 1 L 2 M 1 N 1 Q 1 R 3 S 1 
+MDM 12    H 1 I 2 K 1 L 2 N 1 Q 1 R 3 S 1 
+MDN 24    H 2 I 3 K 2 L 4 M 1 N 2 Q 2 R 6 S 2 
+MDR 12    I 1 K 2 L 2 M 1 Q 2 R 4 
+MDS 12    H 1 I 1 K 1 L 2 M 1 N 1 Q 1 R 3 S 1 
+MDT 6     H 1 I 1 L 1 N 1 R 1 S 1 
+MDV 18    H 1 I 2 K 2 L 3 M 1 N 1 Q 2 R 5 S 1 
+MDW 12    H 1 I 2 K 1 L 2 N 1 Q 1 R 3 S 1 
+MDY 12    H 2 I 2 L 2 N 2 R 2 S 2 
+MGA 2     R 2 
+MGB 6     R 4 S 2 
+MGC 2     R 1 S 1 
+MGD 6     R 5 S 1 
+MGG 2     R 2 
+MGH 6     R 4 S 2 
+MGK 4     R 3 S 1 
+MGM 4     R 3 S 1 
+MGN 8     R 6 S 2 
+MGR 4     R 4 
+MGS 4     R 3 S 1 
+MGT 2     R 1 S 1 
+MGV 6     R 5 S 1 
+MGW 4     R 3 S 1 
+MGY 4     R 2 S 2 
+MHA 6     I 1 K 1 L 1 P 1 Q 1 T 1 
+MHB 18    H 2 I 2 K 1 L 3 M 1 N 2 P 3 Q 1 T 3 
+MHC 6     H 1 I 1 L 1 N 1 P 1 T 1 
+MHD 18    H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 T 3 
+MHG 6     K 1 L 1 M 1 P 1 Q 1 T 1 
+MHH 18    H 2 I 3 K 1 L 3 N 2 P 3 Q 1 T 3 
+MHK 12    H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 T 2 
+MHM 12    H 1 I 2 K 1 L 2 N 1 P 2 Q 1 T 2 
+MHN 24    H 2 I 3 K 2 L 4 M 1 N 2 P 4 Q 2 T 4 
+MHR 12    I 1 K 2 L 2 M 1 P 2 Q 2 T 2 
+MHS 12    H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 T 2 
+MHT 6     H 1 I 1 L 1 N 1 P 1 T 1 
+MHV 18    H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 T 3 
+MHW 12    H 1 I 2 K 1 L 2 N 1 P 2 Q 1 T 2 
+MHY 12    H 2 I 2 L 2 N 2 P 2 T 2 
+MKA 4     I 1 L 1 R 2 
+MKB 12    I 2 L 3 M 1 R 4 S 2 
+MKC 4     I 1 L 1 R 1 S 1 
+MKD 12    I 2 L 3 M 1 R 5 S 1 
+MKG 4     L 1 M 1 R 2 
+MKH 12    I 3 L 3 R 4 S 2 
+MKK 8     I 1 L 2 M 1 R 3 S 1 
+MKM 8     I 2 L 2 R 3 S 1 
+MKN 16    I 3 L 4 M 1 R 6 S 2 
+MKR 8     I 1 L 2 M 1 R 4 
+MKS 8     I 1 L 2 M 1 R 3 S 1 
+MKT 4     I 1 L 1 R 1 S 1 
+MKV 12    I 2 L 3 M 1 R 5 S 1 
+MKW 8     I 2 L 2 R 3 S 1 
+MKY 8     I 2 L 2 R 2 S 2 
+MMA 4     K 1 P 1 Q 1 T 1 
+MMB 12    H 2 K 1 N 2 P 3 Q 1 T 3 
+MMC 4     H 1 N 1 P 1 T 1 
+MMD 12    H 1 K 2 N 1 P 3 Q 2 T 3 
+MMG 4     K 1 P 1 Q 1 T 1 
+MMH 12    H 2 K 1 N 2 P 3 Q 1 T 3 
+MMK 8     H 1 K 1 N 1 P 2 Q 1 T 2 
+MMM 8     H 1 K 1 N 1 P 2 Q 1 T 2 
+MMN 16    H 2 K 2 N 2 P 4 Q 2 T 4 
+MMR 8     K 2 P 2 Q 2 T 2 
+MMS 8     H 1 K 1 N 1 P 2 Q 1 T 2 
+MMT 4     H 1 N 1 P 1 T 1 
+MMV 12    H 1 K 2 N 1 P 3 Q 2 T 3 
+MMW 8     H 1 K 1 N 1 P 2 Q 1 T 2 
+MMY 8     H 2 N 2 P 2 T 2 
+MNA 8     I 1 K 1 L 1 P 1 Q 1 R 2 T 1 
+MNB 24    H 2 I 2 K 1 L 3 M 1 N 2 P 3 Q 1 R 4 S 2 T 3 
+MNC 8     H 1 I 1 L 1 N 1 P 1 R 1 S 1 T 1 
+MND 24    H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 R 5 S 1 T 3 
+MNG 8     K 1 L 1 M 1 P 1 Q 1 R 2 T 1 
+MNH 24    H 2 I 3 K 1 L 3 N 2 P 3 Q 1 R 4 S 2 T 3 
+MNK 16    H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+MNM 16    H 1 I 2 K 1 L 2 N 1 P 2 Q 1 R 3 S 1 T 2 
+MNN 32    H 2 I 3 K 2 L 4 M 1 N 2 P 4 Q 2 R 6 S 2 T 4 
+MNR 16    I 1 K 2 L 2 M 1 P 2 Q 2 R 4 T 2 
+MNS 16    H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+MNT 8     H 1 I 1 L 1 N 1 P 1 R 1 S 1 T 1 
+MNV 24    H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 R 5 S 1 T 3 
+MNW 16    H 1 I 2 K 1 L 2 N 1 P 2 Q 1 R 3 S 1 T 2 
+MNY 16    H 2 I 2 L 2 N 2 P 2 R 2 S 2 T 2 
+MRA 4     K 1 Q 1 R 2 
+MRB 12    H 2 K 1 N 2 Q 1 R 4 S 2 
+MRC 4     H 1 N 1 R 1 S 1 
+MRD 12    H 1 K 2 N 1 Q 2 R 5 S 1 
+MRG 4     K 1 Q 1 R 2 
+MRH 12    H 2 K 1 N 2 Q 1 R 4 S 2 
+MRK 8     H 1 K 1 N 1 Q 1 R 3 S 1 
+MRM 8     H 1 K 1 N 1 Q 1 R 3 S 1 
+MRN 16    H 2 K 2 N 2 Q 2 R 6 S 2 
+MRR 8     K 2 Q 2 R 4 
+MRS 8     H 1 K 1 N 1 Q 1 R 3 S 1 
+MRT 4     H 1 N 1 R 1 S 1 
+MRV 12    H 1 K 2 N 1 Q 2 R 5 S 1 
+MRW 8     H 1 K 1 N 1 Q 1 R 3 S 1 
+MRY 8     H 2 N 2 R 2 S 2 
+MSA 4     P 1 R 2 T 1 
+MSB 12    P 3 R 4 S 2 T 3 
+MSC 4     P 1 R 1 S 1 T 1 
+MSD 12    P 3 R 5 S 1 T 3 
+MSG 4     P 1 R 2 T 1 
+MSH 12    P 3 R 4 S 2 T 3 
+MSK 8     P 2 R 3 S 1 T 2 
+MSM 8     P 2 R 3 S 1 T 2 
+MSN 16    P 4 R 6 S 2 T 4 
+MSR 8     P 2 R 4 T 2 
+MSS 8     P 2 R 3 S 1 T 2 
+MST 4     P 1 R 1 S 1 T 1 
+MSV 12    P 3 R 5 S 1 T 3 
+MSW 8     P 2 R 3 S 1 T 2 
+MSY 8     P 2 R 2 S 2 T 2 
+MTA 2     I 1 L 1 
+MTB 6     I 2 L 3 M 1 
+MTC 2     I 1 L 1 
+MTD 6     I 2 L 3 M 1 
+MTG 2     L 1 M 1 
+MTH 6     I 3 L 3 
+MTK 4     I 1 L 2 M 1 
+MTM 4     I 2 L 2 
+MTN 8     I 3 L 4 M 1 
+MTR 4     I 1 L 2 M 1 
+MTS 4     I 1 L 2 M 1 
+MTT 2     I 1 L 1 
+MTV 6     I 2 L 3 M 1 
+MTW 4     I 2 L 2 
+MTY 4     I 2 L 2 
+MVA 6     K 1 P 1 Q 1 R 2 T 1 
+MVB 18    H 2 K 1 N 2 P 3 Q 1 R 4 S 2 T 3 
+MVC 6     H 1 N 1 P 1 R 1 S 1 T 1 
+MVD 18    H 1 K 2 N 1 P 3 Q 2 R 5 S 1 T 3 
+MVG 6     K 1 P 1 Q 1 R 2 T 1 
+MVH 18    H 2 K 1 N 2 P 3 Q 1 R 4 S 2 T 3 
+MVK 12    H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+MVM 12    H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+MVN 24    H 2 K 2 N 2 P 4 Q 2 R 6 S 2 T 4 
+MVR 12    K 2 P 2 Q 2 R 4 T 2 
+MVS 12    H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+MVT 6     H 1 N 1 P 1 R 1 S 1 T 1 
+MVV 18    H 1 K 2 N 1 P 3 Q 2 R 5 S 1 T 3 
+MVW 12    H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+MVY 12    H 2 N 2 P 2 R 2 S 2 T 2 
+MWA 4     I 1 K 1 L 1 Q 1 
+MWB 12    H 2 I 2 K 1 L 3 M 1 N 2 Q 1 
+MWC 4     H 1 I 1 L 1 N 1 
+MWD 12    H 1 I 2 K 2 L 3 M 1 N 1 Q 2 
+MWG 4     K 1 L 1 M 1 Q 1 
+MWH 12    H 2 I 3 K 1 L 3 N 2 Q 1 
+MWK 8     H 1 I 1 K 1 L 2 M 1 N 1 Q 1 
+MWM 8     H 1 I 2 K 1 L 2 N 1 Q 1 
+MWN 16    H 2 I 3 K 2 L 4 M 1 N 2 Q 2 
+MWR 8     I 1 K 2 L 2 M 1 Q 2 
+MWS 8     H 1 I 1 K 1 L 2 M 1 N 1 Q 1 
+MWT 4     H 1 I 1 L 1 N 1 
+MWV 12    H 1 I 2 K 2 L 3 M 1 N 1 Q 2 
+MWW 8     H 1 I 2 K 1 L 2 N 1 Q 1 
+MWY 8     H 2 I 2 L 2 N 2 
+MYA 4     I 1 L 1 P 1 T 1 
+MYB 12    I 2 L 3 M 1 P 3 T 3 
+MYC 4     I 1 L 1 P 1 T 1 
+MYD 12    I 2 L 3 M 1 P 3 T 3 
+MYG 4     L 1 M 1 P 1 T 1 
+MYH 12    I 3 L 3 P 3 T 3 
+MYK 8     I 1 L 2 M 1 P 2 T 2 
+MYM 8     I 2 L 2 P 2 T 2 
+MYN 16    I 3 L 4 M 1 P 4 T 4 
+MYR 8     I 1 L 2 M 1 P 2 T 2 
+MYS 8     I 1 L 2 M 1 P 2 T 2 
+MYT 4     I 1 L 1 P 1 T 1 
+MYV 12    I 2 L 3 M 1 P 3 T 3 
+MYW 8     I 2 L 2 P 2 T 2 
+MYY 8     I 2 L 2 P 2 T 2 
+NAA 4     E 1 K 1 Q 1 Z 1 
+NAB 12    D 2 E 1 H 2 K 1 N 2 Q 1 Y 2 Z 1 
+NAC 4     D 1 H 1 N 1 Y 1 
+NAD 12    D 1 E 2 H 1 K 2 N 1 Q 2 Y 1 Z 2 
+NAG 4     E 1 K 1 Q 1 Z 1 
+NAH 12    D 2 E 1 H 2 K 1 N 2 Q 1 Y 2 Z 1 
+NAK 8     D 1 E 1 H 1 K 1 N 1 Q 1 Y 1 Z 1 
+NAM 8     D 1 E 1 H 1 K 1 N 1 Q 1 Y 1 Z 1 
+NAN 16    D 2 E 2 H 2 K 2 N 2 Q 2 Y 2 Z 2 
+NAR 8     E 2 K 2 Q 2 Z 2 
+NAS 8     D 1 E 1 H 1 K 1 N 1 Q 1 Y 1 Z 1 
+NAT 4     D 1 H 1 N 1 Y 1 
+NAV 12    D 1 E 2 H 1 K 2 N 1 Q 2 Y 1 Z 2 
+NAW 8     D 1 E 1 H 1 K 1 N 1 Q 1 Y 1 Z 1 
+NAY 8     D 2 H 2 N 2 Y 2 
+NBA 12    A 1 G 1 I 1 L 2 P 1 R 2 S 1 T 1 V 1 Z 1 
+NBB 36    A 3 C 2 F 2 G 3 I 2 L 4 M 1 P 3 R 4 S 5 T 3 V 3 W 1 
+NBC 12    A 1 C 1 F 1 G 1 I 1 L 1 P 1 R 1 S 2 T 1 V 1 
+NBD 36    A 3 C 1 F 1 G 3 I 2 L 5 M 1 P 3 R 5 S 4 T 3 V 3 W 1 Z 1 
+NBG 12    A 1 G 1 L 2 M 1 P 1 R 2 S 1 T 1 V 1 W 1 
+NBH 36    A 3 C 2 F 2 G 3 I 3 L 4 P 3 R 4 S 5 T 3 V 3 Z 1 
+NBK 24    A 2 C 1 F 1 G 2 I 1 L 3 M 1 P 2 R 3 S 3 T 2 V 2 W 1 
+NBM 24    A 2 C 1 F 1 G 2 I 2 L 3 P 2 R 3 S 3 T 2 V 2 Z 1 
+NBN 48    A 4 C 2 F 2 G 4 I 3 L 6 M 1 P 4 R 6 S 6 T 4 V 4 W 1 Z 1 
+NBR 24    A 2 G 2 I 1 L 4 M 1 P 2 R 4 S 2 T 2 V 2 W 1 Z 1 
+NBS 24    A 2 C 1 F 1 G 2 I 1 L 3 M 1 P 2 R 3 S 3 T 2 V 2 W 1 
+NBT 12    A 1 C 1 F 1 G 1 I 1 L 1 P 1 R 1 S 2 T 1 V 1 
+NBV 36    A 3 C 1 F 1 G 3 I 2 L 5 M 1 P 3 R 5 S 4 T 3 V 3 W 1 Z 1 
+NBW 24    A 2 C 1 F 1 G 2 I 2 L 3 P 2 R 3 S 3 T 2 V 2 Z 1 
+NBY 24    A 2 C 2 F 2 G 2 I 2 L 2 P 2 R 2 S 4 T 2 V 2 
+NCA 4     A 1 P 1 S 1 T 1 
+NCB 12    A 3 P 3 S 3 T 3 
+NCC 4     A 1 P 1 S 1 T 1 
+NCD 12    A 3 P 3 S 3 T 3 
+NCG 4     A 1 P 1 S 1 T 1 
+NCH 12    A 3 P 3 S 3 T 3 
+NCK 8     A 2 P 2 S 2 T 2 
+NCM 8     A 2 P 2 S 2 T 2 
+NCN 16    A 4 P 4 S 4 T 4 
+NCR 8     A 2 P 2 S 2 T 2 
+NCS 8     A 2 P 2 S 2 T 2 
+NCT 4     A 1 P 1 S 1 T 1 
+NCV 12    A 3 P 3 S 3 T 3 
+NCW 8     A 2 P 2 S 2 T 2 
+NCY 8     A 2 P 2 S 2 T 2 
+NDA 12    E 1 G 1 I 1 K 1 L 2 Q 1 R 2 V 1 Z 2 
+NDB 36    C 2 D 2 E 1 F 2 G 3 H 2 I 2 K 1 L 4 M 1 N 2 Q 1 R 4 S 2 V 3 W 1 Y 2 Z 1 
+NDC 12    C 1 D 1 F 1 G 1 H 1 I 1 L 1 N 1 R 1 S 1 V 1 Y 1 
+NDD 36    C 1 D 1 E 2 F 1 G 3 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 R 5 S 1 V 3 W 1 Y 1 Z 3 
+NDG 12    E 1 G 1 K 1 L 2 M 1 Q 1 R 2 V 1 W 1 Z 1 
+NDH 36    C 2 D 2 E 1 F 2 G 3 H 2 I 3 K 1 L 4 N 2 Q 1 R 4 S 2 V 3 Y 2 Z 2 
+NDK 24    C 1 D 1 E 1 F 1 G 2 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 R 3 S 1 V 2 W 1 Y 1 Z 1 
+NDM 24    C 1 D 1 E 1 F 1 G 2 H 1 I 2 K 1 L 3 N 1 Q 1 R 3 S 1 V 2 Y 1 Z 2 
+NDN 48    C 2 D 2 E 2 F 2 G 4 H 2 I 3 K 2 L 6 M 1 N 2 Q 2 R 6 S 2 V 4 W 1 Y 2 Z 3 
+NDR 24    E 2 G 2 I 1 K 2 L 4 M 1 Q 2 R 4 V 2 W 1 Z 3 
+NDS 24    C 1 D 1 E 1 F 1 G 2 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 R 3 S 1 V 2 W 1 Y 1 Z 1 
+NDT 12    C 1 D 1 F 1 G 1 H 1 I 1 L 1 N 1 R 1 S 1 V 1 Y 1 
+NDV 36    C 1 D 1 E 2 F 1 G 3 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 R 5 S 1 V 3 W 1 Y 1 Z 3 
+NDW 24    C 1 D 1 E 1 F 1 G 2 H 1 I 2 K 1 L 3 N 1 Q 1 R 3 S 1 V 2 Y 1 Z 2 
+NDY 24    C 2 D 2 F 2 G 2 H 2 I 2 L 2 N 2 R 2 S 2 V 2 Y 2 
+NGA 4     G 1 R 2 Z 1 
+NGB 12    C 2 G 3 R 4 S 2 W 1 
+NGC 4     C 1 G 1 R 1 S 1 
+NGD 12    C 1 G 3 R 5 S 1 W 1 Z 1 
+NGG 4     G 1 R 2 W 1 
+NGH 12    C 2 G 3 R 4 S 2 Z 1 
+NGK 8     C 1 G 2 R 3 S 1 W 1 
+NGM 8     C 1 G 2 R 3 S 1 Z 1 
+NGN 16    C 2 G 4 R 6 S 2 W 1 Z 1 
+NGR 8     G 2 R 4 W 1 Z 1 
+NGS 8     C 1 G 2 R 3 S 1 W 1 
+NGT 4     C 1 G 1 R 1 S 1 
+NGV 12    C 1 G 3 R 5 S 1 W 1 Z 1 
+NGW 8     C 1 G 2 R 3 S 1 Z 1 
+NGY 8     C 2 G 2 R 2 S 2 
+NHA 12    A 1 E 1 I 1 K 1 L 2 P 1 Q 1 S 1 T 1 V 1 Z 1 
+NHB 36    A 3 D 2 E 1 F 2 H 2 I 2 K 1 L 4 M 1 N 2 P 3 Q 1 S 3 T 3 V 3 Y 2 Z 1 
+NHC 12    A 1 D 1 F 1 H 1 I 1 L 1 N 1 P 1 S 1 T 1 V 1 Y 1 
+NHD 36    A 3 D 1 E 2 F 1 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 S 3 T 3 V 3 Y 1 Z 2 
+NHG 12    A 1 E 1 K 1 L 2 M 1 P 1 Q 1 S 1 T 1 V 1 Z 1 
+NHH 36    A 3 D 2 E 1 F 2 H 2 I 3 K 1 L 4 N 2 P 3 Q 1 S 3 T 3 V 3 Y 2 Z 1 
+NHK 24    A 2 D 1 E 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 S 2 T 2 V 2 Y 1 Z 1 
+NHM 24    A 2 D 1 E 1 F 1 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 S 2 T 2 V 2 Y 1 Z 1 
+NHN 48    A 4 D 2 E 2 F 2 H 2 I 3 K 2 L 6 M 1 N 2 P 4 Q 2 S 4 T 4 V 4 Y 2 Z 2 
+NHR 24    A 2 E 2 I 1 K 2 L 4 M 1 P 2 Q 2 S 2 T 2 V 2 Z 2 
+NHS 24    A 2 D 1 E 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 S 2 T 2 V 2 Y 1 Z 1 
+NHT 12    A 1 D 1 F 1 H 1 I 1 L 1 N 1 P 1 S 1 T 1 V 1 Y 1 
+NHV 36    A 3 D 1 E 2 F 1 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 S 3 T 3 V 3 Y 1 Z 2 
+NHW 24    A 2 D 1 E 1 F 1 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 S 2 T 2 V 2 Y 1 Z 1 
+NHY 24    A 2 D 2 F 2 H 2 I 2 L 2 N 2 P 2 S 2 T 2 V 2 Y 2 
+NKA 8     G 1 I 1 L 2 R 2 V 1 Z 1 
+NKB 24    C 2 F 2 G 3 I 2 L 4 M 1 R 4 S 2 V 3 W 1 
+NKC 8     C 1 F 1 G 1 I 1 L 1 R 1 S 1 V 1 
+NKD 24    C 1 F 1 G 3 I 2 L 5 M 1 R 5 S 1 V 3 W 1 Z 1 
+NKG 8     G 1 L 2 M 1 R 2 V 1 W 1 
+NKH 24    C 2 F 2 G 3 I 3 L 4 R 4 S 2 V 3 Z 1 
+NKK 16    C 1 F 1 G 2 I 1 L 3 M 1 R 3 S 1 V 2 W 1 
+NKM 16    C 1 F 1 G 2 I 2 L 3 R 3 S 1 V 2 Z 1 
+NKN 32    C 2 F 2 G 4 I 3 L 6 M 1 R 6 S 2 V 4 W 1 Z 1 
+NKR 16    G 2 I 1 L 4 M 1 R 4 V 2 W 1 Z 1 
+NKS 16    C 1 F 1 G 2 I 1 L 3 M 1 R 3 S 1 V 2 W 1 
+NKT 8     C 1 F 1 G 1 I 1 L 1 R 1 S 1 V 1 
+NKV 24    C 1 F 1 G 3 I 2 L 5 M 1 R 5 S 1 V 3 W 1 Z 1 
+NKW 16    C 1 F 1 G 2 I 2 L 3 R 3 S 1 V 2 Z 1 
+NKY 16    C 2 F 2 G 2 I 2 L 2 R 2 S 2 V 2 
+NMA 8     A 1 E 1 K 1 P 1 Q 1 S 1 T 1 Z 1 
+NMB 24    A 3 D 2 E 1 H 2 K 1 N 2 P 3 Q 1 S 3 T 3 Y 2 Z 1 
+NMC 8     A 1 D 1 H 1 N 1 P 1 S 1 T 1 Y 1 
+NMD 24    A 3 D 1 E 2 H 1 K 2 N 1 P 3 Q 2 S 3 T 3 Y 1 Z 2 
+NMG 8     A 1 E 1 K 1 P 1 Q 1 S 1 T 1 Z 1 
+NMH 24    A 3 D 2 E 1 H 2 K 1 N 2 P 3 Q 1 S 3 T 3 Y 2 Z 1 
+NMK 16    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+NMM 16    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+NMN 32    A 4 D 2 E 2 H 2 K 2 N 2 P 4 Q 2 S 4 T 4 Y 2 Z 2 
+NMR 16    A 2 E 2 K 2 P 2 Q 2 S 2 T 2 Z 2 
+NMS 16    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+NMT 8     A 1 D 1 H 1 N 1 P 1 S 1 T 1 Y 1 
+NMV 24    A 3 D 1 E 2 H 1 K 2 N 1 P 3 Q 2 S 3 T 3 Y 1 Z 2 
+NMW 16    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 S 2 T 2 Y 1 Z 1 
+NMY 16    A 2 D 2 H 2 N 2 P 2 S 2 T 2 Y 2 
+NNA 16    A 1 E 1 G 1 I 1 K 1 L 2 P 1 Q 1 R 2 S 1 T 1 V 1 Z 2 
+NNB 48    A 3 C 2 D 2 E 1 F 2 G 3 H 2 I 2 K 1 L 4 M 1 N 2 P 3 Q 1 R 4 S 5 T 3 V 3 W 1 Y 2 Z 1 
+NNC 16    A 1 C 1 D 1 F 1 G 1 H 1 I 1 L 1 N 1 P 1 R 1 S 2 T 1 V 1 Y 1 
+NND 48    A 3 C 1 D 1 E 2 F 1 G 3 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 R 5 S 4 T 3 V 3 W 1 Y 1 Z 3 
+NNG 16    A 1 E 1 G 1 K 1 L 2 M 1 P 1 Q 1 R 2 S 1 T 1 V 1 W 1 Z 1 
+NNH 48    A 3 C 2 D 2 E 1 F 2 G 3 H 2 I 3 K 1 L 4 N 2 P 3 Q 1 R 4 S 5 T 3 V 3 Y 2 Z 2 
+NNK 32    A 2 C 1 D 1 E 1 F 1 G 2 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 R 3 S 3 T 2 V 2 W 1 Y 1 Z 1 
+NNM 32    A 2 C 1 D 1 E 1 F 1 G 2 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 R 3 S 3 T 2 V 2 Y 1 Z 2 
+NNN 64    A 4 C 2 D 2 E 2 F 2 G 4 H 2 I 3 K 2 L 6 M 1 N 2 P 4 Q 2 R 6 S 6 T 4 V 4 W 1 Y 2 Z 3 
+NNR 32    A 2 E 2 G 2 I 1 K 2 L 4 M 1 P 2 Q 2 R 4 S 2 T 2 V 2 W 1 Z 3 
+NNS 32    A 2 C 1 D 1 E 1 F 1 G 2 H 1 I 1 K 1 L 3 M 1 N 1 P 2 Q 1 R 3 S 3 T 2 V 2 W 1 Y 1 Z 1 
+NNT 16    A 1 C 1 D 1 F 1 G 1 H 1 I 1 L 1 N 1 P 1 R 1 S 2 T 1 V 1 Y 1 
+NNV 48    A 3 C 1 D 1 E 2 F 1 G 3 H 1 I 2 K 2 L 5 M 1 N 1 P 3 Q 2 R 5 S 4 T 3 V 3 W 1 Y 1 Z 3 
+NNW 32    A 2 C 1 D 1 E 1 F 1 G 2 H 1 I 2 K 1 L 3 N 1 P 2 Q 1 R 3 S 3 T 2 V 2 Y 1 Z 2 
+NNY 32    A 2 C 2 D 2 F 2 G 2 H 2 I 2 L 2 N 2 P 2 R 2 S 4 T 2 V 2 Y 2 
+NRA 8     E 1 G 1 K 1 Q 1 R 2 Z 2 
+NRB 24    C 2 D 2 E 1 G 3 H 2 K 1 N 2 Q 1 R 4 S 2 W 1 Y 2 Z 1 
+NRC 8     C 1 D 1 G 1 H 1 N 1 R 1 S 1 Y 1 
+NRD 24    C 1 D 1 E 2 G 3 H 1 K 2 N 1 Q 2 R 5 S 1 W 1 Y 1 Z 3 
+NRG 8     E 1 G 1 K 1 Q 1 R 2 W 1 Z 1 
+NRH 24    C 2 D 2 E 1 G 3 H 2 K 1 N 2 Q 1 R 4 S 2 Y 2 Z 2 
+NRK 16    C 1 D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 W 1 Y 1 Z 1 
+NRM 16    C 1 D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 Y 1 Z 2 
+NRN 32    C 2 D 2 E 2 G 4 H 2 K 2 N 2 Q 2 R 6 S 2 W 1 Y 2 Z 3 
+NRR 16    E 2 G 2 K 2 Q 2 R 4 W 1 Z 3 
+NRS 16    C 1 D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 W 1 Y 1 Z 1 
+NRT 8     C 1 D 1 G 1 H 1 N 1 R 1 S 1 Y 1 
+NRV 24    C 1 D 1 E 2 G 3 H 1 K 2 N 1 Q 2 R 5 S 1 W 1 Y 1 Z 3 
+NRW 16    C 1 D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 Y 1 Z 2 
+NRY 16    C 2 D 2 G 2 H 2 N 2 R 2 S 2 Y 2 
+NSA 8     A 1 G 1 P 1 R 2 S 1 T 1 Z 1 
+NSB 24    A 3 C 2 G 3 P 3 R 4 S 5 T 3 W 1 
+NSC 8     A 1 C 1 G 1 P 1 R 1 S 2 T 1 
+NSD 24    A 3 C 1 G 3 P 3 R 5 S 4 T 3 W 1 Z 1 
+NSG 8     A 1 G 1 P 1 R 2 S 1 T 1 W 1 
+NSH 24    A 3 C 2 G 3 P 3 R 4 S 5 T 3 Z 1 
+NSK 16    A 2 C 1 G 2 P 2 R 3 S 3 T 2 W 1 
+NSM 16    A 2 C 1 G 2 P 2 R 3 S 3 T 2 Z 1 
+NSN 32    A 4 C 2 G 4 P 4 R 6 S 6 T 4 W 1 Z 1 
+NSR 16    A 2 G 2 P 2 R 4 S 2 T 2 W 1 Z 1 
+NSS 16    A 2 C 1 G 2 P 2 R 3 S 3 T 2 W 1 
+NST 8     A 1 C 1 G 1 P 1 R 1 S 2 T 1 
+NSV 24    A 3 C 1 G 3 P 3 R 5 S 4 T 3 W 1 Z 1 
+NSW 16    A 2 C 1 G 2 P 2 R 3 S 3 T 2 Z 1 
+NSY 16    A 2 C 2 G 2 P 2 R 2 S 4 T 2 
+NTA 4     I 1 L 2 V 1 
+NTB 12    F 2 I 2 L 4 M 1 V 3 
+NTC 4     F 1 I 1 L 1 V 1 
+NTD 12    F 1 I 2 L 5 M 1 V 3 
+NTG 4     L 2 M 1 V 1 
+NTH 12    F 2 I 3 L 4 V 3 
+NTK 8     F 1 I 1 L 3 M 1 V 2 
+NTM 8     F 1 I 2 L 3 V 2 
+NTN 16    F 2 I 3 L 6 M 1 V 4 
+NTR 8     I 1 L 4 M 1 V 2 
+NTS 8     F 1 I 1 L 3 M 1 V 2 
+NTT 4     F 1 I 1 L 1 V 1 
+NTV 12    F 1 I 2 L 5 M 1 V 3 
+NTW 8     F 1 I 2 L 3 V 2 
+NTY 8     F 2 I 2 L 2 V 2 
+NVA 12    A 1 E 1 G 1 K 1 P 1 Q 1 R 2 S 1 T 1 Z 2 
+NVB 36    A 3 C 2 D 2 E 1 G 3 H 2 K 1 N 2 P 3 Q 1 R 4 S 5 T 3 W 1 Y 2 Z 1 
+NVC 12    A 1 C 1 D 1 G 1 H 1 N 1 P 1 R 1 S 2 T 1 Y 1 
+NVD 36    A 3 C 1 D 1 E 2 G 3 H 1 K 2 N 1 P 3 Q 2 R 5 S 4 T 3 W 1 Y 1 Z 3 
+NVG 12    A 1 E 1 G 1 K 1 P 1 Q 1 R 2 S 1 T 1 W 1 Z 1 
+NVH 36    A 3 C 2 D 2 E 1 G 3 H 2 K 1 N 2 P 3 Q 1 R 4 S 5 T 3 Y 2 Z 2 
+NVK 24    A 2 C 1 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 W 1 Y 1 Z 1 
+NVM 24    A 2 C 1 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 Y 1 Z 2 
+NVN 48    A 4 C 2 D 2 E 2 G 4 H 2 K 2 N 2 P 4 Q 2 R 6 S 6 T 4 W 1 Y 2 Z 3 
+NVR 24    A 2 E 2 G 2 K 2 P 2 Q 2 R 4 S 2 T 2 W 1 Z 3 
+NVS 24    A 2 C 1 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 W 1 Y 1 Z 1 
+NVT 12    A 1 C 1 D 1 G 1 H 1 N 1 P 1 R 1 S 2 T 1 Y 1 
+NVV 36    A 3 C 1 D 1 E 2 G 3 H 1 K 2 N 1 P 3 Q 2 R 5 S 4 T 3 W 1 Y 1 Z 3 
+NVW 24    A 2 C 1 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 3 T 2 Y 1 Z 2 
+NVY 24    A 2 C 2 D 2 G 2 H 2 N 2 P 2 R 2 S 4 T 2 Y 2 
+NWA 8     E 1 I 1 K 1 L 2 Q 1 V 1 Z 1 
+NWB 24    D 2 E 1 F 2 H 2 I 2 K 1 L 4 M 1 N 2 Q 1 V 3 Y 2 Z 1 
+NWC 8     D 1 F 1 H 1 I 1 L 1 N 1 V 1 Y 1 
+NWD 24    D 1 E 2 F 1 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 V 3 Y 1 Z 2 
+NWG 8     E 1 K 1 L 2 M 1 Q 1 V 1 Z 1 
+NWH 24    D 2 E 1 F 2 H 2 I 3 K 1 L 4 N 2 Q 1 V 3 Y 2 Z 1 
+NWK 16    D 1 E 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 V 2 Y 1 Z 1 
+NWM 16    D 1 E 1 F 1 H 1 I 2 K 1 L 3 N 1 Q 1 V 2 Y 1 Z 1 
+NWN 32    D 2 E 2 F 2 H 2 I 3 K 2 L 6 M 1 N 2 Q 2 V 4 Y 2 Z 2 
+NWR 16    E 2 I 1 K 2 L 4 M 1 Q 2 V 2 Z 2 
+NWS 16    D 1 E 1 F 1 H 1 I 1 K 1 L 3 M 1 N 1 Q 1 V 2 Y 1 Z 1 
+NWT 8     D 1 F 1 H 1 I 1 L 1 N 1 V 1 Y 1 
+NWV 24    D 1 E 2 F 1 H 1 I 2 K 2 L 5 M 1 N 1 Q 2 V 3 Y 1 Z 2 
+NWW 16    D 1 E 1 F 1 H 1 I 2 K 1 L 3 N 1 Q 1 V 2 Y 1 Z 1 
+NWY 16    D 2 F 2 H 2 I 2 L 2 N 2 V 2 Y 2 
+NYA 8     A 1 I 1 L 2 P 1 S 1 T 1 V 1 
+NYB 24    A 3 F 2 I 2 L 4 M 1 P 3 S 3 T 3 V 3 
+NYC 8     A 1 F 1 I 1 L 1 P 1 S 1 T 1 V 1 
+NYD 24    A 3 F 1 I 2 L 5 M 1 P 3 S 3 T 3 V 3 
+NYG 8     A 1 L 2 M 1 P 1 S 1 T 1 V 1 
+NYH 24    A 3 F 2 I 3 L 4 P 3 S 3 T 3 V 3 
+NYK 16    A 2 F 1 I 1 L 3 M 1 P 2 S 2 T 2 V 2 
+NYM 16    A 2 F 1 I 2 L 3 P 2 S 2 T 2 V 2 
+NYN 32    A 4 F 2 I 3 L 6 M 1 P 4 S 4 T 4 V 4 
+NYR 16    A 2 I 1 L 4 M 1 P 2 S 2 T 2 V 2 
+NYS 16    A 2 F 1 I 1 L 3 M 1 P 2 S 2 T 2 V 2 
+NYT 8     A 1 F 1 I 1 L 1 P 1 S 1 T 1 V 1 
+NYV 24    A 3 F 1 I 2 L 5 M 1 P 3 S 3 T 3 V 3 
+NYW 16    A 2 F 1 I 2 L 3 P 2 S 2 T 2 V 2 
+NYY 16    A 2 F 2 I 2 L 2 P 2 S 2 T 2 V 2 
+RAA 2     E 1 K 1 
+RAB 6     D 2 E 1 K 1 N 2 
+RAC 2     D 1 N 1 
+RAD 6     D 1 E 2 K 2 N 1 
+RAG 2     E 1 K 1 
+RAH 6     D 2 E 1 K 1 N 2 
+RAK 4     D 1 E 1 K 1 N 1 
+RAM 4     D 1 E 1 K 1 N 1 
+RAN 8     D 2 E 2 K 2 N 2 
+RAR 4     E 2 K 2 
+RAS 4     D 1 E 1 K 1 N 1 
+RAT 2     D 1 N 1 
+RAV 6     D 1 E 2 K 2 N 1 
+RAW 4     D 1 E 1 K 1 N 1 
+RAY 4     D 2 N 2 
+RBA 6     A 1 G 1 I 1 R 1 T 1 V 1 
+RBB 18    A 3 G 3 I 2 M 1 R 1 S 2 T 3 V 3 
+RBC 6     A 1 G 1 I 1 S 1 T 1 V 1 
+RBD 18    A 3 G 3 I 2 M 1 R 2 S 1 T 3 V 3 
+RBG 6     A 1 G 1 M 1 R 1 T 1 V 1 
+RBH 18    A 3 G 3 I 3 R 1 S 2 T 3 V 3 
+RBK 12    A 2 G 2 I 1 M 1 R 1 S 1 T 2 V 2 
+RBM 12    A 2 G 2 I 2 R 1 S 1 T 2 V 2 
+RBN 24    A 4 G 4 I 3 M 1 R 2 S 2 T 4 V 4 
+RBR 12    A 2 G 2 I 1 M 1 R 2 T 2 V 2 
+RBS 12    A 2 G 2 I 1 M 1 R 1 S 1 T 2 V 2 
+RBT 6     A 1 G 1 I 1 S 1 T 1 V 1 
+RBV 18    A 3 G 3 I 2 M 1 R 2 S 1 T 3 V 3 
+RBW 12    A 2 G 2 I 2 R 1 S 1 T 2 V 2 
+RBY 12    A 2 G 2 I 2 S 2 T 2 V 2 
+RCA 2     A 1 T 1 
+RCB 6     A 3 T 3 
+RCC 2     A 1 T 1 
+RCD 6     A 3 T 3 
+RCG 2     A 1 T 1 
+RCH 6     A 3 T 3 
+RCK 4     A 2 T 2 
+RCM 4     A 2 T 2 
+RCN 8     A 4 T 4 
+RCR 4     A 2 T 2 
+RCS 4     A 2 T 2 
+RCT 2     A 1 T 1 
+RCV 6     A 3 T 3 
+RCW 4     A 2 T 2 
+RCY 4     A 2 T 2 
+RDA 6     E 1 G 1 I 1 K 1 R 1 V 1 
+RDB 18    D 2 E 1 G 3 I 2 K 1 M 1 N 2 R 1 S 2 V 3 
+RDC 6     D 1 G 1 I 1 N 1 S 1 V 1 
+RDD 18    D 1 E 2 G 3 I 2 K 2 M 1 N 1 R 2 S 1 V 3 
+RDG 6     E 1 G 1 K 1 M 1 R 1 V 1 
+RDH 18    D 2 E 1 G 3 I 3 K 1 N 2 R 1 S 2 V 3 
+RDK 12    D 1 E 1 G 2 I 1 K 1 M 1 N 1 R 1 S 1 V 2 
+RDM 12    D 1 E 1 G 2 I 2 K 1 N 1 R 1 S 1 V 2 
+RDN 24    D 2 E 2 G 4 I 3 K 2 M 1 N 2 R 2 S 2 V 4 
+RDR 12    E 2 G 2 I 1 K 2 M 1 R 2 V 2 
+RDS 12    D 1 E 1 G 2 I 1 K 1 M 1 N 1 R 1 S 1 V 2 
+RDT 6     D 1 G 1 I 1 N 1 S 1 V 1 
+RDV 18    D 1 E 2 G 3 I 2 K 2 M 1 N 1 R 2 S 1 V 3 
+RDW 12    D 1 E 1 G 2 I 2 K 1 N 1 R 1 S 1 V 2 
+RDY 12    D 2 G 2 I 2 N 2 S 2 V 2 
+RGA 2     G 1 R 1 
+RGB 6     G 3 R 1 S 2 
+RGC 2     G 1 S 1 
+RGD 6     G 3 R 2 S 1 
+RGG 2     G 1 R 1 
+RGH 6     G 3 R 1 S 2 
+RGK 4     G 2 R 1 S 1 
+RGM 4     G 2 R 1 S 1 
+RGN 8     G 4 R 2 S 2 
+RGR 4     G 2 R 2 
+RGS 4     G 2 R 1 S 1 
+RGT 2     G 1 S 1 
+RGV 6     G 3 R 2 S 1 
+RGW 4     G 2 R 1 S 1 
+RGY 4     G 2 S 2 
+RHA 6     A 1 E 1 I 1 K 1 T 1 V 1 
+RHB 18    A 3 D 2 E 1 I 2 K 1 M 1 N 2 T 3 V 3 
+RHC 6     A 1 D 1 I 1 N 1 T 1 V 1 
+RHD 18    A 3 D 1 E 2 I 2 K 2 M 1 N 1 T 3 V 3 
+RHG 6     A 1 E 1 K 1 M 1 T 1 V 1 
+RHH 18    A 3 D 2 E 1 I 3 K 1 N 2 T 3 V 3 
+RHK 12    A 2 D 1 E 1 I 1 K 1 M 1 N 1 T 2 V 2 
+RHM 12    A 2 D 1 E 1 I 2 K 1 N 1 T 2 V 2 
+RHN 24    A 4 D 2 E 2 I 3 K 2 M 1 N 2 T 4 V 4 
+RHR 12    A 2 E 2 I 1 K 2 M 1 T 2 V 2 
+RHS 12    A 2 D 1 E 1 I 1 K 1 M 1 N 1 T 2 V 2 
+RHT 6     A 1 D 1 I 1 N 1 T 1 V 1 
+RHV 18    A 3 D 1 E 2 I 2 K 2 M 1 N 1 T 3 V 3 
+RHW 12    A 2 D 1 E 1 I 2 K 1 N 1 T 2 V 2 
+RHY 12    A 2 D 2 I 2 N 2 T 2 V 2 
+RKA 4     G 1 I 1 R 1 V 1 
+RKB 12    G 3 I 2 M 1 R 1 S 2 V 3 
+RKC 4     G 1 I 1 S 1 V 1 
+RKD 12    G 3 I 2 M 1 R 2 S 1 V 3 
+RKG 4     G 1 M 1 R 1 V 1 
+RKH 12    G 3 I 3 R 1 S 2 V 3 
+RKK 8     G 2 I 1 M 1 R 1 S 1 V 2 
+RKM 8     G 2 I 2 R 1 S 1 V 2 
+RKN 16    G 4 I 3 M 1 R 2 S 2 V 4 
+RKR 8     G 2 I 1 M 1 R 2 V 2 
+RKS 8     G 2 I 1 M 1 R 1 S 1 V 2 
+RKT 4     G 1 I 1 S 1 V 1 
+RKV 12    G 3 I 2 M 1 R 2 S 1 V 3 
+RKW 8     G 2 I 2 R 1 S 1 V 2 
+RKY 8     G 2 I 2 S 2 V 2 
+RMA 4     A 1 E 1 K 1 T 1 
+RMB 12    A 3 D 2 E 1 K 1 N 2 T 3 
+RMC 4     A 1 D 1 N 1 T 1 
+RMD 12    A 3 D 1 E 2 K 2 N 1 T 3 
+RMG 4     A 1 E 1 K 1 T 1 
+RMH 12    A 3 D 2 E 1 K 1 N 2 T 3 
+RMK 8     A 2 D 1 E 1 K 1 N 1 T 2 
+RMM 8     A 2 D 1 E 1 K 1 N 1 T 2 
+RMN 16    A 4 D 2 E 2 K 2 N 2 T 4 
+RMR 8     A 2 E 2 K 2 T 2 
+RMS 8     A 2 D 1 E 1 K 1 N 1 T 2 
+RMT 4     A 1 D 1 N 1 T 1 
+RMV 12    A 3 D 1 E 2 K 2 N 1 T 3 
+RMW 8     A 2 D 1 E 1 K 1 N 1 T 2 
+RMY 8     A 2 D 2 N 2 T 2 
+RNA 8     A 1 E 1 G 1 I 1 K 1 R 1 T 1 V 1 
+RNB 24    A 3 D 2 E 1 G 3 I 2 K 1 M 1 N 2 R 1 S 2 T 3 V 3 
+RNC 8     A 1 D 1 G 1 I 1 N 1 S 1 T 1 V 1 
+RND 24    A 3 D 1 E 2 G 3 I 2 K 2 M 1 N 1 R 2 S 1 T 3 V 3 
+RNG 8     A 1 E 1 G 1 K 1 M 1 R 1 T 1 V 1 
+RNH 24    A 3 D 2 E 1 G 3 I 3 K 1 N 2 R 1 S 2 T 3 V 3 
+RNK 16    A 2 D 1 E 1 G 2 I 1 K 1 M 1 N 1 R 1 S 1 T 2 V 2 
+RNM 16    A 2 D 1 E 1 G 2 I 2 K 1 N 1 R 1 S 1 T 2 V 2 
+RNN 32    A 4 D 2 E 2 G 4 I 3 K 2 M 1 N 2 R 2 S 2 T 4 V 4 
+RNR 16    A 2 E 2 G 2 I 1 K 2 M 1 R 2 T 2 V 2 
+RNS 16    A 2 D 1 E 1 G 2 I 1 K 1 M 1 N 1 R 1 S 1 T 2 V 2 
+RNT 8     A 1 D 1 G 1 I 1 N 1 S 1 T 1 V 1 
+RNV 24    A 3 D 1 E 2 G 3 I 2 K 2 M 1 N 1 R 2 S 1 T 3 V 3 
+RNW 16    A 2 D 1 E 1 G 2 I 2 K 1 N 1 R 1 S 1 T 2 V 2 
+RNY 16    A 2 D 2 G 2 I 2 N 2 S 2 T 2 V 2 
+RRA 4     E 1 G 1 K 1 R 1 
+RRB 12    D 2 E 1 G 3 K 1 N 2 R 1 S 2 
+RRC 4     D 1 G 1 N 1 S 1 
+RRD 12    D 1 E 2 G 3 K 2 N 1 R 2 S 1 
+RRG 4     E 1 G 1 K 1 R 1 
+RRH 12    D 2 E 1 G 3 K 1 N 2 R 1 S 2 
+RRK 8     D 1 E 1 G 2 K 1 N 1 R 1 S 1 
+RRM 8     D 1 E 1 G 2 K 1 N 1 R 1 S 1 
+RRN 16    D 2 E 2 G 4 K 2 N 2 R 2 S 2 
+RRR 8     E 2 G 2 K 2 R 2 
+RRS 8     D 1 E 1 G 2 K 1 N 1 R 1 S 1 
+RRT 4     D 1 G 1 N 1 S 1 
+RRV 12    D 1 E 2 G 3 K 2 N 1 R 2 S 1 
+RRW 8     D 1 E 1 G 2 K 1 N 1 R 1 S 1 
+RRY 8     D 2 G 2 N 2 S 2 
+RSA 4     A 1 G 1 R 1 T 1 
+RSB 12    A 3 G 3 R 1 S 2 T 3 
+RSC 4     A 1 G 1 S 1 T 1 
+RSD 12    A 3 G 3 R 2 S 1 T 3 
+RSG 4     A 1 G 1 R 1 T 1 
+RSH 12    A 3 G 3 R 1 S 2 T 3 
+RSK 8     A 2 G 2 R 1 S 1 T 2 
+RSM 8     A 2 G 2 R 1 S 1 T 2 
+RSN 16    A 4 G 4 R 2 S 2 T 4 
+RSR 8     A 2 G 2 R 2 T 2 
+RSS 8     A 2 G 2 R 1 S 1 T 2 
+RST 4     A 1 G 1 S 1 T 1 
+RSV 12    A 3 G 3 R 2 S 1 T 3 
+RSW 8     A 2 G 2 R 1 S 1 T 2 
+RSY 8     A 2 G 2 S 2 T 2 
+RTA 2     I 1 V 1 
+RTB 6     I 2 M 1 V 3 
+RTC 2     I 1 V 1 
+RTD 6     I 2 M 1 V 3 
+RTG 2     M 1 V 1 
+RTH 6     I 3 V 3 
+RTK 4     I 1 M 1 V 2 
+RTM 4     I 2 V 2 
+RTN 8     I 3 M 1 V 4 
+RTR 4     I 1 M 1 V 2 
+RTS 4     I 1 M 1 V 2 
+RTT 2     I 1 V 1 
+RTV 6     I 2 M 1 V 3 
+RTW 4     I 2 V 2 
+RTY 4     I 2 V 2 
+RVA 6     A 1 E 1 G 1 K 1 R 1 T 1 
+RVB 18    A 3 D 2 E 1 G 3 K 1 N 2 R 1 S 2 T 3 
+RVC 6     A 1 D 1 G 1 N 1 S 1 T 1 
+RVD 18    A 3 D 1 E 2 G 3 K 2 N 1 R 2 S 1 T 3 
+RVG 6     A 1 E 1 G 1 K 1 R 1 T 1 
+RVH 18    A 3 D 2 E 1 G 3 K 1 N 2 R 1 S 2 T 3 
+RVK 12    A 2 D 1 E 1 G 2 K 1 N 1 R 1 S 1 T 2 
+RVM 12    A 2 D 1 E 1 G 2 K 1 N 1 R 1 S 1 T 2 
+RVN 24    A 4 D 2 E 2 G 4 K 2 N 2 R 2 S 2 T 4 
+RVR 12    A 2 E 2 G 2 K 2 R 2 T 2 
+RVS 12    A 2 D 1 E 1 G 2 K 1 N 1 R 1 S 1 T 2 
+RVT 6     A 1 D 1 G 1 N 1 S 1 T 1 
+RVV 18    A 3 D 1 E 2 G 3 K 2 N 1 R 2 S 1 T 3 
+RVW 12    A 2 D 1 E 1 G 2 K 1 N 1 R 1 S 1 T 2 
+RVY 12    A 2 D 2 G 2 N 2 S 2 T 2 
+RWA 4     E 1 I 1 K 1 V 1 
+RWB 12    D 2 E 1 I 2 K 1 M 1 N 2 V 3 
+RWC 4     D 1 I 1 N 1 V 1 
+RWD 12    D 1 E 2 I 2 K 2 M 1 N 1 V 3 
+RWG 4     E 1 K 1 M 1 V 1 
+RWH 12    D 2 E 1 I 3 K 1 N 2 V 3 
+RWK 8     D 1 E 1 I 1 K 1 M 1 N 1 V 2 
+RWM 8     D 1 E 1 I 2 K 1 N 1 V 2 
+RWN 16    D 2 E 2 I 3 K 2 M 1 N 2 V 4 
+RWR 8     E 2 I 1 K 2 M 1 V 2 
+RWS 8     D 1 E 1 I 1 K 1 M 1 N 1 V 2 
+RWT 4     D 1 I 1 N 1 V 1 
+RWV 12    D 1 E 2 I 2 K 2 M 1 N 1 V 3 
+RWW 8     D 1 E 1 I 2 K 1 N 1 V 2 
+RWY 8     D 2 I 2 N 2 V 2 
+RYA 4     A 1 I 1 T 1 V 1 
+RYB 12    A 3 I 2 M 1 T 3 V 3 
+RYC 4     A 1 I 1 T 1 V 1 
+RYD 12    A 3 I 2 M 1 T 3 V 3 
+RYG 4     A 1 M 1 T 1 V 1 
+RYH 12    A 3 I 3 T 3 V 3 
+RYK 8     A 2 I 1 M 1 T 2 V 2 
+RYM 8     A 2 I 2 T 2 V 2 
+RYN 16    A 4 I 3 M 1 T 4 V 4 
+RYR 8     A 2 I 1 M 1 T 2 V 2 
+RYS 8     A 2 I 1 M 1 T 2 V 2 
+RYT 4     A 1 I 1 T 1 V 1 
+RYV 12    A 3 I 2 M 1 T 3 V 3 
+RYW 8     A 2 I 2 T 2 V 2 
+RYY 8     A 2 I 2 T 2 V 2 
+SAA 2     E 1 Q 1 
+SAB 6     D 2 E 1 H 2 Q 1 
+SAC 2     D 1 H 1 
+SAD 6     D 1 E 2 H 1 Q 2 
+SAG 2     E 1 Q 1 
+SAH 6     D 2 E 1 H 2 Q 1 
+SAK 4     D 1 E 1 H 1 Q 1 
+SAM 4     D 1 E 1 H 1 Q 1 
+SAN 8     D 2 E 2 H 2 Q 2 
+SAR 4     E 2 Q 2 
+SAS 4     D 1 E 1 H 1 Q 1 
+SAT 2     D 1 H 1 
+SAV 6     D 1 E 2 H 1 Q 2 
+SAW 4     D 1 E 1 H 1 Q 1 
+SAY 4     D 2 H 2 
+SBA 6     A 1 G 1 L 1 P 1 R 1 V 1 
+SBB 18    A 3 G 3 L 3 P 3 R 3 V 3 
+SBC 6     A 1 G 1 L 1 P 1 R 1 V 1 
+SBD 18    A 3 G 3 L 3 P 3 R 3 V 3 
+SBG 6     A 1 G 1 L 1 P 1 R 1 V 1 
+SBH 18    A 3 G 3 L 3 P 3 R 3 V 3 
+SBK 12    A 2 G 2 L 2 P 2 R 2 V 2 
+SBM 12    A 2 G 2 L 2 P 2 R 2 V 2 
+SBN 24    A 4 G 4 L 4 P 4 R 4 V 4 
+SBR 12    A 2 G 2 L 2 P 2 R 2 V 2 
+SBS 12    A 2 G 2 L 2 P 2 R 2 V 2 
+SBT 6     A 1 G 1 L 1 P 1 R 1 V 1 
+SBV 18    A 3 G 3 L 3 P 3 R 3 V 3 
+SBW 12    A 2 G 2 L 2 P 2 R 2 V 2 
+SBY 12    A 2 G 2 L 2 P 2 R 2 V 2 
+SCA 2     A 1 P 1 
+SCB 6     A 3 P 3 
+SCC 2     A 1 P 1 
+SCD 6     A 3 P 3 
+SCG 2     A 1 P 1 
+SCH 6     A 3 P 3 
+SCK 4     A 2 P 2 
+SCM 4     A 2 P 2 
+SCN 8     A 4 P 4 
+SCR 4     A 2 P 2 
+SCS 4     A 2 P 2 
+SCT 2     A 1 P 1 
+SCV 6     A 3 P 3 
+SCW 4     A 2 P 2 
+SCY 4     A 2 P 2 
+SDA 6     E 1 G 1 L 1 Q 1 R 1 V 1 
+SDB 18    D 2 E 1 G 3 H 2 L 3 Q 1 R 3 V 3 
+SDC 6     D 1 G 1 H 1 L 1 R 1 V 1 
+SDD 18    D 1 E 2 G 3 H 1 L 3 Q 2 R 3 V 3 
+SDG 6     E 1 G 1 L 1 Q 1 R 1 V 1 
+SDH 18    D 2 E 1 G 3 H 2 L 3 Q 1 R 3 V 3 
+SDK 12    D 1 E 1 G 2 H 1 L 2 Q 1 R 2 V 2 
+SDM 12    D 1 E 1 G 2 H 1 L 2 Q 1 R 2 V 2 
+SDN 24    D 2 E 2 G 4 H 2 L 4 Q 2 R 4 V 4 
+SDR 12    E 2 G 2 L 2 Q 2 R 2 V 2 
+SDS 12    D 1 E 1 G 2 H 1 L 2 Q 1 R 2 V 2 
+SDT 6     D 1 G 1 H 1 L 1 R 1 V 1 
+SDV 18    D 1 E 2 G 3 H 1 L 3 Q 2 R 3 V 3 
+SDW 12    D 1 E 1 G 2 H 1 L 2 Q 1 R 2 V 2 
+SDY 12    D 2 G 2 H 2 L 2 R 2 V 2 
+SGA 2     G 1 R 1 
+SGB 6     G 3 R 3 
+SGC 2     G 1 R 1 
+SGD 6     G 3 R 3 
+SGG 2     G 1 R 1 
+SGH 6     G 3 R 3 
+SGK 4     G 2 R 2 
+SGM 4     G 2 R 2 
+SGN 8     G 4 R 4 
+SGR 4     G 2 R 2 
+SGS 4     G 2 R 2 
+SGT 2     G 1 R 1 
+SGV 6     G 3 R 3 
+SGW 4     G 2 R 2 
+SGY 4     G 2 R 2 
+SHA 6     A 1 E 1 L 1 P 1 Q 1 V 1 
+SHB 18    A 3 D 2 E 1 H 2 L 3 P 3 Q 1 V 3 
+SHC 6     A 1 D 1 H 1 L 1 P 1 V 1 
+SHD 18    A 3 D 1 E 2 H 1 L 3 P 3 Q 2 V 3 
+SHG 6     A 1 E 1 L 1 P 1 Q 1 V 1 
+SHH 18    A 3 D 2 E 1 H 2 L 3 P 3 Q 1 V 3 
+SHK 12    A 2 D 1 E 1 H 1 L 2 P 2 Q 1 V 2 
+SHM 12    A 2 D 1 E 1 H 1 L 2 P 2 Q 1 V 2 
+SHN 24    A 4 D 2 E 2 H 2 L 4 P 4 Q 2 V 4 
+SHR 12    A 2 E 2 L 2 P 2 Q 2 V 2 
+SHS 12    A 2 D 1 E 1 H 1 L 2 P 2 Q 1 V 2 
+SHT 6     A 1 D 1 H 1 L 1 P 1 V 1 
+SHV 18    A 3 D 1 E 2 H 1 L 3 P 3 Q 2 V 3 
+SHW 12    A 2 D 1 E 1 H 1 L 2 P 2 Q 1 V 2 
+SHY 12    A 2 D 2 H 2 L 2 P 2 V 2 
+SKA 4     G 1 L 1 R 1 V 1 
+SKB 12    G 3 L 3 R 3 V 3 
+SKC 4     G 1 L 1 R 1 V 1 
+SKD 12    G 3 L 3 R 3 V 3 
+SKG 4     G 1 L 1 R 1 V 1 
+SKH 12    G 3 L 3 R 3 V 3 
+SKK 8     G 2 L 2 R 2 V 2 
+SKM 8     G 2 L 2 R 2 V 2 
+SKN 16    G 4 L 4 R 4 V 4 
+SKR 8     G 2 L 2 R 2 V 2 
+SKS 8     G 2 L 2 R 2 V 2 
+SKT 4     G 1 L 1 R 1 V 1 
+SKV 12    G 3 L 3 R 3 V 3 
+SKW 8     G 2 L 2 R 2 V 2 
+SKY 8     G 2 L 2 R 2 V 2 
+SMA 4     A 1 E 1 P 1 Q 1 
+SMB 12    A 3 D 2 E 1 H 2 P 3 Q 1 
+SMC 4     A 1 D 1 H 1 P 1 
+SMD 12    A 3 D 1 E 2 H 1 P 3 Q 2 
+SMG 4     A 1 E 1 P 1 Q 1 
+SMH 12    A 3 D 2 E 1 H 2 P 3 Q 1 
+SMK 8     A 2 D 1 E 1 H 1 P 2 Q 1 
+SMM 8     A 2 D 1 E 1 H 1 P 2 Q 1 
+SMN 16    A 4 D 2 E 2 H 2 P 4 Q 2 
+SMR 8     A 2 E 2 P 2 Q 2 
+SMS 8     A 2 D 1 E 1 H 1 P 2 Q 1 
+SMT 4     A 1 D 1 H 1 P 1 
+SMV 12    A 3 D 1 E 2 H 1 P 3 Q 2 
+SMW 8     A 2 D 1 E 1 H 1 P 2 Q 1 
+SMY 8     A 2 D 2 H 2 P 2 
+SNA 8     A 1 E 1 G 1 L 1 P 1 Q 1 R 1 V 1 
+SNB 24    A 3 D 2 E 1 G 3 H 2 L 3 P 3 Q 1 R 3 V 3 
+SNC 8     A 1 D 1 G 1 H 1 L 1 P 1 R 1 V 1 
+SND 24    A 3 D 1 E 2 G 3 H 1 L 3 P 3 Q 2 R 3 V 3 
+SNG 8     A 1 E 1 G 1 L 1 P 1 Q 1 R 1 V 1 
+SNH 24    A 3 D 2 E 1 G 3 H 2 L 3 P 3 Q 1 R 3 V 3 
+SNK 16    A 2 D 1 E 1 G 2 H 1 L 2 P 2 Q 1 R 2 V 2 
+SNM 16    A 2 D 1 E 1 G 2 H 1 L 2 P 2 Q 1 R 2 V 2 
+SNN 32    A 4 D 2 E 2 G 4 H 2 L 4 P 4 Q 2 R 4 V 4 
+SNR 16    A 2 E 2 G 2 L 2 P 2 Q 2 R 2 V 2 
+SNS 16    A 2 D 1 E 1 G 2 H 1 L 2 P 2 Q 1 R 2 V 2 
+SNT 8     A 1 D 1 G 1 H 1 L 1 P 1 R 1 V 1 
+SNV 24    A 3 D 1 E 2 G 3 H 1 L 3 P 3 Q 2 R 3 V 3 
+SNW 16    A 2 D 1 E 1 G 2 H 1 L 2 P 2 Q 1 R 2 V 2 
+SNY 16    A 2 D 2 G 2 H 2 L 2 P 2 R 2 V 2 
+SRA 4     E 1 G 1 Q 1 R 1 
+SRB 12    D 2 E 1 G 3 H 2 Q 1 R 3 
+SRC 4     D 1 G 1 H 1 R 1 
+SRD 12    D 1 E 2 G 3 H 1 Q 2 R 3 
+SRG 4     E 1 G 1 Q 1 R 1 
+SRH 12    D 2 E 1 G 3 H 2 Q 1 R 3 
+SRK 8     D 1 E 1 G 2 H 1 Q 1 R 2 
+SRM 8     D 1 E 1 G 2 H 1 Q 1 R 2 
+SRN 16    D 2 E 2 G 4 H 2 Q 2 R 4 
+SRR 8     E 2 G 2 Q 2 R 2 
+SRS 8     D 1 E 1 G 2 H 1 Q 1 R 2 
+SRT 4     D 1 G 1 H 1 R 1 
+SRV 12    D 1 E 2 G 3 H 1 Q 2 R 3 
+SRW 8     D 1 E 1 G 2 H 1 Q 1 R 2 
+SRY 8     D 2 G 2 H 2 R 2 
+SSA 4     A 1 G 1 P 1 R 1 
+SSB 12    A 3 G 3 P 3 R 3 
+SSC 4     A 1 G 1 P 1 R 1 
+SSD 12    A 3 G 3 P 3 R 3 
+SSG 4     A 1 G 1 P 1 R 1 
+SSH 12    A 3 G 3 P 3 R 3 
+SSK 8     A 2 G 2 P 2 R 2 
+SSM 8     A 2 G 2 P 2 R 2 
+SSN 16    A 4 G 4 P 4 R 4 
+SSR 8     A 2 G 2 P 2 R 2 
+SSS 8     A 2 G 2 P 2 R 2 
+SST 4     A 1 G 1 P 1 R 1 
+SSV 12    A 3 G 3 P 3 R 3 
+SSW 8     A 2 G 2 P 2 R 2 
+SSY 8     A 2 G 2 P 2 R 2 
+STA 2     L 1 V 1 
+STB 6     L 3 V 3 
+STC 2     L 1 V 1 
+STD 6     L 3 V 3 
+STG 2     L 1 V 1 
+STH 6     L 3 V 3 
+STK 4     L 2 V 2 
+STM 4     L 2 V 2 
+STN 8     L 4 V 4 
+STR 4     L 2 V 2 
+STS 4     L 2 V 2 
+STT 2     L 1 V 1 
+STV 6     L 3 V 3 
+STW 4     L 2 V 2 
+STY 4     L 2 V 2 
+SVA 6     A 1 E 1 G 1 P 1 Q 1 R 1 
+SVB 18    A 3 D 2 E 1 G 3 H 2 P 3 Q 1 R 3 
+SVC 6     A 1 D 1 G 1 H 1 P 1 R 1 
+SVD 18    A 3 D 1 E 2 G 3 H 1 P 3 Q 2 R 3 
+SVG 6     A 1 E 1 G 1 P 1 Q 1 R 1 
+SVH 18    A 3 D 2 E 1 G 3 H 2 P 3 Q 1 R 3 
+SVK 12    A 2 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 
+SVM 12    A 2 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 
+SVN 24    A 4 D 2 E 2 G 4 H 2 P 4 Q 2 R 4 
+SVR 12    A 2 E 2 G 2 P 2 Q 2 R 2 
+SVS 12    A 2 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 
+SVT 6     A 1 D 1 G 1 H 1 P 1 R 1 
+SVV 18    A 3 D 1 E 2 G 3 H 1 P 3 Q 2 R 3 
+SVW 12    A 2 D 1 E 1 G 2 H 1 P 2 Q 1 R 2 
+SVY 12    A 2 D 2 G 2 H 2 P 2 R 2 
+SWA 4     E 1 L 1 Q 1 V 1 
+SWB 12    D 2 E 1 H 2 L 3 Q 1 V 3 
+SWC 4     D 1 H 1 L 1 V 1 
+SWD 12    D 1 E 2 H 1 L 3 Q 2 V 3 
+SWG 4     E 1 L 1 Q 1 V 1 
+SWH 12    D 2 E 1 H 2 L 3 Q 1 V 3 
+SWK 8     D 1 E 1 H 1 L 2 Q 1 V 2 
+SWM 8     D 1 E 1 H 1 L 2 Q 1 V 2 
+SWN 16    D 2 E 2 H 2 L 4 Q 2 V 4 
+SWR 8     E 2 L 2 Q 2 V 2 
+SWS 8     D 1 E 1 H 1 L 2 Q 1 V 2 
+SWT 4     D 1 H 1 L 1 V 1 
+SWV 12    D 1 E 2 H 1 L 3 Q 2 V 3 
+SWW 8     D 1 E 1 H 1 L 2 Q 1 V 2 
+SWY 8     D 2 H 2 L 2 V 2 
+SYA 4     A 1 L 1 P 1 V 1 
+SYB 12    A 3 L 3 P 3 V 3 
+SYC 4     A 1 L 1 P 1 V 1 
+SYD 12    A 3 L 3 P 3 V 3 
+SYG 4     A 1 L 1 P 1 V 1 
+SYH 12    A 3 L 3 P 3 V 3 
+SYK 8     A 2 L 2 P 2 V 2 
+SYM 8     A 2 L 2 P 2 V 2 
+SYN 16    A 4 L 4 P 4 V 4 
+SYR 8     A 2 L 2 P 2 V 2 
+SYS 8     A 2 L 2 P 2 V 2 
+SYT 4     A 1 L 1 P 1 V 1 
+SYV 12    A 3 L 3 P 3 V 3 
+SYW 8     A 2 L 2 P 2 V 2 
+SYY 8     A 2 L 2 P 2 V 2 
+TAA 1     Z 1 
+TAB 3     Y 2 Z 1 
+TAC 1     Y 1 
+TAD 3     Y 1 Z 2 
+TAG 1     Z 1 
+TAH 3     Y 2 Z 1 
+TAK 2     Y 1 Z 1 
+TAM 2     Y 1 Z 1 
+TAN 4     Y 2 Z 2 
+TAR 2     Z 2 
+TAS 2     Y 1 Z 1 
+TAT 1     Y 1 
+TAV 3     Y 1 Z 2 
+TAW 2     Y 1 Z 1 
+TAY 2     Y 2 
+TBA 3     L 1 S 1 Z 1 
+TBB 9     C 2 F 2 L 1 S 3 W 1 
+TBC 3     C 1 F 1 S 1 
+TBD 9     C 1 F 1 L 2 S 3 W 1 Z 1 
+TBG 3     L 1 S 1 W 1 
+TBH 9     C 2 F 2 L 1 S 3 Z 1 
+TBK 6     C 1 F 1 L 1 S 2 W 1 
+TBM 6     C 1 F 1 L 1 S 2 Z 1 
+TBN 12    C 2 F 2 L 2 S 4 W 1 Z 1 
+TBR 6     L 2 S 2 W 1 Z 1 
+TBS 6     C 1 F 1 L 1 S 2 W 1 
+TBT 3     C 1 F 1 S 1 
+TBV 9     C 1 F 1 L 2 S 3 W 1 Z 1 
+TBW 6     C 1 F 1 L 1 S 2 Z 1 
+TBY 6     C 2 F 2 S 2 
+TCA 1     S 1 
+TCB 3     S 3 
+TCC 1     S 1 
+TCD 3     S 3 
+TCG 1     S 1 
+TCH 3     S 3 
+TCK 2     S 2 
+TCM 2     S 2 
+TCN 4     S 4 
+TCR 2     S 2 
+TCS 2     S 2 
+TCT 1     S 1 
+TCV 3     S 3 
+TCW 2     S 2 
+TCY 2     S 2 
+TDA 3     L 1 Z 2 
+TDB 9     C 2 F 2 L 1 W 1 Y 2 Z 1 
+TDC 3     C 1 F 1 Y 1 
+TDD 9     C 1 F 1 L 2 W 1 Y 1 Z 3 
+TDG 3     L 1 W 1 Z 1 
+TDH 9     C 2 F 2 L 1 Y 2 Z 2 
+TDK 6     C 1 F 1 L 1 W 1 Y 1 Z 1 
+TDM 6     C 1 F 1 L 1 Y 1 Z 2 
+TDN 12    C 2 F 2 L 2 W 1 Y 2 Z 3 
+TDR 6     L 2 W 1 Z 3 
+TDS 6     C 1 F 1 L 1 W 1 Y 1 Z 1 
+TDT 3     C 1 F 1 Y 1 
+TDV 9     C 1 F 1 L 2 W 1 Y 1 Z 3 
+TDW 6     C 1 F 1 L 1 Y 1 Z 2 
+TDY 6     C 2 F 2 Y 2 
+TGA 1     Z 1 
+TGB 3     C 2 W 1 
+TGC 1     C 1 
+TGD 3     C 1 W 1 Z 1 
+TGG 1     W 1 
+TGH 3     C 2 Z 1 
+TGK 2     C 1 W 1 
+TGM 2     C 1 Z 1 
+TGN 4     C 2 W 1 Z 1 
+TGR 2     W 1 Z 1 
+TGS 2     C 1 W 1 
+TGT 1     C 1 
+TGV 3     C 1 W 1 Z 1 
+TGW 2     C 1 Z 1 
+TGY 2     C 2 
+THA 3     L 1 S 1 Z 1 
+THB 9     F 2 L 1 S 3 Y 2 Z 1 
+THC 3     F 1 S 1 Y 1 
+THD 9     F 1 L 2 S 3 Y 1 Z 2 
+THG 3     L 1 S 1 Z 1 
+THH 9     F 2 L 1 S 3 Y 2 Z 1 
+THK 6     F 1 L 1 S 2 Y 1 Z 1 
+THM 6     F 1 L 1 S 2 Y 1 Z 1 
+THN 12    F 2 L 2 S 4 Y 2 Z 2 
+THR 6     L 2 S 2 Z 2 
+THS 6     F 1 L 1 S 2 Y 1 Z 1 
+THT 3     F 1 S 1 Y 1 
+THV 9     F 1 L 2 S 3 Y 1 Z 2 
+THW 6     F 1 L 1 S 2 Y 1 Z 1 
+THY 6     F 2 S 2 Y 2 
+TKA 2     L 1 Z 1 
+TKB 6     C 2 F 2 L 1 W 1 
+TKC 2     C 1 F 1 
+TKD 6     C 1 F 1 L 2 W 1 Z 1 
+TKG 2     L 1 W 1 
+TKH 6     C 2 F 2 L 1 Z 1 
+TKK 4     C 1 F 1 L 1 W 1 
+TKM 4     C 1 F 1 L 1 Z 1 
+TKN 8     C 2 F 2 L 2 W 1 Z 1 
+TKR 4     L 2 W 1 Z 1 
+TKS 4     C 1 F 1 L 1 W 1 
+TKT 2     C 1 F 1 
+TKV 6     C 1 F 1 L 2 W 1 Z 1 
+TKW 4     C 1 F 1 L 1 Z 1 
+TKY 4     C 2 F 2 
+TMA 2     S 1 Z 1 
+TMB 6     S 3 Y 2 Z 1 
+TMC 2     S 1 Y 1 
+TMD 6     S 3 Y 1 Z 2 
+TMG 2     S 1 Z 1 
+TMH 6     S 3 Y 2 Z 1 
+TMK 4     S 2 Y 1 Z 1 
+TMM 4     S 2 Y 1 Z 1 
+TMN 8     S 4 Y 2 Z 2 
+TMR 4     S 2 Z 2 
+TMS 4     S 2 Y 1 Z 1 
+TMT 2     S 1 Y 1 
+TMV 6     S 3 Y 1 Z 2 
+TMW 4     S 2 Y 1 Z 1 
+TMY 4     S 2 Y 2 
+TNA 4     L 1 S 1 Z 2 
+TNB 12    C 2 F 2 L 1 S 3 W 1 Y 2 Z 1 
+TNC 4     C 1 F 1 S 1 Y 1 
+TND 12    C 1 F 1 L 2 S 3 W 1 Y 1 Z 3 
+TNG 4     L 1 S 1 W 1 Z 1 
+TNH 12    C 2 F 2 L 1 S 3 Y 2 Z 2 
+TNK 8     C 1 F 1 L 1 S 2 W 1 Y 1 Z 1 
+TNM 8     C 1 F 1 L 1 S 2 Y 1 Z 2 
+TNN 16    C 2 F 2 L 2 S 4 W 1 Y 2 Z 3 
+TNR 8     L 2 S 2 W 1 Z 3 
+TNS 8     C 1 F 1 L 1 S 2 W 1 Y 1 Z 1 
+TNT 4     C 1 F 1 S 1 Y 1 
+TNV 12    C 1 F 1 L 2 S 3 W 1 Y 1 Z 3 
+TNW 8     C 1 F 1 L 1 S 2 Y 1 Z 2 
+TNY 8     C 2 F 2 S 2 Y 2 
+TRA 2     Z 2 
+TRB 6     C 2 W 1 Y 2 Z 1 
+TRC 2     C 1 Y 1 
+TRD 6     C 1 W 1 Y 1 Z 3 
+TRG 2     W 1 Z 1 
+TRH 6     C 2 Y 2 Z 2 
+TRK 4     C 1 W 1 Y 1 Z 1 
+TRM 4     C 1 Y 1 Z 2 
+TRN 8     C 2 W 1 Y 2 Z 3 
+TRR 4     W 1 Z 3 
+TRS 4     C 1 W 1 Y 1 Z 1 
+TRT 2     C 1 Y 1 
+TRV 6     C 1 W 1 Y 1 Z 3 
+TRW 4     C 1 Y 1 Z 2 
+TRY 4     C 2 Y 2 
+TSA 2     S 1 Z 1 
+TSB 6     C 2 S 3 W 1 
+TSC 2     C 1 S 1 
+TSD 6     C 1 S 3 W 1 Z 1 
+TSG 2     S 1 W 1 
+TSH 6     C 2 S 3 Z 1 
+TSK 4     C 1 S 2 W 1 
+TSM 4     C 1 S 2 Z 1 
+TSN 8     C 2 S 4 W 1 Z 1 
+TSR 4     S 2 W 1 Z 1 
+TSS 4     C 1 S 2 W 1 
+TST 2     C 1 S 1 
+TSV 6     C 1 S 3 W 1 Z 1 
+TSW 4     C 1 S 2 Z 1 
+TSY 4     C 2 S 2 
+TTA 1     L 1 
+TTB 3     F 2 L 1 
+TTC 1     F 1 
+TTD 3     F 1 L 2 
+TTG 1     L 1 
+TTH 3     F 2 L 1 
+TTK 2     F 1 L 1 
+TTM 2     F 1 L 1 
+TTN 4     F 2 L 2 
+TTR 2     L 2 
+TTS 2     F 1 L 1 
+TTT 1     F 1 
+TTV 3     F 1 L 2 
+TTW 2     F 1 L 1 
+TTY 2     F 2 
+TVA 3     S 1 Z 2 
+TVB 9     C 2 S 3 W 1 Y 2 Z 1 
+TVC 3     C 1 S 1 Y 1 
+TVD 9     C 1 S 3 W 1 Y 1 Z 3 
+TVG 3     S 1 W 1 Z 1 
+TVH 9     C 2 S 3 Y 2 Z 2 
+TVK 6     C 1 S 2 W 1 Y 1 Z 1 
+TVM 6     C 1 S 2 Y 1 Z 2 
+TVN 12    C 2 S 4 W 1 Y 2 Z 3 
+TVR 6     S 2 W 1 Z 3 
+TVS 6     C 1 S 2 W 1 Y 1 Z 1 
+TVT 3     C 1 S 1 Y 1 
+TVV 9     C 1 S 3 W 1 Y 1 Z 3 
+TVW 6     C 1 S 2 Y 1 Z 2 
+TVY 6     C 2 S 2 Y 2 
+TWA 2     L 1 Z 1 
+TWB 6     F 2 L 1 Y 2 Z 1 
+TWC 2     F 1 Y 1 
+TWD 6     F 1 L 2 Y 1 Z 2 
+TWG 2     L 1 Z 1 
+TWH 6     F 2 L 1 Y 2 Z 1 
+TWK 4     F 1 L 1 Y 1 Z 1 
+TWM 4     F 1 L 1 Y 1 Z 1 
+TWN 8     F 2 L 2 Y 2 Z 2 
+TWR 4     L 2 Z 2 
+TWS 4     F 1 L 1 Y 1 Z 1 
+TWT 2     F 1 Y 1 
+TWV 6     F 1 L 2 Y 1 Z 2 
+TWW 4     F 1 L 1 Y 1 Z 1 
+TWY 4     F 2 Y 2 
+TYA 2     L 1 S 1 
+TYB 6     F 2 L 1 S 3 
+TYC 2     F 1 S 1 
+TYD 6     F 1 L 2 S 3 
+TYG 2     L 1 S 1 
+TYH 6     F 2 L 1 S 3 
+TYK 4     F 1 L 1 S 2 
+TYM 4     F 1 L 1 S 2 
+TYN 8     F 2 L 2 S 4 
+TYR 4     L 2 S 2 
+TYS 4     F 1 L 1 S 2 
+TYT 2     F 1 S 1 
+TYV 6     F 1 L 2 S 3 
+TYW 4     F 1 L 1 S 2 
+TYY 4     F 2 S 2 
+VAA 3     E 1 K 1 Q 1 
+VAB 9     D 2 E 1 H 2 K 1 N 2 Q 1 
+VAC 3     D 1 H 1 N 1 
+VAD 9     D 1 E 2 H 1 K 2 N 1 Q 2 
+VAG 3     E 1 K 1 Q 1 
+VAH 9     D 2 E 1 H 2 K 1 N 2 Q 1 
+VAK 6     D 1 E 1 H 1 K 1 N 1 Q 1 
+VAM 6     D 1 E 1 H 1 K 1 N 1 Q 1 
+VAN 12    D 2 E 2 H 2 K 2 N 2 Q 2 
+VAR 6     E 2 K 2 Q 2 
+VAS 6     D 1 E 1 H 1 K 1 N 1 Q 1 
+VAT 3     D 1 H 1 N 1 
+VAV 9     D 1 E 2 H 1 K 2 N 1 Q 2 
+VAW 6     D 1 E 1 H 1 K 1 N 1 Q 1 
+VAY 6     D 2 H 2 N 2 
+VBA 9     A 1 G 1 I 1 L 1 P 1 R 2 T 1 V 1 
+VBB 27    A 3 G 3 I 2 L 3 M 1 P 3 R 4 S 2 T 3 V 3 
+VBC 9     A 1 G 1 I 1 L 1 P 1 R 1 S 1 T 1 V 1 
+VBD 27    A 3 G 3 I 2 L 3 M 1 P 3 R 5 S 1 T 3 V 3 
+VBG 9     A 1 G 1 L 1 M 1 P 1 R 2 T 1 V 1 
+VBH 27    A 3 G 3 I 3 L 3 P 3 R 4 S 2 T 3 V 3 
+VBK 18    A 2 G 2 I 1 L 2 M 1 P 2 R 3 S 1 T 2 V 2 
+VBM 18    A 2 G 2 I 2 L 2 P 2 R 3 S 1 T 2 V 2 
+VBN 36    A 4 G 4 I 3 L 4 M 1 P 4 R 6 S 2 T 4 V 4 
+VBR 18    A 2 G 2 I 1 L 2 M 1 P 2 R 4 T 2 V 2 
+VBS 18    A 2 G 2 I 1 L 2 M 1 P 2 R 3 S 1 T 2 V 2 
+VBT 9     A 1 G 1 I 1 L 1 P 1 R 1 S 1 T 1 V 1 
+VBV 27    A 3 G 3 I 2 L 3 M 1 P 3 R 5 S 1 T 3 V 3 
+VBW 18    A 2 G 2 I 2 L 2 P 2 R 3 S 1 T 2 V 2 
+VBY 18    A 2 G 2 I 2 L 2 P 2 R 2 S 2 T 2 V 2 
+VCA 3     A 1 P 1 T 1 
+VCB 9     A 3 P 3 T 3 
+VCC 3     A 1 P 1 T 1 
+VCD 9     A 3 P 3 T 3 
+VCG 3     A 1 P 1 T 1 
+VCH 9     A 3 P 3 T 3 
+VCK 6     A 2 P 2 T 2 
+VCM 6     A 2 P 2 T 2 
+VCN 12    A 4 P 4 T 4 
+VCR 6     A 2 P 2 T 2 
+VCS 6     A 2 P 2 T 2 
+VCT 3     A 1 P 1 T 1 
+VCV 9     A 3 P 3 T 3 
+VCW 6     A 2 P 2 T 2 
+VCY 6     A 2 P 2 T 2 
+VDA 9     E 1 G 1 I 1 K 1 L 1 Q 1 R 2 V 1 
+VDB 27    D 2 E 1 G 3 H 2 I 2 K 1 L 3 M 1 N 2 Q 1 R 4 S 2 V 3 
+VDC 9     D 1 G 1 H 1 I 1 L 1 N 1 R 1 S 1 V 1 
+VDD 27    D 1 E 2 G 3 H 1 I 2 K 2 L 3 M 1 N 1 Q 2 R 5 S 1 V 3 
+VDG 9     E 1 G 1 K 1 L 1 M 1 Q 1 R 2 V 1 
+VDH 27    D 2 E 1 G 3 H 2 I 3 K 1 L 3 N 2 Q 1 R 4 S 2 V 3 
+VDK 18    D 1 E 1 G 2 H 1 I 1 K 1 L 2 M 1 N 1 Q 1 R 3 S 1 V 2 
+VDM 18    D 1 E 1 G 2 H 1 I 2 K 1 L 2 N 1 Q 1 R 3 S 1 V 2 
+VDN 36    D 2 E 2 G 4 H 2 I 3 K 2 L 4 M 1 N 2 Q 2 R 6 S 2 V 4 
+VDR 18    E 2 G 2 I 1 K 2 L 2 M 1 Q 2 R 4 V 2 
+VDS 18    D 1 E 1 G 2 H 1 I 1 K 1 L 2 M 1 N 1 Q 1 R 3 S 1 V 2 
+VDT 9     D 1 G 1 H 1 I 1 L 1 N 1 R 1 S 1 V 1 
+VDV 27    D 1 E 2 G 3 H 1 I 2 K 2 L 3 M 1 N 1 Q 2 R 5 S 1 V 3 
+VDW 18    D 1 E 1 G 2 H 1 I 2 K 1 L 2 N 1 Q 1 R 3 S 1 V 2 
+VDY 18    D 2 G 2 H 2 I 2 L 2 N 2 R 2 S 2 V 2 
+VGA 3     G 1 R 2 
+VGB 9     G 3 R 4 S 2 
+VGC 3     G 1 R 1 S 1 
+VGD 9     G 3 R 5 S 1 
+VGG 3     G 1 R 2 
+VGH 9     G 3 R 4 S 2 
+VGK 6     G 2 R 3 S 1 
+VGM 6     G 2 R 3 S 1 
+VGN 12    G 4 R 6 S 2 
+VGR 6     G 2 R 4 
+VGS 6     G 2 R 3 S 1 
+VGT 3     G 1 R 1 S 1 
+VGV 9     G 3 R 5 S 1 
+VGW 6     G 2 R 3 S 1 
+VGY 6     G 2 R 2 S 2 
+VHA 9     A 1 E 1 I 1 K 1 L 1 P 1 Q 1 T 1 V 1 
+VHB 27    A 3 D 2 E 1 H 2 I 2 K 1 L 3 M 1 N 2 P 3 Q 1 T 3 V 3 
+VHC 9     A 1 D 1 H 1 I 1 L 1 N 1 P 1 T 1 V 1 
+VHD 27    A 3 D 1 E 2 H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 T 3 V 3 
+VHG 9     A 1 E 1 K 1 L 1 M 1 P 1 Q 1 T 1 V 1 
+VHH 27    A 3 D 2 E 1 H 2 I 3 K 1 L 3 N 2 P 3 Q 1 T 3 V 3 
+VHK 18    A 2 D 1 E 1 H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 T 2 V 2 
+VHM 18    A 2 D 1 E 1 H 1 I 2 K 1 L 2 N 1 P 2 Q 1 T 2 V 2 
+VHN 36    A 4 D 2 E 2 H 2 I 3 K 2 L 4 M 1 N 2 P 4 Q 2 T 4 V 4 
+VHR 18    A 2 E 2 I 1 K 2 L 2 M 1 P 2 Q 2 T 2 V 2 
+VHS 18    A 2 D 1 E 1 H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 T 2 V 2 
+VHT 9     A 1 D 1 H 1 I 1 L 1 N 1 P 1 T 1 V 1 
+VHV 27    A 3 D 1 E 2 H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 T 3 V 3 
+VHW 18    A 2 D 1 E 1 H 1 I 2 K 1 L 2 N 1 P 2 Q 1 T 2 V 2 
+VHY 18    A 2 D 2 H 2 I 2 L 2 N 2 P 2 T 2 V 2 
+VKA 6     G 1 I 1 L 1 R 2 V 1 
+VKB 18    G 3 I 2 L 3 M 1 R 4 S 2 V 3 
+VKC 6     G 1 I 1 L 1 R 1 S 1 V 1 
+VKD 18    G 3 I 2 L 3 M 1 R 5 S 1 V 3 
+VKG 6     G 1 L 1 M 1 R 2 V 1 
+VKH 18    G 3 I 3 L 3 R 4 S 2 V 3 
+VKK 12    G 2 I 1 L 2 M 1 R 3 S 1 V 2 
+VKM 12    G 2 I 2 L 2 R 3 S 1 V 2 
+VKN 24    G 4 I 3 L 4 M 1 R 6 S 2 V 4 
+VKR 12    G 2 I 1 L 2 M 1 R 4 V 2 
+VKS 12    G 2 I 1 L 2 M 1 R 3 S 1 V 2 
+VKT 6     G 1 I 1 L 1 R 1 S 1 V 1 
+VKV 18    G 3 I 2 L 3 M 1 R 5 S 1 V 3 
+VKW 12    G 2 I 2 L 2 R 3 S 1 V 2 
+VKY 12    G 2 I 2 L 2 R 2 S 2 V 2 
+VMA 6     A 1 E 1 K 1 P 1 Q 1 T 1 
+VMB 18    A 3 D 2 E 1 H 2 K 1 N 2 P 3 Q 1 T 3 
+VMC 6     A 1 D 1 H 1 N 1 P 1 T 1 
+VMD 18    A 3 D 1 E 2 H 1 K 2 N 1 P 3 Q 2 T 3 
+VMG 6     A 1 E 1 K 1 P 1 Q 1 T 1 
+VMH 18    A 3 D 2 E 1 H 2 K 1 N 2 P 3 Q 1 T 3 
+VMK 12    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 T 2 
+VMM 12    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 T 2 
+VMN 24    A 4 D 2 E 2 H 2 K 2 N 2 P 4 Q 2 T 4 
+VMR 12    A 2 E 2 K 2 P 2 Q 2 T 2 
+VMS 12    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 T 2 
+VMT 6     A 1 D 1 H 1 N 1 P 1 T 1 
+VMV 18    A 3 D 1 E 2 H 1 K 2 N 1 P 3 Q 2 T 3 
+VMW 12    A 2 D 1 E 1 H 1 K 1 N 1 P 2 Q 1 T 2 
+VMY 12    A 2 D 2 H 2 N 2 P 2 T 2 
+VNA 12    A 1 E 1 G 1 I 1 K 1 L 1 P 1 Q 1 R 2 T 1 V 1 
+VNB 36    A 3 D 2 E 1 G 3 H 2 I 2 K 1 L 3 M 1 N 2 P 3 Q 1 R 4 S 2 T 3 V 3 
+VNC 12    A 1 D 1 G 1 H 1 I 1 L 1 N 1 P 1 R 1 S 1 T 1 V 1 
+VND 36    A 3 D 1 E 2 G 3 H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 R 5 S 1 T 3 V 3 
+VNG 12    A 1 E 1 G 1 K 1 L 1 M 1 P 1 Q 1 R 2 T 1 V 1 
+VNH 36    A 3 D 2 E 1 G 3 H 2 I 3 K 1 L 3 N 2 P 3 Q 1 R 4 S 2 T 3 V 3 
+VNK 24    A 2 D 1 E 1 G 2 H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 R 3 S 1 T 2 V 2 
+VNM 24    A 2 D 1 E 1 G 2 H 1 I 2 K 1 L 2 N 1 P 2 Q 1 R 3 S 1 T 2 V 2 
+VNN 48    A 4 D 2 E 2 G 4 H 2 I 3 K 2 L 4 M 1 N 2 P 4 Q 2 R 6 S 2 T 4 V 4 
+VNR 24    A 2 E 2 G 2 I 1 K 2 L 2 M 1 P 2 Q 2 R 4 T 2 V 2 
+VNS 24    A 2 D 1 E 1 G 2 H 1 I 1 K 1 L 2 M 1 N 1 P 2 Q 1 R 3 S 1 T 2 V 2 
+VNT 12    A 1 D 1 G 1 H 1 I 1 L 1 N 1 P 1 R 1 S 1 T 1 V 1 
+VNV 36    A 3 D 1 E 2 G 3 H 1 I 2 K 2 L 3 M 1 N 1 P 3 Q 2 R 5 S 1 T 3 V 3 
+VNW 24    A 2 D 1 E 1 G 2 H 1 I 2 K 1 L 2 N 1 P 2 Q 1 R 3 S 1 T 2 V 2 
+VNY 24    A 2 D 2 G 2 H 2 I 2 L 2 N 2 P 2 R 2 S 2 T 2 V 2 
+VRA 6     E 1 G 1 K 1 Q 1 R 2 
+VRB 18    D 2 E 1 G 3 H 2 K 1 N 2 Q 1 R 4 S 2 
+VRC 6     D 1 G 1 H 1 N 1 R 1 S 1 
+VRD 18    D 1 E 2 G 3 H 1 K 2 N 1 Q 2 R 5 S 1 
+VRG 6     E 1 G 1 K 1 Q 1 R 2 
+VRH 18    D 2 E 1 G 3 H 2 K 1 N 2 Q 1 R 4 S 2 
+VRK 12    D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 
+VRM 12    D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 
+VRN 24    D 2 E 2 G 4 H 2 K 2 N 2 Q 2 R 6 S 2 
+VRR 12    E 2 G 2 K 2 Q 2 R 4 
+VRS 12    D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 
+VRT 6     D 1 G 1 H 1 N 1 R 1 S 1 
+VRV 18    D 1 E 2 G 3 H 1 K 2 N 1 Q 2 R 5 S 1 
+VRW 12    D 1 E 1 G 2 H 1 K 1 N 1 Q 1 R 3 S 1 
+VRY 12    D 2 G 2 H 2 N 2 R 2 S 2 
+VSA 6     A 1 G 1 P 1 R 2 T 1 
+VSB 18    A 3 G 3 P 3 R 4 S 2 T 3 
+VSC 6     A 1 G 1 P 1 R 1 S 1 T 1 
+VSD 18    A 3 G 3 P 3 R 5 S 1 T 3 
+VSG 6     A 1 G 1 P 1 R 2 T 1 
+VSH 18    A 3 G 3 P 3 R 4 S 2 T 3 
+VSK 12    A 2 G 2 P 2 R 3 S 1 T 2 
+VSM 12    A 2 G 2 P 2 R 3 S 1 T 2 
+VSN 24    A 4 G 4 P 4 R 6 S 2 T 4 
+VSR 12    A 2 G 2 P 2 R 4 T 2 
+VSS 12    A 2 G 2 P 2 R 3 S 1 T 2 
+VST 6     A 1 G 1 P 1 R 1 S 1 T 1 
+VSV 18    A 3 G 3 P 3 R 5 S 1 T 3 
+VSW 12    A 2 G 2 P 2 R 3 S 1 T 2 
+VSY 12    A 2 G 2 P 2 R 2 S 2 T 2 
+VTA 3     I 1 L 1 V 1 
+VTB 9     I 2 L 3 M 1 V 3 
+VTC 3     I 1 L 1 V 1 
+VTD 9     I 2 L 3 M 1 V 3 
+VTG 3     L 1 M 1 V 1 
+VTH 9     I 3 L 3 V 3 
+VTK 6     I 1 L 2 M 1 V 2 
+VTM 6     I 2 L 2 V 2 
+VTN 12    I 3 L 4 M 1 V 4 
+VTR 6     I 1 L 2 M 1 V 2 
+VTS 6     I 1 L 2 M 1 V 2 
+VTT 3     I 1 L 1 V 1 
+VTV 9     I 2 L 3 M 1 V 3 
+VTW 6     I 2 L 2 V 2 
+VTY 6     I 2 L 2 V 2 
+VVA 9     A 1 E 1 G 1 K 1 P 1 Q 1 R 2 T 1 
+VVB 27    A 3 D 2 E 1 G 3 H 2 K 1 N 2 P 3 Q 1 R 4 S 2 T 3 
+VVC 9     A 1 D 1 G 1 H 1 N 1 P 1 R 1 S 1 T 1 
+VVD 27    A 3 D 1 E 2 G 3 H 1 K 2 N 1 P 3 Q 2 R 5 S 1 T 3 
+VVG 9     A 1 E 1 G 1 K 1 P 1 Q 1 R 2 T 1 
+VVH 27    A 3 D 2 E 1 G 3 H 2 K 1 N 2 P 3 Q 1 R 4 S 2 T 3 
+VVK 18    A 2 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+VVM 18    A 2 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+VVN 36    A 4 D 2 E 2 G 4 H 2 K 2 N 2 P 4 Q 2 R 6 S 2 T 4 
+VVR 18    A 2 E 2 G 2 K 2 P 2 Q 2 R 4 T 2 
+VVS 18    A 2 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+VVT 9     A 1 D 1 G 1 H 1 N 1 P 1 R 1 S 1 T 1 
+VVV 27    A 3 D 1 E 2 G 3 H 1 K 2 N 1 P 3 Q 2 R 5 S 1 T 3 
+VVW 18    A 2 D 1 E 1 G 2 H 1 K 1 N 1 P 2 Q 1 R 3 S 1 T 2 
+VVY 18    A 2 D 2 G 2 H 2 N 2 P 2 R 2 S 2 T 2 
+VWA 6     E 1 I 1 K 1 L 1 Q 1 V 1 
+VWB 18    D 2 E 1 H 2 I 2 K 1 L 3 M 1 N 2 Q 1 V 3 
+VWC 6     D 1 H 1 I 1 L 1 N 1 V 1 
+VWD 18    D 1 E 2 H 1 I 2 K 2 L 3 M 1 N 1 Q 2 V 3 
+VWG 6     E 1 K 1 L 1 M 1 Q 1 V 1 
+VWH 18    D 2 E 1 H 2 I 3 K 1 L 3 N 2 Q 1 V 3 
+VWK 12    D 1 E 1 H 1 I 1 K 1 L 2 M 1 N 1 Q 1 V 2 
+VWM 12    D 1 E 1 H 1 I 2 K 1 L 2 N 1 Q 1 V 2 
+VWN 24    D 2 E 2 H 2 I 3 K 2 L 4 M 1 N 2 Q 2 V 4 
+VWR 12    E 2 I 1 K 2 L 2 M 1 Q 2 V 2 
+VWS 12    D 1 E 1 H 1 I 1 K 1 L 2 M 1 N 1 Q 1 V 2 
+VWT 6     D 1 H 1 I 1 L 1 N 1 V 1 
+VWV 18    D 1 E 2 H 1 I 2 K 2 L 3 M 1 N 1 Q 2 V 3 
+VWW 12    D 1 E 1 H 1 I 2 K 1 L 2 N 1 Q 1 V 2 
+VWY 12    D 2 H 2 I 2 L 2 N 2 V 2 
+VYA 6     A 1 I 1 L 1 P 1 T 1 V 1 
+VYB 18    A 3 I 2 L 3 M 1 P 3 T 3 V 3 
+VYC 6     A 1 I 1 L 1 P 1 T 1 V 1 
+VYD 18    A 3 I 2 L 3 M 1 P 3 T 3 V 3 
+VYG 6     A 1 L 1 M 1 P 1 T 1 V 1 
+VYH 18    A 3 I 3 L 3 P 3 T 3 V 3 
+VYK 12    A 2 I 1 L 2 M 1 P 2 T 2 V 2 
+VYM 12    A 2 I 2 L 2 P 2 T 2 V 2 
+VYN 24    A 4 I 3 L 4 M 1 P 4 T 4 V 4 
+VYR 12    A 2 I 1 L 2 M 1 P 2 T 2 V 2 
+VYS 12    A 2 I 1 L 2 M 1 P 2 T 2 V 2 
+VYT 6     A 1 I 1 L 1 P 1 T 1 V 1 
+VYV 18    A 3 I 2 L 3 M 1 P 3 T 3 V 3 
+VYW 12    A 2 I 2 L 2 P 2 T 2 V 2 
+VYY 12    A 2 I 2 L 2 P 2 T 2 V 2 
+WAA 2     K 1 Z 1 
+WAB 6     K 1 N 2 Y 2 Z 1 
+WAC 2     N 1 Y 1 
+WAD 6     K 2 N 1 Y 1 Z 2 
+WAG 2     K 1 Z 1 
+WAH 6     K 1 N 2 Y 2 Z 1 
+WAK 4     K 1 N 1 Y 1 Z 1 
+WAM 4     K 1 N 1 Y 1 Z 1 
+WAN 8     K 2 N 2 Y 2 Z 2 
+WAR 4     K 2 Z 2 
+WAS 4     K 1 N 1 Y 1 Z 1 
+WAT 2     N 1 Y 1 
+WAV 6     K 2 N 1 Y 1 Z 2 
+WAW 4     K 1 N 1 Y 1 Z 1 
+WAY 4     N 2 Y 2 
+WBA 6     I 1 L 1 R 1 S 1 T 1 Z 1 
+WBB 18    C 2 F 2 I 2 L 1 M 1 R 1 S 5 T 3 W 1 
+WBC 6     C 1 F 1 I 1 S 2 T 1 
+WBD 18    C 1 F 1 I 2 L 2 M 1 R 2 S 4 T 3 W 1 Z 1 
+WBG 6     L 1 M 1 R 1 S 1 T 1 W 1 
+WBH 18    C 2 F 2 I 3 L 1 R 1 S 5 T 3 Z 1 
+WBK 12    C 1 F 1 I 1 L 1 M 1 R 1 S 3 T 2 W 1 
+WBM 12    C 1 F 1 I 2 L 1 R 1 S 3 T 2 Z 1 
+WBN 24    C 2 F 2 I 3 L 2 M 1 R 2 S 6 T 4 W 1 Z 1 
+WBR 12    I 1 L 2 M 1 R 2 S 2 T 2 W 1 Z 1 
+WBS 12    C 1 F 1 I 1 L 1 M 1 R 1 S 3 T 2 W 1 
+WBT 6     C 1 F 1 I 1 S 2 T 1 
+WBV 18    C 1 F 1 I 2 L 2 M 1 R 2 S 4 T 3 W 1 Z 1 
+WBW 12    C 1 F 1 I 2 L 1 R 1 S 3 T 2 Z 1 
+WBY 12    C 2 F 2 I 2 S 4 T 2 
+WCA 2     S 1 T 1 
+WCB 6     S 3 T 3 
+WCC 2     S 1 T 1 
+WCD 6     S 3 T 3 
+WCG 2     S 1 T 1 
+WCH 6     S 3 T 3 
+WCK 4     S 2 T 2 
+WCM 4     S 2 T 2 
+WCN 8     S 4 T 4 
+WCR 4     S 2 T 2 
+WCS 4     S 2 T 2 
+WCT 2     S 1 T 1 
+WCV 6     S 3 T 3 
+WCW 4     S 2 T 2 
+WCY 4     S 2 T 2 
+WDA 6     I 1 K 1 L 1 R 1 Z 2 
+WDB 18    C 2 F 2 I 2 K 1 L 1 M 1 N 2 R 1 S 2 W 1 Y 2 Z 1 
+WDC 6     C 1 F 1 I 1 N 1 S 1 Y 1 
+WDD 18    C 1 F 1 I 2 K 2 L 2 M 1 N 1 R 2 S 1 W 1 Y 1 Z 3 
+WDG 6     K 1 L 1 M 1 R 1 W 1 Z 1 
+WDH 18    C 2 F 2 I 3 K 1 L 1 N 2 R 1 S 2 Y 2 Z 2 
+WDK 12    C 1 F 1 I 1 K 1 L 1 M 1 N 1 R 1 S 1 W 1 Y 1 Z 1 
+WDM 12    C 1 F 1 I 2 K 1 L 1 N 1 R 1 S 1 Y 1 Z 2 
+WDN 24    C 2 F 2 I 3 K 2 L 2 M 1 N 2 R 2 S 2 W 1 Y 2 Z 3 
+WDR 12    I 1 K 2 L 2 M 1 R 2 W 1 Z 3 
+WDS 12    C 1 F 1 I 1 K 1 L 1 M 1 N 1 R 1 S 1 W 1 Y 1 Z 1 
+WDT 6     C 1 F 1 I 1 N 1 S 1 Y 1 
+WDV 18    C 1 F 1 I 2 K 2 L 2 M 1 N 1 R 2 S 1 W 1 Y 1 Z 3 
+WDW 12    C 1 F 1 I 2 K 1 L 1 N 1 R 1 S 1 Y 1 Z 2 
+WDY 12    C 2 F 2 I 2 N 2 S 2 Y 2 
+WGA 2     R 1 Z 1 
+WGB 6     C 2 R 1 S 2 W 1 
+WGC 2     C 1 S 1 
+WGD 6     C 1 R 2 S 1 W 1 Z 1 
+WGG 2     R 1 W 1 
+WGH 6     C 2 R 1 S 2 Z 1 
+WGK 4     C 1 R 1 S 1 W 1 
+WGM 4     C 1 R 1 S 1 Z 1 
+WGN 8     C 2 R 2 S 2 W 1 Z 1 
+WGR 4     R 2 W 1 Z 1 
+WGS 4     C 1 R 1 S 1 W 1 
+WGT 2     C 1 S 1 
+WGV 6     C 1 R 2 S 1 W 1 Z 1 
+WGW 4     C 1 R 1 S 1 Z 1 
+WGY 4     C 2 S 2 
+WHA 6     I 1 K 1 L 1 S 1 T 1 Z 1 
+WHB 18    F 2 I 2 K 1 L 1 M 1 N 2 S 3 T 3 Y 2 Z 1 
+WHC 6     F 1 I 1 N 1 S 1 T 1 Y 1 
+WHD 18    F 1 I 2 K 2 L 2 M 1 N 1 S 3 T 3 Y 1 Z 2 
+WHG 6     K 1 L 1 M 1 S 1 T 1 Z 1 
+WHH 18    F 2 I 3 K 1 L 1 N 2 S 3 T 3 Y 2 Z 1 
+WHK 12    F 1 I 1 K 1 L 1 M 1 N 1 S 2 T 2 Y 1 Z 1 
+WHM 12    F 1 I 2 K 1 L 1 N 1 S 2 T 2 Y 1 Z 1 
+WHN 24    F 2 I 3 K 2 L 2 M 1 N 2 S 4 T 4 Y 2 Z 2 
+WHR 12    I 1 K 2 L 2 M 1 S 2 T 2 Z 2 
+WHS 12    F 1 I 1 K 1 L 1 M 1 N 1 S 2 T 2 Y 1 Z 1 
+WHT 6     F 1 I 1 N 1 S 1 T 1 Y 1 
+WHV 18    F 1 I 2 K 2 L 2 M 1 N 1 S 3 T 3 Y 1 Z 2 
+WHW 12    F 1 I 2 K 1 L 1 N 1 S 2 T 2 Y 1 Z 1 
+WHY 12    F 2 I 2 N 2 S 2 T 2 Y 2 
+WKA 4     I 1 L 1 R 1 Z 1 
+WKB 12    C 2 F 2 I 2 L 1 M 1 R 1 S 2 W 1 
+WKC 4     C 1 F 1 I 1 S 1 
+WKD 12    C 1 F 1 I 2 L 2 M 1 R 2 S 1 W 1 Z 1 
+WKG 4     L 1 M 1 R 1 W 1 
+WKH 12    C 2 F 2 I 3 L 1 R 1 S 2 Z 1 
+WKK 8     C 1 F 1 I 1 L 1 M 1 R 1 S 1 W 1 
+WKM 8     C 1 F 1 I 2 L 1 R 1 S 1 Z 1 
+WKN 16    C 2 F 2 I 3 L 2 M 1 R 2 S 2 W 1 Z 1 
+WKR 8     I 1 L 2 M 1 R 2 W 1 Z 1 
+WKS 8     C 1 F 1 I 1 L 1 M 1 R 1 S 1 W 1 
+WKT 4     C 1 F 1 I 1 S 1 
+WKV 12    C 1 F 1 I 2 L 2 M 1 R 2 S 1 W 1 Z 1 
+WKW 8     C 1 F 1 I 2 L 1 R 1 S 1 Z 1 
+WKY 8     C 2 F 2 I 2 S 2 
+WMA 4     K 1 S 1 T 1 Z 1 
+WMB 12    K 1 N 2 S 3 T 3 Y 2 Z 1 
+WMC 4     N 1 S 1 T 1 Y 1 
+WMD 12    K 2 N 1 S 3 T 3 Y 1 Z 2 
+WMG 4     K 1 S 1 T 1 Z 1 
+WMH 12    K 1 N 2 S 3 T 3 Y 2 Z 1 
+WMK 8     K 1 N 1 S 2 T 2 Y 1 Z 1 
+WMM 8     K 1 N 1 S 2 T 2 Y 1 Z 1 
+WMN 16    K 2 N 2 S 4 T 4 Y 2 Z 2 
+WMR 8     K 2 S 2 T 2 Z 2 
+WMS 8     K 1 N 1 S 2 T 2 Y 1 Z 1 
+WMT 4     N 1 S 1 T 1 Y 1 
+WMV 12    K 2 N 1 S 3 T 3 Y 1 Z 2 
+WMW 8     K 1 N 1 S 2 T 2 Y 1 Z 1 
+WMY 8     N 2 S 2 T 2 Y 2 
+WNA 8     I 1 K 1 L 1 R 1 S 1 T 1 Z 2 
+WNB 24    C 2 F 2 I 2 K 1 L 1 M 1 N 2 R 1 S 5 T 3 W 1 Y 2 Z 1 
+WNC 8     C 1 F 1 I 1 N 1 S 2 T 1 Y 1 
+WND 24    C 1 F 1 I 2 K 2 L 2 M 1 N 1 R 2 S 4 T 3 W 1 Y 1 Z 3 
+WNG 8     K 1 L 1 M 1 R 1 S 1 T 1 W 1 Z 1 
+WNH 24    C 2 F 2 I 3 K 1 L 1 N 2 R 1 S 5 T 3 Y 2 Z 2 
+WNK 16    C 1 F 1 I 1 K 1 L 1 M 1 N 1 R 1 S 3 T 2 W 1 Y 1 Z 1 
+WNM 16    C 1 F 1 I 2 K 1 L 1 N 1 R 1 S 3 T 2 Y 1 Z 2 
+WNN 32    C 2 F 2 I 3 K 2 L 2 M 1 N 2 R 2 S 6 T 4 W 1 Y 2 Z 3 
+WNR 16    I 1 K 2 L 2 M 1 R 2 S 2 T 2 W 1 Z 3 
+WNS 16    C 1 F 1 I 1 K 1 L 1 M 1 N 1 R 1 S 3 T 2 W 1 Y 1 Z 1 
+WNT 8     C 1 F 1 I 1 N 1 S 2 T 1 Y 1 
+WNV 24    C 1 F 1 I 2 K 2 L 2 M 1 N 1 R 2 S 4 T 3 W 1 Y 1 Z 3 
+WNW 16    C 1 F 1 I 2 K 1 L 1 N 1 R 1 S 3 T 2 Y 1 Z 2 
+WNY 16    C 2 F 2 I 2 N 2 S 4 T 2 Y 2 
+WRA 4     K 1 R 1 Z 2 
+WRB 12    C 2 K 1 N 2 R 1 S 2 W 1 Y 2 Z 1 
+WRC 4     C 1 N 1 S 1 Y 1 
+WRD 12    C 1 K 2 N 1 R 2 S 1 W 1 Y 1 Z 3 
+WRG 4     K 1 R 1 W 1 Z 1 
+WRH 12    C 2 K 1 N 2 R 1 S 2 Y 2 Z 2 
+WRK 8     C 1 K 1 N 1 R 1 S 1 W 1 Y 1 Z 1 
+WRM 8     C 1 K 1 N 1 R 1 S 1 Y 1 Z 2 
+WRN 16    C 2 K 2 N 2 R 2 S 2 W 1 Y 2 Z 3 
+WRR 8     K 2 R 2 W 1 Z 3 
+WRS 8     C 1 K 1 N 1 R 1 S 1 W 1 Y 1 Z 1 
+WRT 4     C 1 N 1 S 1 Y 1 
+WRV 12    C 1 K 2 N 1 R 2 S 1 W 1 Y 1 Z 3 
+WRW 8     C 1 K 1 N 1 R 1 S 1 Y 1 Z 2 
+WRY 8     C 2 N 2 S 2 Y 2 
+WSA 4     R 1 S 1 T 1 Z 1 
+WSB 12    C 2 R 1 S 5 T 3 W 1 
+WSC 4     C 1 S 2 T 1 
+WSD 12    C 1 R 2 S 4 T 3 W 1 Z 1 
+WSG 4     R 1 S 1 T 1 W 1 
+WSH 12    C 2 R 1 S 5 T 3 Z 1 
+WSK 8     C 1 R 1 S 3 T 2 W 1 
+WSM 8     C 1 R 1 S 3 T 2 Z 1 
+WSN 16    C 2 R 2 S 6 T 4 W 1 Z 1 
+WSR 8     R 2 S 2 T 2 W 1 Z 1 
+WSS 8     C 1 R 1 S 3 T 2 W 1 
+WST 4     C 1 S 2 T 1 
+WSV 12    C 1 R 2 S 4 T 3 W 1 Z 1 
+WSW 8     C 1 R 1 S 3 T 2 Z 1 
+WSY 8     C 2 S 4 T 2 
+WTA 2     I 1 L 1 
+WTB 6     F 2 I 2 L 1 M 1 
+WTC 2     F 1 I 1 
+WTD 6     F 1 I 2 L 2 M 1 
+WTG 2     L 1 M 1 
+WTH 6     F 2 I 3 L 1 
+WTK 4     F 1 I 1 L 1 M 1 
+WTM 4     F 1 I 2 L 1 
+WTN 8     F 2 I 3 L 2 M 1 
+WTR 4     I 1 L 2 M 1 
+WTS 4     F 1 I 1 L 1 M 1 
+WTT 2     F 1 I 1 
+WTV 6     F 1 I 2 L 2 M 1 
+WTW 4     F 1 I 2 L 1 
+WTY 4     F 2 I 2 
+WVA 6     K 1 R 1 S 1 T 1 Z 2 
+WVB 18    C 2 K 1 N 2 R 1 S 5 T 3 W 1 Y 2 Z 1 
+WVC 6     C 1 N 1 S 2 T 1 Y 1 
+WVD 18    C 1 K 2 N 1 R 2 S 4 T 3 W 1 Y 1 Z 3 
+WVG 6     K 1 R 1 S 1 T 1 W 1 Z 1 
+WVH 18    C 2 K 1 N 2 R 1 S 5 T 3 Y 2 Z 2 
+WVK 12    C 1 K 1 N 1 R 1 S 3 T 2 W 1 Y 1 Z 1 
+WVM 12    C 1 K 1 N 1 R 1 S 3 T 2 Y 1 Z 2 
+WVN 24    C 2 K 2 N 2 R 2 S 6 T 4 W 1 Y 2 Z 3 
+WVR 12    K 2 R 2 S 2 T 2 W 1 Z 3 
+WVS 12    C 1 K 1 N 1 R 1 S 3 T 2 W 1 Y 1 Z 1 
+WVT 6     C 1 N 1 S 2 T 1 Y 1 
+WVV 18    C 1 K 2 N 1 R 2 S 4 T 3 W 1 Y 1 Z 3 
+WVW 12    C 1 K 1 N 1 R 1 S 3 T 2 Y 1 Z 2 
+WVY 12    C 2 N 2 S 4 T 2 Y 2 
+WWA 4     I 1 K 1 L 1 Z 1 
+WWB 12    F 2 I 2 K 1 L 1 M 1 N 2 Y 2 Z 1 
+WWC 4     F 1 I 1 N 1 Y 1 
+WWD 12    F 1 I 2 K 2 L 2 M 1 N 1 Y 1 Z 2 
+WWG 4     K 1 L 1 M 1 Z 1 
+WWH 12    F 2 I 3 K 1 L 1 N 2 Y 2 Z 1 
+WWK 8     F 1 I 1 K 1 L 1 M 1 N 1 Y 1 Z 1 
+WWM 8     F 1 I 2 K 1 L 1 N 1 Y 1 Z 1 
+WWN 16    F 2 I 3 K 2 L 2 M 1 N 2 Y 2 Z 2 
+WWR 8     I 1 K 2 L 2 M 1 Z 2 
+WWS 8     F 1 I 1 K 1 L 1 M 1 N 1 Y 1 Z 1 
+WWT 4     F 1 I 1 N 1 Y 1 
+WWV 12    F 1 I 2 K 2 L 2 M 1 N 1 Y 1 Z 2 
+WWW 8     F 1 I 2 K 1 L 1 N 1 Y 1 Z 1 
+WWY 8     F 2 I 2 N 2 Y 2 
+WYA 4     I 1 L 1 S 1 T 1 
+WYB 12    F 2 I 2 L 1 M 1 S 3 T 3 
+WYC 4     F 1 I 1 S 1 T 1 
+WYD 12    F 1 I 2 L 2 M 1 S 3 T 3 
+WYG 4     L 1 M 1 S 1 T 1 
+WYH 12    F 2 I 3 L 1 S 3 T 3 
+WYK 8     F 1 I 1 L 1 M 1 S 2 T 2 
+WYM 8     F 1 I 2 L 1 S 2 T 2 
+WYN 16    F 2 I 3 L 2 M 1 S 4 T 4 
+WYR 8     I 1 L 2 M 1 S 2 T 2 
+WYS 8     F 1 I 1 L 1 M 1 S 2 T 2 
+WYT 4     F 1 I 1 S 1 T 1 
+WYV 12    F 1 I 2 L 2 M 1 S 3 T 3 
+WYW 8     F 1 I 2 L 1 S 2 T 2 
+WYY 8     F 2 I 2 S 2 T 2 
+YAA 2     Q 1 Z 1 
+YAB 6     H 2 Q 1 Y 2 Z 1 
+YAC 2     H 1 Y 1 
+YAD 6     H 1 Q 2 Y 1 Z 2 
+YAG 2     Q 1 Z 1 
+YAH 6     H 2 Q 1 Y 2 Z 1 
+YAK 4     H 1 Q 1 Y 1 Z 1 
+YAM 4     H 1 Q 1 Y 1 Z 1 
+YAN 8     H 2 Q 2 Y 2 Z 2 
+YAR 4     Q 2 Z 2 
+YAS 4     H 1 Q 1 Y 1 Z 1 
+YAT 2     H 1 Y 1 
+YAV 6     H 1 Q 2 Y 1 Z 2 
+YAW 4     H 1 Q 1 Y 1 Z 1 
+YAY 4     H 2 Y 2 
+YBA 6     L 2 P 1 R 1 S 1 Z 1 
+YBB 18    C 2 F 2 L 4 P 3 R 3 S 3 W 1 
+YBC 6     C 1 F 1 L 1 P 1 R 1 S 1 
+YBD 18    C 1 F 1 L 5 P 3 R 3 S 3 W 1 Z 1 
+YBG 6     L 2 P 1 R 1 S 1 W 1 
+YBH 18    C 2 F 2 L 4 P 3 R 3 S 3 Z 1 
+YBK 12    C 1 F 1 L 3 P 2 R 2 S 2 W 1 
+YBM 12    C 1 F 1 L 3 P 2 R 2 S 2 Z 1 
+YBN 24    C 2 F 2 L 6 P 4 R 4 S 4 W 1 Z 1 
+YBR 12    L 4 P 2 R 2 S 2 W 1 Z 1 
+YBS 12    C 1 F 1 L 3 P 2 R 2 S 2 W 1 
+YBT 6     C 1 F 1 L 1 P 1 R 1 S 1 
+YBV 18    C 1 F 1 L 5 P 3 R 3 S 3 W 1 Z 1 
+YBW 12    C 1 F 1 L 3 P 2 R 2 S 2 Z 1 
+YBY 12    C 2 F 2 L 2 P 2 R 2 S 2 
+YCA 2     P 1 S 1 
+YCB 6     P 3 S 3 
+YCC 2     P 1 S 1 
+YCD 6     P 3 S 3 
+YCG 2     P 1 S 1 
+YCH 6     P 3 S 3 
+YCK 4     P 2 S 2 
+YCM 4     P 2 S 2 
+YCN 8     P 4 S 4 
+YCR 4     P 2 S 2 
+YCS 4     P 2 S 2 
+YCT 2     P 1 S 1 
+YCV 6     P 3 S 3 
+YCW 4     P 2 S 2 
+YCY 4     P 2 S 2 
+YDA 6     L 2 Q 1 R 1 Z 2 
+YDB 18    C 2 F 2 H 2 L 4 Q 1 R 3 W 1 Y 2 Z 1 
+YDC 6     C 1 F 1 H 1 L 1 R 1 Y 1 
+YDD 18    C 1 F 1 H 1 L 5 Q 2 R 3 W 1 Y 1 Z 3 
+YDG 6     L 2 Q 1 R 1 W 1 Z 1 
+YDH 18    C 2 F 2 H 2 L 4 Q 1 R 3 Y 2 Z 2 
+YDK 12    C 1 F 1 H 1 L 3 Q 1 R 2 W 1 Y 1 Z 1 
+YDM 12    C 1 F 1 H 1 L 3 Q 1 R 2 Y 1 Z 2 
+YDN 24    C 2 F 2 H 2 L 6 Q 2 R 4 W 1 Y 2 Z 3 
+YDR 12    L 4 Q 2 R 2 W 1 Z 3 
+YDS 12    C 1 F 1 H 1 L 3 Q 1 R 2 W 1 Y 1 Z 1 
+YDT 6     C 1 F 1 H 1 L 1 R 1 Y 1 
+YDV 18    C 1 F 1 H 1 L 5 Q 2 R 3 W 1 Y 1 Z 3 
+YDW 12    C 1 F 1 H 1 L 3 Q 1 R 2 Y 1 Z 2 
+YDY 12    C 2 F 2 H 2 L 2 R 2 Y 2 
+YGA 2     R 1 Z 1 
+YGB 6     C 2 R 3 W 1 
+YGC 2     C 1 R 1 
+YGD 6     C 1 R 3 W 1 Z 1 
+YGG 2     R 1 W 1 
+YGH 6     C 2 R 3 Z 1 
+YGK 4     C 1 R 2 W 1 
+YGM 4     C 1 R 2 Z 1 
+YGN 8     C 2 R 4 W 1 Z 1 
+YGR 4     R 2 W 1 Z 1 
+YGS 4     C 1 R 2 W 1 
+YGT 2     C 1 R 1 
+YGV 6     C 1 R 3 W 1 Z 1 
+YGW 4     C 1 R 2 Z 1 
+YGY 4     C 2 R 2 
+YHA 6     L 2 P 1 Q 1 S 1 Z 1 
+YHB 18    F 2 H 2 L 4 P 3 Q 1 S 3 Y 2 Z 1 
+YHC 6     F 1 H 1 L 1 P 1 S 1 Y 1 
+YHD 18    F 1 H 1 L 5 P 3 Q 2 S 3 Y 1 Z 2 
+YHG 6     L 2 P 1 Q 1 S 1 Z 1 
+YHH 18    F 2 H 2 L 4 P 3 Q 1 S 3 Y 2 Z 1 
+YHK 12    F 1 H 1 L 3 P 2 Q 1 S 2 Y 1 Z 1 
+YHM 12    F 1 H 1 L 3 P 2 Q 1 S 2 Y 1 Z 1 
+YHN 24    F 2 H 2 L 6 P 4 Q 2 S 4 Y 2 Z 2 
+YHR 12    L 4 P 2 Q 2 S 2 Z 2 
+YHS 12    F 1 H 1 L 3 P 2 Q 1 S 2 Y 1 Z 1 
+YHT 6     F 1 H 1 L 1 P 1 S 1 Y 1 
+YHV 18    F 1 H 1 L 5 P 3 Q 2 S 3 Y 1 Z 2 
+YHW 12    F 1 H 1 L 3 P 2 Q 1 S 2 Y 1 Z 1 
+YHY 12    F 2 H 2 L 2 P 2 S 2 Y 2 
+YKA 4     L 2 R 1 Z 1 
+YKB 12    C 2 F 2 L 4 R 3 W 1 
+YKC 4     C 1 F 1 L 1 R 1 
+YKD 12    C 1 F 1 L 5 R 3 W 1 Z 1 
+YKG 4     L 2 R 1 W 1 
+YKH 12    C 2 F 2 L 4 R 3 Z 1 
+YKK 8     C 1 F 1 L 3 R 2 W 1 
+YKM 8     C 1 F 1 L 3 R 2 Z 1 
+YKN 16    C 2 F 2 L 6 R 4 W 1 Z 1 
+YKR 8     L 4 R 2 W 1 Z 1 
+YKS 8     C 1 F 1 L 3 R 2 W 1 
+YKT 4     C 1 F 1 L 1 R 1 
+YKV 12    C 1 F 1 L 5 R 3 W 1 Z 1 
+YKW 8     C 1 F 1 L 3 R 2 Z 1 
+YKY 8     C 2 F 2 L 2 R 2 
+YMA 4     P 1 Q 1 S 1 Z 1 
+YMB 12    H 2 P 3 Q 1 S 3 Y 2 Z 1 
+YMC 4     H 1 P 1 S 1 Y 1 
+YMD 12    H 1 P 3 Q 2 S 3 Y 1 Z 2 
+YMG 4     P 1 Q 1 S 1 Z 1 
+YMH 12    H 2 P 3 Q 1 S 3 Y 2 Z 1 
+YMK 8     H 1 P 2 Q 1 S 2 Y 1 Z 1 
+YMM 8     H 1 P 2 Q 1 S 2 Y 1 Z 1 
+YMN 16    H 2 P 4 Q 2 S 4 Y 2 Z 2 
+YMR 8     P 2 Q 2 S 2 Z 2 
+YMS 8     H 1 P 2 Q 1 S 2 Y 1 Z 1 
+YMT 4     H 1 P 1 S 1 Y 1 
+YMV 12    H 1 P 3 Q 2 S 3 Y 1 Z 2 
+YMW 8     H 1 P 2 Q 1 S 2 Y 1 Z 1 
+YMY 8     H 2 P 2 S 2 Y 2 
+YNA 8     L 2 P 1 Q 1 R 1 S 1 Z 2 
+YNB 24    C 2 F 2 H 2 L 4 P 3 Q 1 R 3 S 3 W 1 Y 2 Z 1 
+YNC 8     C 1 F 1 H 1 L 1 P 1 R 1 S 1 Y 1 
+YND 24    C 1 F 1 H 1 L 5 P 3 Q 2 R 3 S 3 W 1 Y 1 Z 3 
+YNG 8     L 2 P 1 Q 1 R 1 S 1 W 1 Z 1 
+YNH 24    C 2 F 2 H 2 L 4 P 3 Q 1 R 3 S 3 Y 2 Z 2 
+YNK 16    C 1 F 1 H 1 L 3 P 2 Q 1 R 2 S 2 W 1 Y 1 Z 1 
+YNM 16    C 1 F 1 H 1 L 3 P 2 Q 1 R 2 S 2 Y 1 Z 2 
+YNN 32    C 2 F 2 H 2 L 6 P 4 Q 2 R 4 S 4 W 1 Y 2 Z 3 
+YNR 16    L 4 P 2 Q 2 R 2 S 2 W 1 Z 3 
+YNS 16    C 1 F 1 H 1 L 3 P 2 Q 1 R 2 S 2 W 1 Y 1 Z 1 
+YNT 8     C 1 F 1 H 1 L 1 P 1 R 1 S 1 Y 1 
+YNV 24    C 1 F 1 H 1 L 5 P 3 Q 2 R 3 S 3 W 1 Y 1 Z 3 
+YNW 16    C 1 F 1 H 1 L 3 P 2 Q 1 R 2 S 2 Y 1 Z 2 
+YNY 16    C 2 F 2 H 2 L 2 P 2 R 2 S 2 Y 2 
+YRA 4     Q 1 R 1 Z 2 
+YRB 12    C 2 H 2 Q 1 R 3 W 1 Y 2 Z 1 
+YRC 4     C 1 H 1 R 1 Y 1 
+YRD 12    C 1 H 1 Q 2 R 3 W 1 Y 1 Z 3 
+YRG 4     Q 1 R 1 W 1 Z 1 
+YRH 12    C 2 H 2 Q 1 R 3 Y 2 Z 2 
+YRK 8     C 1 H 1 Q 1 R 2 W 1 Y 1 Z 1 
+YRM 8     C 1 H 1 Q 1 R 2 Y 1 Z 2 
+YRN 16    C 2 H 2 Q 2 R 4 W 1 Y 2 Z 3 
+YRR 8     Q 2 R 2 W 1 Z 3 
+YRS 8     C 1 H 1 Q 1 R 2 W 1 Y 1 Z 1 
+YRT 4     C 1 H 1 R 1 Y 1 
+YRV 12    C 1 H 1 Q 2 R 3 W 1 Y 1 Z 3 
+YRW 8     C 1 H 1 Q 1 R 2 Y 1 Z 2 
+YRY 8     C 2 H 2 R 2 Y 2 
+YSA 4     P 1 R 1 S 1 Z 1 
+YSB 12    C 2 P 3 R 3 S 3 W 1 
+YSC 4     C 1 P 1 R 1 S 1 
+YSD 12    C 1 P 3 R 3 S 3 W 1 Z 1 
+YSG 4     P 1 R 1 S 1 W 1 
+YSH 12    C 2 P 3 R 3 S 3 Z 1 
+YSK 8     C 1 P 2 R 2 S 2 W 1 
+YSM 8     C 1 P 2 R 2 S 2 Z 1 
+YSN 16    C 2 P 4 R 4 S 4 W 1 Z 1 
+YSR 8     P 2 R 2 S 2 W 1 Z 1 
+YSS 8     C 1 P 2 R 2 S 2 W 1 
+YST 4     C 1 P 1 R 1 S 1 
+YSV 12    C 1 P 3 R 3 S 3 W 1 Z 1 
+YSW 8     C 1 P 2 R 2 S 2 Z 1 
+YSY 8     C 2 P 2 R 2 S 2 
+YTA 2     L 2 
+YTB 6     F 2 L 4 
+YTC 2     F 1 L 1 
+YTD 6     F 1 L 5 
+YTG 2     L 2 
+YTH 6     F 2 L 4 
+YTK 4     F 1 L 3 
+YTM 4     F 1 L 3 
+YTN 8     F 2 L 6 
+YTR 4     L 4 
+YTS 4     F 1 L 3 
+YTT 2     F 1 L 1 
+YTV 6     F 1 L 5 
+YTW 4     F 1 L 3 
+YTY 4     F 2 L 2 
+YVA 6     P 1 Q 1 R 1 S 1 Z 2 
+YVB 18    C 2 H 2 P 3 Q 1 R 3 S 3 W 1 Y 2 Z 1 
+YVC 6     C 1 H 1 P 1 R 1 S 1 Y 1 
+YVD 18    C 1 H 1 P 3 Q 2 R 3 S 3 W 1 Y 1 Z 3 
+YVG 6     P 1 Q 1 R 1 S 1 W 1 Z 1 
+YVH 18    C 2 H 2 P 3 Q 1 R 3 S 3 Y 2 Z 2 
+YVK 12    C 1 H 1 P 2 Q 1 R 2 S 2 W 1 Y 1 Z 1 
+YVM 12    C 1 H 1 P 2 Q 1 R 2 S 2 Y 1 Z 2 
+YVN 24    C 2 H 2 P 4 Q 2 R 4 S 4 W 1 Y 2 Z 3 
+YVR 12    P 2 Q 2 R 2 S 2 W 1 Z 3 
+YVS 12    C 1 H 1 P 2 Q 1 R 2 S 2 W 1 Y 1 Z 1 
+YVT 6     C 1 H 1 P 1 R 1 S 1 Y 1 
+YVV 18    C 1 H 1 P 3 Q 2 R 3 S 3 W 1 Y 1 Z 3 
+YVW 12    C 1 H 1 P 2 Q 1 R 2 S 2 Y 1 Z 2 
+YVY 12    C 2 H 2 P 2 R 2 S 2 Y 2 
+YWA 4     L 2 Q 1 Z 1 
+YWB 12    F 2 H 2 L 4 Q 1 Y 2 Z 1 
+YWC 4     F 1 H 1 L 1 Y 1 
+YWD 12    F 1 H 1 L 5 Q 2 Y 1 Z 2 
+YWG 4     L 2 Q 1 Z 1 
+YWH 12    F 2 H 2 L 4 Q 1 Y 2 Z 1 
+YWK 8     F 1 H 1 L 3 Q 1 Y 1 Z 1 
+YWM 8     F 1 H 1 L 3 Q 1 Y 1 Z 1 
+YWN 16    F 2 H 2 L 6 Q 2 Y 2 Z 2 
+YWR 8     L 4 Q 2 Z 2 
+YWS 8     F 1 H 1 L 3 Q 1 Y 1 Z 1 
+YWT 4     F 1 H 1 L 1 Y 1 
+YWV 12    F 1 H 1 L 5 Q 2 Y 1 Z 2 
+YWW 8     F 1 H 1 L 3 Q 1 Y 1 Z 1 
+YWY 8     F 2 H 2 L 2 Y 2 
+YYA 4     L 2 P 1 S 1 
+YYB 12    F 2 L 4 P 3 S 3 
+YYC 4     F 1 L 1 P 1 S 1 
+YYD 12    F 1 L 5 P 3 S 3 
+YYG 4     L 2 P 1 S 1 
+YYH 12    F 2 L 4 P 3 S 3 
+YYK 8     F 1 L 3 P 2 S 2 
+YYM 8     F 1 L 3 P 2 S 2 
+YYN 16    F 2 L 6 P 4 S 4 
+YYR 8     L 4 P 2 S 2 
+YYS 8     F 1 L 3 P 2 S 2 
+YYT 4     F 1 L 1 P 1 S 1 
+YYV 12    F 1 L 5 P 3 S 3 
+YYW 8     F 1 L 3 P 2 S 2 
+YYY 8     F 2 L 2 P 2 S 2 
